@@ -1,0 +1,31 @@
+hospital_id,hospital_name,hospital_type,city,state,region,bed_capacity,established_year,contact_number,email
+H001,MediCare Kochi North Campus,Multi-Speciality,Kochi,Kerala,South-KL,92,2006,04433218196,contact@medicarekochinorthca.in
+H002,MediCare Coimbatore Central,Multi-Speciality,Coimbatore,Tamil Nadu,South-TN,127,2004,04438908386,contact@medicarecoimbatorece.in
+H003,MediCare Vellore Annex,Multi-Speciality,Vellore,Tamil Nadu,South-TN,381,2006,04402654235,contact@medicarevelloreannex.in
+H004,MediCare Tiruchirapalli North Campus,Multi-Speciality,Tiruchirapalli,Tamil Nadu,South-TN,274,2001,04455940781,contact@medicaretiruchirapal.in
+H005,MediCare Belagavi North Campus,Multi-Speciality,Belagavi,Karnataka,South-KA,450,2007,04495931034,contact@medicarebelagavinort.in
+H006,MediCare Madurai Superspeciality Centre,Multi-Speciality,Madurai,Tamil Nadu,South-TN,131,2010,04447525534,contact@medicaremaduraisuper.in
+H007,MediCare Kozhikode North Campus,Multi-Speciality,Kozhikode,Kerala,South-KL,391,2018,04428327648,contact@medicarekozhikodenor.in
+H008,MediCare Vellore Multispeciality Centre 2,Multi-Speciality,Vellore,Tamil Nadu,South-TN,108,2005,04405641395,contact@medicarevelloremulti.in
+H009,MediCare Erode Annex,Multi-Speciality,Erode,Tamil Nadu,South-TN,282,2018,04472423884,contact@medicareerodeannex.in
+H010,MediCare Thrissur Heights,Multi-Speciality,Thrissur,Kerala,South-KL,378,2010,04453287101,contact@medicarethrissurheig.in
+H011,MediCare Salem South Campus,Multi-Speciality,Salem,Tamil Nadu,South-TN,428,2011,04491669784,contact@medicaresalemsouthca.in
+H012,MediCare Vijayawada Central,Multi-Speciality,Vijayawada,Andhra Pradesh,South-AP,428,2001,04484514627,contact@medicarevijayawadace.in
+H013,MediCare Chennai Institute of Medical Sciences,Multi-Speciality,Chennai,Tamil Nadu,South-TN,336,2003,04481489325,contact@medicarechennaiinsti.in
+H014,MediCare Tirunelveli Central,Multi-Speciality,Tirunelveli,Tamil Nadu,South-TN,386,2008,04470154303,contact@medicaretirunelvelic.in
+H015,MediCare Guntur North Campus,Multi-Speciality,Guntur,Andhra Pradesh,South-AP,123,2013,04418227824,contact@medicaregunturnorthc.in
+H016,MediCare Visakhapatnam Heights,Multi-Speciality,Visakhapatnam,Andhra Pradesh,South-AP,188,2015,04434657871,contact@medicarevisakhapatna.in
+H017,MediCare Vellore Superspeciality Centre 3,Multi-Speciality,Vellore,Tamil Nadu,South-TN,112,2008,04409839301,contact@medicarevelloresuper.in
+H018,MediCare Kozhikode Central 2,Multi-Speciality,Kozhikode,Kerala,South-KL,197,2000,04405183473,contact@medicarekozhikodecen.in
+H019,MediCare Vijayawada South Campus 2,Multi-Speciality,Vijayawada,Andhra Pradesh,South-AP,450,2016,04497376311,contact@medicarevijayawadaso.in
+H020,MediCare Thiruvananthapuram Heights,Multi-Speciality,Thiruvananthapuram,Kerala,South-KL,85,2011,04467010651,contact@medicarethiruvananth.in
+H021,MediCare Vellore Superspeciality Centre 4,Multi-Speciality,Vellore,Tamil Nadu,South-TN,177,2015,04472624731,contact@medicarevelloresuper.in
+H022,MediCare Warangal North Campus,Multi-Speciality,Warangal,Telangana,South-TS,105,2018,04480132677,contact@medicarewarangalnort.in
+H023,MediCare Erode Heights 2,Multi-Speciality,Erode,Tamil Nadu,South-TN,110,2003,04460647468,contact@medicareerodeheights.in
+H024,MediCare Thiruvananthapuram Annex 2,Multi-Speciality,Thiruvananthapuram,Kerala,South-KL,159,2004,04443098050,contact@medicarethiruvananth.in
+H025,MediCare Coimbatore Annex 2,Multi-Speciality,Coimbatore,Tamil Nadu,South-TN,337,2014,04420812191,contact@medicarecoimbatorean.in
+H026,MediCare Thiruvananthapuram Superspeciality Centre 3,Multi-Speciality,Thiruvananthapuram,Kerala,South-KL,286,2001,04493990916,contact@medicarethiruvananth.in
+H027,MediCare Thiruvananthapuram Multispeciality Centre 4,Multi-Speciality,Thiruvananthapuram,Kerala,South-KL,213,2004,04453462475,contact@medicarethiruvananth.in
+H028,MediCare Madurai Central 2,Multi-Speciality,Madurai,Tamil Nadu,South-TN,314,2017,04491183842,contact@medicaremaduraicentr.in
+H029,MediCare Hubballi North Campus,Multi-Speciality,Hubballi,Karnataka,South-KA,205,2009,04442784980,contact@medicarehubballinort.in
+H030,MediCare Thiruvananthapuram Institute of Medical Sciences 5,Multi-Speciality,Thiruvananthapuram,Kerala,South-KL,419,2001,04424118244,contact@medicarethiruvananth.in

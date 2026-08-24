@@ -1,0 +1,61 @@
+corporate_id,company_name,industry,city,contract_start_date,contract_end_date,employee_count
+CO001,TechSolutions Pvt Ltd,Information Technology,Chennai,2023-03-20,2025-03-20,1171
+CO002,ApexSolutions Pvt Ltd,Banking & Finance,Kochi,2021-05-08,2023-05-08,1818
+CO003,TechCorp Pvt Ltd,E-commerce,Madurai,2022-09-25,2024-09-25,4274
+CO004,NovaSoft Pvt Ltd,Manufacturing,Mumbai,2024-09-02,2026-09-02,2718
+CO005,ZenIndustries Pvt Ltd,Consulting,Kochi,2021-10-06,2023-10-06,105
+CO006,ApexSolutions Pvt Ltd,Education,Hyderabad,2023-04-14,2025-04-14,1777
+CO007,SkyIndustries Pvt Ltd,E-commerce,Visakhapatnam,2023-12-29,2025-12-29,2407
+CO008,TechSystems Pvt Ltd,Banking & Finance,Mysuru,2021-03-13,2023-03-13,3811
+CO009,PrimeSystems Pvt Ltd,Telecommunications,Pune,2022-06-30,2024-06-30,3177
+CO010,NovaSolutions Pvt Ltd,Retail,Gurugram,2024-02-24,2026-02-24,4279
+CO011,SkySoft Pvt Ltd,Pharmaceuticals,Delhi,2022-12-26,2024-12-26,1325
+CO012,NovaSolutions Pvt Ltd,Education,Vijayawada,2021-02-03,2023-02-03,327
+CO013,DeltaSoft Pvt Ltd,Consulting,Thiruvananthapuram,2021-11-17,2023-11-17,821
+CO014,SkyLogistics Pvt Ltd,Consulting,Gurugram,2024-07-15,2026-07-15,1336
+CO015,NovaIndustries Pvt Ltd,Manufacturing,Thiruvananthapuram,2024-10-09,2026-10-09,3447
+CO016,SkySoft Pvt Ltd,Logistics,Pune,2023-06-19,2025-06-19,2137
+CO017,DeltaSystems Pvt Ltd,Pharmaceuticals,Kozhikode,2022-11-09,2024-11-09,1174
+CO018,ApexCorp Pvt Ltd,Education,Visakhapatnam,2022-11-19,2024-11-19,3039
+CO019,TechSystems Pvt Ltd,Telecommunications,Hyderabad,2023-10-27,2025-10-27,2549
+CO020,ApexLogistics Pvt Ltd,Telecommunications,Madurai,2024-12-30,2026-12-30,1894
+CO021,ApexSystems Pvt Ltd,Consulting,Ahmedabad,2023-02-02,2025-02-02,4989
+CO022,GlobalLogistics Pvt Ltd,Telecommunications,Thiruvananthapuram,2022-12-19,2024-12-19,1041
+CO023,SkySolutions Pvt Ltd,Manufacturing,Delhi,2023-08-25,2025-08-25,1642
+CO024,ApexSolutions Pvt Ltd,Retail,Visakhapatnam,2023-08-25,2025-08-25,1670
+CO025,TechSolutions Pvt Ltd,Retail,Kozhikode,2023-06-07,2025-06-07,3411
+CO026,SkyIndustries Pvt Ltd,Education,Mumbai,2024-08-05,2026-08-05,2950
+CO027,SkyIndustries Pvt Ltd,Retail,Vijayawada,2023-11-21,2025-11-21,2418
+CO028,PrimeIndustries Pvt Ltd,Consulting,Kozhikode,2022-08-22,2024-08-22,2511
+CO029,PrimeSolutions Pvt Ltd,Consulting,Bengaluru,2024-11-07,2026-11-07,3883
+CO030,SkySoft Pvt Ltd,Consulting,Chennai,2023-04-19,2025-04-19,3349
+CO031,ZenIndustries Pvt Ltd,Manufacturing,Kochi,2023-10-10,2025-10-10,3256
+CO032,ApexLogistics Pvt Ltd,Information Technology,Kochi,2024-04-11,2026-04-11,2103
+CO033,DeltaSystems Pvt Ltd,Pharmaceuticals,Bengaluru,2022-12-12,2024-12-12,3320
+CO034,DeltaSolutions Pvt Ltd,Education,Warangal,2023-09-16,2025-09-16,3382
+CO035,GlobalSolutions Pvt Ltd,Education,Madurai,2024-05-23,2026-05-23,322
+CO036,GlobalSoft Pvt Ltd,Education,Ahmedabad,2024-03-31,2026-03-31,1000
+CO037,PrimeLogistics Pvt Ltd,Pharmaceuticals,Kochi,2024-06-24,2026-06-24,3660
+CO038,NovaCorp Pvt Ltd,Education,Thiruvananthapuram,2024-02-27,2026-02-27,3023
+CO039,NovaIndustries Pvt Ltd,Telecommunications,Bengaluru,2023-11-14,2025-11-14,4130
+CO040,TechLogistics Pvt Ltd,E-commerce,Thiruvananthapuram,2021-04-11,2023-04-11,566
+CO041,SkyLogistics Pvt Ltd,Retail,Mysuru,2022-09-08,2024-09-08,874
+CO042,ZenSolutions Pvt Ltd,Consulting,Chennai,2021-04-20,2023-04-20,4991
+CO043,NovaIndustries Pvt Ltd,E-commerce,Hyderabad,2023-08-23,2025-08-23,556
+CO044,DeltaSolutions Pvt Ltd,Consulting,Kochi,2023-01-14,2025-01-14,4551
+CO045,PrimeCorp Pvt Ltd,Retail,Thiruvananthapuram,2022-11-14,2024-11-14,4352
+CO046,DeltaLogistics Pvt Ltd,Consulting,Kochi,2023-04-11,2025-04-11,219
+CO047,NovaLogistics Pvt Ltd,Pharmaceuticals,Hyderabad,2021-10-04,2023-10-04,4568
+CO048,PrimeSoft Pvt Ltd,Information Technology,Gurugram,2022-01-10,2024-01-10,2988
+CO049,ApexCorp Pvt Ltd,Pharmaceuticals,Warangal,2022-07-07,2024-07-07,4637
+CO050,ApexSoft Pvt Ltd,Pharmaceuticals,Mangaluru,2024-06-16,2026-06-16,261
+CO051,TechSolutions Pvt Ltd,Telecommunications,Ahmedabad,2021-11-25,2023-11-25,2888
+CO052,ZenCorp Pvt Ltd,Education,Vijayawada,2021-08-30,2023-08-30,1588
+CO053,DeltaSoft Pvt Ltd,E-commerce,Chennai,2024-03-27,2026-03-27,2933
+CO054,ZenSoft Pvt Ltd,Education,Kochi,2021-05-08,2023-05-08,3527
+CO055,DeltaCorp Pvt Ltd,Banking & Finance,Thiruvananthapuram,2021-03-12,2023-03-12,4153
+CO056,DeltaSystems Pvt Ltd,Manufacturing,Gurugram,2022-07-20,2024-07-20,3360
+CO057,ApexSolutions Pvt Ltd,Banking & Finance,Vijayawada,2021-02-21,2023-02-21,3551
+CO058,NovaSolutions Pvt Ltd,Telecommunications,Gurugram,2024-05-13,2026-05-13,581
+CO059,PrimeSolutions Pvt Ltd,Education,Bengaluru,2022-03-22,2024-03-22,2197
+CO060,TechSolutions Pvt Ltd,Consulting,Delhi,2024-05-02,2026-05-02,3916

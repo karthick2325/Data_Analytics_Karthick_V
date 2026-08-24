@@ -1,0 +1,301 @@
+medicine_id,medicine_name,category,manufacturer,unit_price,stock_quantity
+MED0001,Amoxicillin 40mg,Antibiotic,Aurobindo Pharma,247.5,1407
+MED0002,Clopidogrel 500mg,Cardiac,Cadila Healthcare,150.66,4730
+MED0003,Vitamin B Complex 10mg,Vitamin & Supplement,Glenmark Pharmaceuticals,409.53,1796
+MED0004,Paracetamol 10mg,Antipyretic,Cipla,450.06,4714
+MED0005,Atorvastatin 650mg,Cardiac,Biocon,470.57,4551
+MED0006,Furosemide 10mg,Cardiac,Lupin,756.27,3543
+MED0007,Atorvastatin 40mg,Cardiac,Mankind Pharma,309.3,4719
+MED0008,Aspirin 250mg,Cardiac,Torrent Pharmaceuticals,628.75,1170
+MED0009,Rabeprazole 650mg,Antacid,Glenmark Pharmaceuticals,189.46,3001
+MED0010,Doxycycline 40mg,Antibiotic,Alkem Laboratories,371.81,1054
+MED0011,Cefixime 20mg,antibiotic,Dr. Reddy's Laboratories,654.44,3087
+MED0012,Pantoprazole 500mg,Antacid,Aurobindo Pharma,31.36,3659
+MED0013,Montelukast 40mg,Respiratory,Dr. Reddy's Laboratories,137.01,715
+MED0014,Rosuvastatin 40mg,Cardiac,Glenmark Pharmaceuticals,164.24,1231
+MED0015,Losartan 250mg,Antihypertensive,Aurobindo Pharma,31.01,394
+MED0016,Aspirin 10mg,Cardiac,Cadila Healthcare,817.85,2085
+MED0017,Iron Folic Acid 250mg,Vitamin & Supplement,Cadila Healthcare,760.26,2491
+MED0018,Enalapril 500mg,Antihypertensive,Glenmark Pharmaceuticals,376.22,723
+MED0019,Ondansetron 500mg,Gastrointestinal,Cadila Healthcare,226.36,213
+MED0020,Ranitidine 40mg,Antacid,Abbott India,502.86,4472
+MED0021,Domperidone 10mg,Gastrointestinal,Aurobindo Pharma,372.31,4565
+MED0022,Vitamin D3 40mg,Vitamin & Supplement,Dr. Reddy's Laboratories,533.25,1405
+MED0023,Azithromycin 20mg,Antibiotic,Torrent Pharmaceuticals,700.2,1631
+MED0024,Ranitidine 20mg,Antacid,Torrent Pharmaceuticals,743.22,2326
+MED0025,Warfarin 650mg,Cardiac,Torrent Pharmaceuticals,841.46,4489
+MED0026,Ibuprofen 20mg,Analgesic,Abbott India,686.27,3159
+MED0027,Calcium Carbonate 250mg,Vitamin & Supplement,Lupin,132.53,2923
+MED0028,Enalapril 250mg,Antihypertensive,Dr. Reddy's Laboratories,135.67,1057
+MED0029,Rabeprazole 250mg,Antacid,Biocon,377.68,1605
+MED0030,Amoxicillin 250mg,Antibiotic,Alkem Laboratories,341.61,3400
+MED0031,Omeprazole 10mg,Antacid,Biocon,550.91,738
+MED0032,Cetirizine 10mg,Antiallergic,Zydus Lifesciences,54.41,585
+MED0033,Cefixime 250mg,Antibiotic,Abbott India,567.46,407
+MED0034,Levocetirizine 20mg,Antiallergic,Mankind Pharma,664.25,228
+MED0035,Iron Folic Acid 20mg,Vitamin & Supplement,Dr. Reddy's Laboratories,142.8,4108
+MED0036,Insulin Glargine 650mg,Antidiabetic,Mankind Pharma,215.0,3309
+MED0037,Vitamin D3 250mg,Vitamin & Supplement,Lupin,696.15,1758
+MED0038,Metformin 10mg,Antidiabetic,Torrent Pharmaceuticals,413.62,2864
+MED0039,Metronidazole 250mg,Antibiotic,Biocon,569.05,4315
+MED0040,Calcium Carbonate 10mg,Vitamin & Supplement,Biocon,557.6,4081
+MED0041,Losartan 500mg,Antihypertensive,Alkem Laboratories,682.15,4059
+MED0042,Clopidogrel 650mg,Cardiac,Biocon,140.78,3672
+MED0043,Doxycycline 20mg,Antibiotic,Torrent Pharmaceuticals,38.69,3989
+MED0044,Azithromycin 40mg,Antibiotic,Biocon,562.6,1093
+MED0045,Metronidazole 10mg,Antibiotic,Cadila Healthcare,131.23,2876
+MED0046,Ciprofloxacin 20mg,Antibiotic,Lupin,229.15,840
+MED0047,Diclofenac 650mg,Analgesic,Sun Pharma,578.63,866
+MED0048,Vitamin D3 20mg,Vitamin & Supplement,Dr. Reddy's Laboratories,81.87,3828
+MED0049,Rabeprazole 10mg,Antacid,Dr. Reddy's Laboratories,163.05,2653
+MED0050,Azithromycin 650mg,Antibiotic,Lupin,594.45,1328
+MED0051,Clopidogrel 40mg,Cardiac,Mankind Pharma,455.59,3543
+MED0052,Azithromycin 500mg,Antibiotic,Cadila Healthcare,651.02,4874
+MED0053,Diclofenac 500mg,Analgesic,Cipla,234.12,1690
+MED0054,Cetirizine 250mg,Antiallergic,Glenmark Pharmaceuticals,832.67,1075
+MED0055,Doxycycline 650mg,Antibiotic,Dr. Reddy's Laboratories,276.77,2760
+MED0056,Ciprofloxacin 650mg,Antibiotic,Dr. Reddy's Laboratories,836.58,3220
+MED0057,Amlodipine 500mg,Antihypertensive,Aurobindo Pharma,521.49,1701
+MED0058,Zinc Sulphate 20mg,Vitamin & Supplement,Zydus Lifesciences,428.42,2120
+MED0059,Cefixime 10mg,Antibiotic,Zydus Lifesciences,148.43,2647
+MED0060,Clopidogrel 20mg,Cardiac,Mankind Pharma,387.57,3312
+MED0061,Glimepiride 20mg,Antidiabetic,Cipla,507.56,1140
+MED0062,Furosemide 500mg,Cardiac,Cipla,764.27,2202
+MED0063,Ranitidine 10mg,Antacid,Sun Pharma,102.29,3493
+MED0064,Doxycycline 250mg,Antibiotic,Sun Pharma,35.47,3334
+MED0065,Diclofenac 10mg,Analgesic,Cadila Healthcare,785.92,111
+MED0066,Calcium Carbonate 500mg,Vitamin & Supplement,Lupin,669.46,1658
+MED0067,Pioglitazone 650mg,Antidiabetic,Biocon,607.71,1573
+MED0068,Glimepiride 250mg,Antidiabetic,Sun Pharma,132.31,2773
+MED0069,Omeprazole 250mg,Antacid,Torrent Pharmaceuticals,645.1,4621
+MED0070,Amlodipine 10mg,Antihypertensive,Alkem Laboratories,168.96,3400
+MED0071,Paracetamol 250mg,Antipyretic,Torrent Pharmaceuticals,271.73,1247
+MED0072,Salbutamol 20mg,Respiratory,Dr. Reddy's Laboratories,812.09,3007
+MED0073,Zinc Sulphate 10mg,Vitamin & Supplement,Alkem Laboratories,751.12,1895
+MED0074,Domperidone 250mg,Gastrointestinal,Zydus Lifesciences,448.28,2562
+MED0075,Calcium Carbonate 650mg,Vitamin & Supplement,Mankind Pharma,318.04,2287
+MED0076,Ciprofloxacin 40mg,Antibiotic,Lupin,405.64,2548
+MED0077,Furosemide 250mg,Cardiac,Biocon,834.77,4319
+MED0078,Paracetamol 40mg,Antipyretic,Cipla,254.85,1214
+MED0079,Ibuprofen 40mg,Analgesic,Dr. Reddy's Laboratories,533.32,1247
+MED0080,Clopidogrel 250mg,Cardiac,Biocon,461.91,3992
+MED0081,Warfarin 500mg,Cardiac,Dr. Reddy's Laboratories,142.91,3864
+MED0082,Digoxin 500mg,Cardiac,Aurobindo Pharma,842.06,4852
+MED0083,Ibuprofen 10mg,Analgesic,Aurobindo Pharma,250.77,1488
+MED0084,Enalapril 40mg,Antihypertensive,Cipla,671.92,1360
+MED0085,Iron Folic Acid 650mg,Vitamin & Supplement,Aurobindo Pharma,141.24,333
+MED0086,Pioglitazone 250mg,Antidiabetic,Lupin,108.96,574
+MED0087,Aspirin 20mg,Cardiac,Glenmark Pharmaceuticals,364.81,2973
+MED0088,Pantoprazole 250mg,Antacid,Sun Pharma,652.41,73
+MED0089,Montelukast 10mg,Respiratory,Abbott India,237.91,2051
+MED0090,Montelukast 250mg,Respiratory,Alkem Laboratories,745.51,2146
+MED0091,Multivitamin 40mg,Vitamin & Supplement,Alkem Laboratories,388.84,802
+MED0092,Montelukast 650mg,Respiratory,Aurobindo Pharma,326.59,3226
+MED0093,Levocetirizine 10mg,Antiallergic,Aurobindo Pharma,812.14,3537
+MED0094,Metronidazole 40mg,Antibiotic,Cadila Healthcare,471.63,3540
+MED0095,Enalapril 650mg,Antihypertensive,Aurobindo Pharma,684.48,31
+MED0096,Aspirin 40mg,Cardiac,Mankind Pharma,279.24,4495
+MED0097,Amoxicillin 500mg,Antibiotic,Cipla,396.91,2525
+MED0098,Omeprazole 20mg,Antacid,Torrent Pharmaceuticals,364.19,3141
+MED0099,Azithromycin 250mg,Antibiotic,Glenmark Pharmaceuticals,636.88,2002
+MED0100,Cetirizine 500mg,Antiallergic,Alkem Laboratories,286.83,4929
+MED0101,Vitamin D3 500mg,Vitamin & Supplement,Alkem Laboratories,550.24,861
+MED0102,Rabeprazole 20mg,Antacid,Zydus Lifesciences,690.67,173
+MED0103,Cetirizine 20mg,Antiallergic,Alkem Laboratories,822.35,901
+MED0104,Rabeprazole 40mg,Antacid,Torrent Pharmaceuticals,734.07,722
+MED0105,Doxycycline 500mg,Antibiotic,Mankind Pharma,643.63,788
+MED0106,Ondansetron 10mg,Gastrointestinal,Torrent Pharmaceuticals,514.85,2340
+MED0107,Pioglitazone 500mg,Antidiabetic,Dr. Reddy's Laboratories,233.68,4625
+MED0108,Atorvastatin 20mg,Cardiac,Zydus Lifesciences,621.48,3301
+MED0109,Pioglitazone 20mg,Antidiabetic,Abbott India,206.07,4019
+MED0110,Salbutamol 500mg,Respiratory,Mankind Pharma,575.26,3536
+MED0111,Diclofenac 40mg,Analgesic,Biocon,97.67,3336
+MED0112,Amlodipine 650mg,Antihypertensive,Lupin,406.08,1077
+MED0113,Atorvastatin 250mg,Cardiac,Abbott India,819.2,146
+MED0114,Cetirizine 650mg,Antiallergic,Aurobindo Pharma,676.95,3623
+MED0115,Metformin 250mg,Antidiabetic,Dr. Reddy's Laboratories,214.84,4472
+MED0116,Warfarin 40mg,Cardiac,Biocon,381.09,2491
+MED0117,Telmisartan 500mg,Antihypertensive,Aurobindo Pharma,184.8,3061
+MED0118,Furosemide 40mg,Cardiac,Mankind Pharma,303.65,635
+MED0119,Ibuprofen 650mg,Analgesic,Mankind Pharma,284.72,371
+MED0120,Amoxicillin 20mg,Antibiotic,Abbott India,608.54,1283
+MED0121,Pantoprazole 10mg,Antacid,Sun Pharma,777.76,3372
+MED0122,Insulin Glargine 10mg,Antidiabetic,Torrent Pharmaceuticals,840.08,114
+MED0123,Vitamin B Complex 40mg,Vitamin & Supplement,Mankind Pharma,670.77,866
+MED0124,Domperidone 40mg,Gastrointestinal,Abbott India,172.42,4937
+MED0125,Glimepiride 500mg,Antidiabetic,Cadila Healthcare,100.3,3243
+MED0126,Losartan 20mg,Antihypertensive,Dr. Reddy's Laboratories,35.4,2891
+MED0127,Doxycycline 10mg,ANTIBIOTIC,Sun Pharma,676.24,4161
+MED0128,Salbutamol 40mg,Respiratory,Dr. Reddy's Laboratories,750.26,2163
+MED0129,Losartan 40mg,Antihypertensive,Aurobindo Pharma,541.11,1188
+MED0130,Telmisartan 20mg,Antihypertensive,Zydus Lifesciences,574.38,2516
+MED0131,Diclofenac 250mg,analgesic,Abbott India,742.3,177
+MED0132,Ciprofloxacin 10mg,Antibiotic,Alkem Laboratories,711.11,385
+MED0133,Glimepiride 10mg,Antidiabetic,Sun Pharma,94.08,4260
+MED0134,Glimepiride 650mg,Antidiabetic,Mankind Pharma,622.79,2339
+MED0135,Metformin 650mg,Antidiabetic,Dr. Reddy's Laboratories,757.55,2847
+MED0136,Warfarin 250mg,Cardiac,Abbott India,735.81,173
+MED0137,Ibuprofen 500mg,Analgesic,Dr. Reddy's Laboratories,741.41,4473
+MED0138,Vitamin D3 650mg,Vitamin & Supplement,Alkem Laboratories,316.66,2762
+MED0139,Vitamin B Complex 250mg,Vitamin & Supplement,Mankind Pharma,144.2,991
+MED0140,Insulin Glargine 500mg,Antidiabetic,Torrent Pharmaceuticals,757.29,3932
+MED0141,Metronidazole 500mg,Antibiotic,Biocon,827.89,3641
+MED0142,Cefixime 500mg,Antibiotic,Mankind Pharma,787.76,4277
+MED0143,Ranitidine 250mg,Antacid,Dr. Reddy's Laboratories,689.09,1820
+MED0144,Levocetirizine 500mg,Antiallergic,Aurobindo Pharma,53.91,4899
+MED0145,Cefixime 40mg,Antibiotic,Torrent Pharmaceuticals,536.44,317
+MED0146,Ondansetron 40mg,Gastrointestinal,Mankind Pharma,66.85,317
+MED0147,Levocetirizine 40mg,Antiallergic,Sun Pharma,477.1,275
+MED0148,Glimepiride 40mg,Antidiabetic,Zydus Lifesciences,176.33,2789
+MED0149,Furosemide 650mg,Cardiac,Cadila Healthcare,65.93,252
+MED0150,Pantoprazole 40mg,Antacid,Torrent Pharmaceuticals,689.83,2974
+MED0151,Enalapril 20mg,Antihypertensive,Dr. Reddy's Laboratories,80.87,208
+MED0152,Salbutamol 650mg,Respiratory,Abbott India,424.12,3956
+MED0153,Insulin Glargine 40mg,Antidiabetic,Mankind Pharma,613.29,4830
+MED0154,Vitamin B Complex 500mg,Vitamin & Supplement,Dr. Reddy's Laboratories,355.15,1890
+MED0155,Pioglitazone 10mg,Antidiabetic,Sun Pharma,369.11,3177
+MED0156,Losartan 650mg,Antihypertensive,Dr. Reddy's Laboratories,82.15,509
+MED0157,Salbutamol 10mg,Respiratory,Alkem Laboratories,730.1,2915
+MED0158,Paracetamol 500mg,Antipyretic,Alkem Laboratories,674.55,1723
+MED0159,Digoxin 650mg,Cardiac,Alkem Laboratories,235.35,2887
+MED0160,Ibuprofen 250mg,Analgesic,Aurobindo Pharma,581.62,3594
+MED0161,Domperidone 650mg,Gastrointestinal,Cipla,146.63,349
+MED0162,Zinc Sulphate 40mg,Vitamin & Supplement,Torrent Pharmaceuticals,847.43,4320
+MED0163,Rosuvastatin 650mg,Cardiac,Cadila Healthcare,80.65,3691
+MED0164,Clopidogrel 10mg,Cardiac,Torrent Pharmaceuticals,27.1,2980
+MED0165,Rosuvastatin 250mg,Cardiac,Cipla,543.27,4562
+MED0166,Rosuvastatin 10mg,Cardiac,Torrent Pharmaceuticals,796.63,3836
+MED0167,Ciprofloxacin 500mg,Antibiotic,Cadila Healthcare,353.15,4943
+MED0168,Levocetirizine 650mg,ANTIALLERGIC,Abbott India,461.81,3875
+MED0169,Montelukast 20mg,Respiratory,Dr. Reddy's Laboratories,362.79,4037
+MED0170,Montelukast 500mg,Respiratory,Mankind Pharma,40.13,2865
+MED0171,Metronidazole 20mg,Antibiotic,Cipla,825.65,1712
+MED0172,Ondansetron 650mg,Gastrointestinal,Glenmark Pharmaceuticals,440.7,2689
+MED0173,Calcium Carbonate 40mg,Vitamin & Supplement,Abbott India,416.29,2693
+MED0174,Ciprofloxacin 250mg,Antibiotic,Dr. Reddy's Laboratories,376.52,1702
+MED0175,Zinc Sulphate 500mg,Vitamin & Supplement,Alkem Laboratories,271.1,874
+MED0176,Diclofenac 20mg,Analgesic,Cipla,81.98,3478
+MED0177,Calcium Carbonate 20mg,Vitamin & Supplement,Torrent Pharmaceuticals,261.12,3731
+MED0178,Amlodipine 40mg,Antihypertensive,Torrent Pharmaceuticals,133.82,2970
+MED0179,Iron Folic Acid 40mg,Vitamin & Supplement,Cipla,99.59,4788
+MED0180,Domperidone 500mg,Gastrointestinal,Alkem Laboratories,207.74,698
+MED0181,Pioglitazone 40mg,Antidiabetic,Dr. Reddy's Laboratories,754.64,4933
+MED0182,Telmisartan 40mg,Antihypertensive,Biocon,477.6,890
+MED0183,Ondansetron 20mg,Gastrointestinal,Aurobindo Pharma,275.95,4217
+MED0184,Paracetamol 20mg,Antipyretic,Dr. Reddy's Laboratories,506.77,2707
+MED0185,Ranitidine 650mg,Antacid,Sun Pharma,804.76,690
+MED0186,Cetirizine 40mg,Antiallergic,Torrent Pharmaceuticals,769.41,1803
+MED0187,Multivitamin 500mg,Vitamin & Supplement,Abbott India,431.61,2649
+MED0188,Cefixime 650mg,Antibiotic,Aurobindo Pharma,170.16,611
+MED0189,Digoxin 250mg,Cardiac,Biocon,79.36,2763
+MED0190,Metformin 500mg,Antidiabetic,Biocon,685.31,2503
+MED0191,Vitamin B Complex 650mg,Vitamin & Supplement,Sun Pharma,93.46,82
+MED0192,Ranitidine 500mg,Antacid,Biocon,545.16,2270
+MED0193,Rosuvastatin 500mg,Cardiac,Abbott India,707.16,1666
+MED0194,Levocetirizine 250mg,Antiallergic,Alkem Laboratories,806.54,4198
+MED0195,Amoxicillin 650mg,Antibiotic,Abbott India,75.01,1533
+MED0196,Vitamin D3 10mg,Vitamin & Supplement,Zydus Lifesciences,523.98,228
+MED0197,Ondansetron 250mg,Gastrointestinal,Glenmark Pharmaceuticals,194.35,3201
+MED0198,Digoxin 20mg,Cardiac,Aurobindo Pharma,631.12,3408
+MED0199,Warfarin 20mg,CARDIAC,Lupin,297.0,3411
+MED0200,Telmisartan 250mg,Antihypertensive,Zydus Lifesciences,457.41,4802
+MED0201,Multivitamin 250mg,Vitamin & Supplement,Zydus Lifesciences,349.09,886
+MED0202,Zinc Sulphate 250mg,Vitamin & Supplement,Abbott India,232.76,3844
+MED0203,Omeprazole 650mg,Antacid,Sun Pharma,761.88,4944
+MED0204,Amlodipine 20mg,Antihypertensive,Cadila Healthcare,694.57,1664
+MED0205,Domperidone 20mg,Gastrointestinal,Cadila Healthcare,612.75,655
+MED0206,Metronidazole 650mg,Antibiotic,Zydus Lifesciences,729.1,1697
+MED0207,Pantoprazole 20mg,Antacid,Torrent Pharmaceuticals,410.5,171
+MED0208,Omeprazole 500mg,Antacid,Glenmark Pharmaceuticals,723.62,1025
+MED0209,Warfarin 10mg,Cardiac,Glenmark Pharmaceuticals,677.85,2434
+MED0210,Telmisartan 10mg,Antihypertensive,Glenmark Pharmaceuticals,345.23,1241
+MED0211,Insulin Glargine 250mg,Antidiabetic,Dr. Reddy's Laboratories,572.73,4494
+MED0212,Rosuvastatin 20mg,Cardiac,Cipla,834.44,1736
+MED0213,Amlodipine 250mg,Antihypertensive,Zydus Lifesciences,710.91,3004
+MED0214,Atorvastatin 500mg,Cardiac,Glenmark Pharmaceuticals,799.51,3918
+MED0215,Multivitamin 10mg,Vitamin & Supplement,Cipla,473.22,1479
+MED0216,Azithromycin 10mg,Antibiotic,Dr. Reddy's Laboratories,142.43,1350
+MED0217,Aspirin 500mg,Cardiac,Lupin,300.0,2996
+MED0218,Telmisartan 650mg,Antihypertensive,Dr. Reddy's Laboratories,789.63,3029
+MED0219,Metformin 40mg,Antidiabetic,Cipla,225.98,3328
+MED0220,Aspirin 650mg,Cardiac,Mankind Pharma,580.74,4330
+MED0221,Paracetamol 650mg,Antipyretic,Lupin,406.62,3124
+MED0222,Digoxin 10mg,Cardiac,Cadila Healthcare,744.11,1147
+MED0223,Enalapril 10mg,Antihypertensive,Cipla,36.28,801
+MED0224,Zinc Sulphate 650mg,Vitamin & Supplement,Cadila Healthcare,40.51,62
+MED0225,Rabeprazole 500mg,Antacid,Sun Pharma,496.44,1874
+MED0226,Vitamin B Complex 20mg,Vitamin & Supplement,Aurobindo Pharma,275.64,4890
+MED0227,Amoxicillin 10mg,Antibiotic,Torrent Pharmaceuticals,222.14,1659
+MED0228,Losartan 10mg,Antihypertensive,Zydus Lifesciences,599.14,3378
+MED0229,Salbutamol 250mg,Respiratory,Sun Pharma,328.15,3171
+MED0230,Metformin 20mg,Antidiabetic,Torrent Pharmaceuticals,817.38,4863
+MED0231,Iron Folic Acid 500mg,Vitamin & Supplement,Alkem Laboratories,27.48,545
+MED0232,Digoxin 40mg,Cardiac,Lupin,326.78,4758
+MED0233,Furosemide 20mg,Cardiac,Lupin,382.92,3230
+MED0234,Multivitamin 20mg,Vitamin & Supplement,Torrent Pharmaceuticals,168.65,1217
+MED0235,Multivitamin 650mg,Vitamin & Supplement,Torrent Pharmaceuticals,815.78,4807
+MED0236,Iron Folic Acid 10mg,Vitamin & Supplement,Abbott India,379.15,2260
+MED0237,Insulin Glargine 20mg,Antidiabetic,Zydus Lifesciences,365.55,4052
+MED0238,Omeprazole 40mg,Antacid,Lupin,612.15,3531
+MED0239,Pantoprazole 650mg,Antacid,Biocon,27.07,4488
+MED0240,Atorvastatin 10mg,Cardiac,Sun Pharma,212.54,829
+MED0241,Amoxicillin 40mg,Antibiotic,Zydus Lifesciences,657.89,559
+MED0242,Clopidogrel 500mg,Cardiac,Abbott India,564.63,293
+MED0243,Vitamin B Complex 10mg,Vitamin & Supplement,Abbott India,650.73,4599
+MED0244,Paracetamol 10mg,Antipyretic,Cipla,672.19,847
+MED0245,Atorvastatin 650mg,Cardiac,Mankind Pharma,586.51,528
+MED0246,Furosemide 10mg,Cardiac,Zydus Lifesciences,708.13,3275
+MED0247,Atorvastatin 40mg,Cardiac,Glenmark Pharmaceuticals,352.32,1224
+MED0248,Aspirin 250mg,Cardiac,Torrent Pharmaceuticals,83.35,1871
+MED0249,Rabeprazole 650mg,Antacid,Cipla,402.97,3358
+MED0250,Doxycycline 40mg,Antibiotic,Sun Pharma,261.66,405
+MED0251,Cefixime 20mg,Antibiotic,Glenmark Pharmaceuticals,23.06,4670
+MED0252,Pantoprazole 500mg,Antacid,Cipla,107.53,4123
+MED0253,Montelukast 40mg,Respiratory,Cipla,310.23,4247
+MED0254,Rosuvastatin 40mg,Cardiac,Mankind Pharma,349.37,1344
+MED0255,Losartan 250mg,Antihypertensive,Mankind Pharma,464.84,2881
+MED0256,Aspirin 10mg,Cardiac,Mankind Pharma,841.04,4026
+MED0257,Iron Folic Acid 250mg,Vitamin & Supplement,Sun Pharma,525.4,3890
+MED0258,Enalapril 500mg,Antihypertensive,Cadila Healthcare,437.44,4186
+MED0259,Ondansetron 500mg,Gastrointestinal,Sun Pharma,187.31,4582
+MED0260,Ranitidine 40mg,Antacid,Aurobindo Pharma,196.4,3315
+MED0261,Domperidone 10mg,Gastrointestinal,Cadila Healthcare,520.25,123
+MED0262,Vitamin D3 40mg,Vitamin & Supplement,Sun Pharma,558.51,4513
+MED0263,Azithromycin 20mg,Antibiotic,Biocon,235.05,2614
+MED0264,Ranitidine 20mg,Antacid,Abbott India,591.22,843
+MED0265,Warfarin 650mg,Cardiac,Cipla,473.42,427
+MED0266,Ibuprofen 20mg,Analgesic,Glenmark Pharmaceuticals,544.57,3705
+MED0267,Calcium Carbonate 250mg,Vitamin & Supplement,Dr. Reddy's Laboratories,261.76,4375
+MED0268,Enalapril 250mg,Antihypertensive,Zydus Lifesciences,521.62,292
+MED0269,Rabeprazole 250mg,Antacid,Lupin,272.49,4722
+MED0270,Amoxicillin 250mg,Antibiotic,Cadila Healthcare,732.39,2465
+MED0271,Omeprazole 10mg,ANTACID,Sun Pharma,274.78,2278
+MED0272,Cetirizine 10mg,Antiallergic,Dr. Reddy's Laboratories,248.11,1595
+MED0273,Cefixime 250mg,Antibiotic,Torrent Pharmaceuticals,270.19,2970
+MED0274,Levocetirizine 20mg,Antiallergic,Zydus Lifesciences,51.57,1511
+MED0275,Iron Folic Acid 20mg,Vitamin & Supplement,Dr. Reddy's Laboratories,215.52,1698
+MED0276,Insulin Glargine 650mg,Antidiabetic,Aurobindo Pharma,819.01,1037
+MED0277,Vitamin D3 250mg,Vitamin & Supplement,Lupin,227.02,1044
+MED0278,Metformin 10mg,Antidiabetic,Biocon,85.6,2900
+MED0279,Metronidazole 250mg,Antibiotic,Aurobindo Pharma,157.89,3819
+MED0280,Calcium Carbonate 10mg,Vitamin & Supplement,Torrent Pharmaceuticals,194.43,3703
+MED0281,Losartan 500mg,Antihypertensive,Cadila Healthcare,27.49,3151
+MED0282,Clopidogrel 650mg,Cardiac,Torrent Pharmaceuticals,504.57,1222
+MED0283,Doxycycline 20mg,ANTIBIOTIC,Cipla,707.92,3120
+MED0284,Azithromycin 40mg,Antibiotic,Zydus Lifesciences,604.67,2603
+MED0285,Metronidazole 10mg,Antibiotic,Lupin,559.86,1518
+MED0286,Ciprofloxacin 20mg,Antibiotic,Lupin,614.61,3869
+MED0287,Diclofenac 650mg,Analgesic,Sun Pharma,614.02,108
+MED0288,Vitamin D3 20mg,Vitamin & Supplement,Torrent Pharmaceuticals,799.77,1345
+MED0289,Rabeprazole 10mg,Antacid,Dr. Reddy's Laboratories,308.62,2102
+MED0290,Azithromycin 650mg,Antibiotic,Alkem Laboratories,823.91,788
+MED0291,Clopidogrel 40mg,Cardiac,Mankind Pharma,114.86,1376
+MED0292,Azithromycin 500mg,Antibiotic,Abbott India,686.08,1898
+MED0293,Diclofenac 500mg,Analgesic,Cipla,694.5,519
+MED0294,Cetirizine 250mg,antiallergic,Lupin,601.74,4877
+MED0295,Doxycycline 650mg,Antibiotic,Torrent Pharmaceuticals,127.37,314
+MED0296,Ciprofloxacin 650mg,Antibiotic,Sun Pharma,804.38,3489
+MED0297,Amlodipine 500mg,Antihypertensive,Zydus Lifesciences,382.79,949
+MED0298,Zinc Sulphate 20mg,Vitamin & Supplement,Abbott India,557.62,4810
+MED0299,Cefixime 10mg,Antibiotic,Lupin,422.22,3623
+MED0300,Clopidogrel 20mg,Cardiac,Cadila Healthcare,388.66,4464

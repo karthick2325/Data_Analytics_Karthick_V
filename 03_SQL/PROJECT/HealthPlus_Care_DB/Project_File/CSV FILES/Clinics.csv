@@ -1,0 +1,19 @@
+clinic_id,clinic_name,clinic_type,city,state,established_year,contact_number
+C001,HealthPlus Diagnostic Clinic - Kozhikode,Diagnostic,Kozhikode,Kerala,2018,08039233214
+C002,HealthPlus Wellness Clinic - Kozhikode,Wellness,Kozhikode,Kerala,2020,08081973699
+C003,HealthPlus Telemedicine Hub Clinic - Hyderabad,Telemedicine Hub,Hyderabad,Telangana,2017,08063272951
+C004,HealthPlus Primary Care Clinic - Delhi,Primary Care,Delhi,Delhi,2022,08017560480
+C005,HealthPlus Diagnostic Clinic - Pune,Diagnostic,Pune,Maharashtra,2015,08058178397
+C006,HealthPlus Wellness Clinic - Coimbatore,Wellness,Coimbatore,Tamil Nadu,2017,08023279282
+C007,HealthPlus Telemedicine Hub Clinic - Coimbatore,Telemedicine Hub,Coimbatore,Tamil Nadu,2013,08002761612
+C008,HealthPlus Primary Care Clinic - Vijayawada,Primary Care,Vijayawada,Andhra Pradesh,2021,08006528630
+C009,HealthPlus Diagnostic Clinic - Hyderabad,Diagnostic,Hyderabad,Telangana,2019,08048625702
+C010,HealthPlus Wellness Clinic - Mysuru,Wellness,Mysuru,Karnataka,2021,08061112422
+C011,HealthPlus Telemedicine Hub Clinic - Pune,Telemedicine Hub,Pune,Maharashtra,2014,08038573415
+C012,HealthPlus Primary Care Clinic - Mangaluru,Primary Care,Mangaluru,Karnataka,2022,08018409053
+C013,HealthPlus Diagnostic Clinic - Kozhikode,Diagnostic,Kozhikode,Kerala,2018,08056665812
+C014,HealthPlus Wellness Clinic - Coimbatore,Wellness,Coimbatore,Tamil Nadu,2017,08067343415
+C015,HealthPlus Telemedicine Hub Clinic - Hyderabad,Telemedicine Hub,Hyderabad,Telangana,2023,08036471764
+C016,HealthPlus Primary Care Clinic - Madurai,Primary Care,Madurai,Tamil Nadu,2020,08045782464
+C017,HealthPlus Diagnostic Clinic - Pune,Diagnostic,Pune,Maharashtra,2022,08092469973
+C018,HealthPlus Wellness Clinic - Kozhikode,Wellness,Kozhikode,Kerala,2017,08035054324
