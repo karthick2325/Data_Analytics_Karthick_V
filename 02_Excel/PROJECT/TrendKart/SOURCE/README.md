@@ -2,7 +2,7 @@
 
 > **Interactive Sales Analysis Dashboard using Microsoft Excel**
 
-![Dashboard](DASHBOARD/Dashboard.jpeg)
+![TrendKart Sales Dashboard](DASHBOARD/Dashboard.jpeg)
 
 ## 🎯 Objective
 
