@@ -28,7 +28,7 @@ These functions are useful for **transforming, selecting, and combining data**.
 
 ---
 
-
+```python
 1. map()
 
 `map()` is used to apply the same function to every item in an
@@ -36,7 +36,7 @@ iterable and produce transformed results.
 
 ## Syntax
 
-```python
+
 map(function, iterable)
 
 
