@@ -28,7 +28,8 @@ These functions are useful for **transforming, selecting, and combining data**.
 
 ---
 
-# 1. map()
+
+1. map()
 
 `map()` is used to apply the same function to every item in an
 iterable and produce transformed results.
