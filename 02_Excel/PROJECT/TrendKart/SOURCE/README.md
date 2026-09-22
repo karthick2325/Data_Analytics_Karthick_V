@@ -1,5 +1,3 @@
-Sure da 👍 **same format-la**, indha **TrendMart dashboard**-ku suitable-a README content mattum update pannuren. Vera structure/change illa.
-
 # 🛒 TrendMart – Retail Sales Dashboard
 
 > **Interactive Retail Sales Analysis Dashboard using Microsoft Excel**
@@ -66,9 +64,8 @@ To analyze **TrendMart retail sales data** and create an interactive dashboard t
 
 **Completed | TrendMart Excel Data Analytics Project**
 
----
+
 
 ### 👨‍💻 Skills Demonstrated
 
 **Excel • Data Cleaning • Data Analysis • Pivot Tables • Data Visualization • Dashboard Development**
-```
