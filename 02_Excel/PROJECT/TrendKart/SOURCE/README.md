@@ -1,12 +1,15 @@
-# 🛍️ TrendKart – Sales Dashboard
+Sure da 👍 **same format-la**, indha **TrendMart dashboard**-ku suitable-a README content mattum update pannuren. Vera structure/change illa.
 
-> **Interactive Sales Analysis Dashboard using Microsoft Excel**
+```markdown
+# 🛒 TrendMart – Retail Sales Dashboard
 
-![Dashboard](DASHBOARD/Dashboard.jpeg)
+> **Interactive Retail Sales Analysis Dashboard using Microsoft Excel**
+
+![Dashboard](Dashboard/Dashboard.jpeg)
 
 ## 🎯 Objective
 
-To analyze **TrendKart sales data** and create an interactive dashboard that provides clear insights into **Sales, Profit, Quantity, Top Stores, Top Selling Products, and Monthly Sales Trends**.
+To analyze **TrendMart retail sales data** and create an interactive dashboard that provides clear insights into **Sales, Profit, Quantity, Orders, Returns, Regions, States, Categories, Membership, Payment Methods, Sales Channels, Discounts, Products, Brands, and Store Performance**.
 
 ## 🛠️ Tools Used
 
@@ -21,33 +24,52 @@ To analyze **TrendKart sales data** and create an interactive dashboard that pro
 
 | Metric            |         Value |
 | ----------------- | ------------: |
+| 💰 Total Sales    | ₹92,27,179.96 |
+| 📈 Total Profit   | ₹18,04,518.54 |
+| 📊 Profit Margin  |        19.56% |
+| 💸 Total Cost     | ₹65,96,441.12 |
+| 🧾 Total Orders   |         3,000 |
 | 📦 Total Quantity |         6,118 |
-| 💰 Sales Amount   | ₹92,27,179.96 |
-| 📈 Profit Amount  | ₹18,04,518.54 |
+| 🔄 Returns Rate   |         4.87% |
 
 ## 📊 Dashboard Analysis
 
-* 🏪 **Top 10 Stores**
-* 🛍️ **Top 10 Selling Products**
-* 📅 **Monthly Sales Trend**
-* 🎛️ **Region Filters**
-* 🏷️ **Category Filters**
-* 📆 **Invoice Date Filters**
+* 📈 **Monthly Sales & Profit Trend**
+* 👥 **Sales by Membership**
+* 🌍 **Sales by State**
+* 💳 **Sales by Payment Mode**
+* 🏪 **Top 10 Stores by Sales**
+* 🛍️ **Top 10 Products by Sales**
+* 📊 **Category Sales & Profit Analysis**
+* 🏷️ **Discount vs Profitability Analysis**
+* 🛒 **Sales by Channel**
+* 🔄 **Return Analysis**
+* 💰 **High Sales – Low Profits Product Analysis**
+* 🏆 **Top 5 Brands by Profit Margin**
+* 🎯 **Interactive Region Filter**
+* 💡 **Key Insights & Actions**
 
 ## 💡 Key Insights
 
 * Total sales reached approximately **₹92.27 Lakhs**.
-* Total profit generated is approximately **₹18.05 Lakhs**.
-* A total of **6,118 units** were sold.
-* Top-performing stores and products can be identified easily.
-* Monthly sales trends help understand business performance over time.
+* Total profit reached approximately **₹18.05 Lakhs** with a **19.56% profit margin**.
+* The dashboard recorded **3,000 orders** with **6,118 total quantity sold**.
+* The overall **return rate is 4.87%**.
+* **Offline sales** contribute **66%**, while **online sales** contribute **34%**.
+* **Regular membership** contributes the highest share of membership sales at **32%**.
+* **Credit Card** accounts for the highest share among the displayed payment modes at **22%**.
+* State-wise, **Karnataka** records the highest sales among the displayed states.
+* Store, product, category, brand, discount, and return analysis provide detailed profitability insights.
+* High-sales and low-profit products can be identified for further profitability analysis.
+* The dashboard highlights actions such as **focusing on high-sales, low-margin products, increasing online sales, and reducing return rates**.
 
 ## ✅ Project Status
 
-**Completed | TrendKart Excel Data Analytics Project**
+**Completed | TrendMart Excel Data Analytics Project**
 
 ---
 
 ### 👨‍💻 Skills Demonstrated
 
 **Excel • Data Cleaning • Data Analysis • Pivot Tables • Data Visualization • Dashboard Development**
+```
