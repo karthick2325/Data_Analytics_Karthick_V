@@ -53,18 +53,18 @@ To analyze **TrendMart retail sales data** and create an interactive dashboard t
 * The dashboard recorded **3,000 orders** with **6,118 total quantity sold**.
 * The overall **return rate is 4.87%**.
 * **Offline sales** contribute **66%**, while **online sales** contribute **34%**.
-* **Regular membership** contributes the highest share of membership sales at **32%**.
-* **Credit Card** accounts for the highest share among the displayed payment modes at **22%**.
-* State-wise, **Karnataka** records the highest sales among the displayed states.
+* **Regular membership** contributes **32%** of membership sales.
+* **Credit Card** accounts for **22%** of sales among the displayed payment modes.
+* State-wise sales can be compared across **Karnataka, Telangana, Kerala, Tamil Nadu, and Andhra Pradesh**.
 * Store, product, category, brand, discount, and return analysis provide detailed profitability insights.
 * High-sales and low-profit products can be identified for further profitability analysis.
-* The dashboard highlights actions such as **focusing on high-sales, low-margin products, increasing online sales, and reducing return rates**.
+* The dashboard provides actions related to **high-sales, low-margin products, online sales, and return rates**.
 
 ## ✅ Project Status
 
 **Completed | TrendMart Excel Data Analytics Project**
 
-
+---
 
 ### 👨‍💻 Skills Demonstrated
 
