@@ -1,156 +1,303 @@
 use HospitalAnalyticsDB;
 
 
--- 01. how many hospitals are there?
+-- 01. which hospitals have the highest patient and operational activity?
 
-select count(*) as total_hospitals from hospitals;
+select
+    h.hospital_id,
+    h.hospital_name,
+    count(distinct x.patient_id) as patient_count,
+    count(x.activity_id) as operational_activity
+from hospitals h
+left join (
+    select
+        hospital_id,
+        patient_id,
+        appointment_id as activity_id
+    from appointments
 
+    union all
 
--- 02. how many departments are there?
+    select
+        hospital_id,
+        patient_id,
+        admission_id as activity_id
+    from admissions
 
-select count(*) as total_departments from departments;
+    union all
 
+    select
+        a.hospital_id,
+        t.patient_id,
+        t.treatment_id as activity_id
+    from treatments t
+    inner join admissions a
+        on t.admission_id = a.admission_id
 
--- 03. how many doctors are there?
+    union all
 
-select count(*) as total_doctors from doctors;
+    select
+        hospital_id,
+        patient_id,
+        lab_test_id as activity_id
+    from laboratory
 
+    union all
 
--- 04. how many patients are there?
-
-select count(*) as total_patients from patients;
-
-
--- 05. how many appointments are there?
-
-select count(*) as total_appointments from appointments;
-
-
--- 06. how many admissions are there?
-
-select count(*) as total_admissions from admissions;
-
-
--- 07. what is the total revenue?
-
-select sum(total_amount) as total_revenue
-from billing;
-
-
--- 08. what is the average bill amount?
-
-select avg(total_amount) as average_bill_amount
-from billing;
-
-
--- 09. what is the highest bill amount?
-
-select max(total_amount) as highest_bill_amount
-from billing;
-
-
--- 10. what is the lowest bill amount?
-
-select min(total_amount) as lowest_bill_amount
-from billing;
-
-
--- 11. how many patients are there in each gender?
-
-select gender,count(*) as total_patients
-from patients
-group by gender;
+    select
+        hospital_id,
+        patient_id,
+        pharmacy_sale_id as activity_id
+    from pharmacy
+) x
+    on h.hospital_id = x.hospital_id
+group by h.hospital_id, h.hospital_name
+order by operational_activity desc, patient_count desc;
 
 
--- 12. how many appointments are there for each status?
+-- 02. which departments experience the highest appointment and admission workload?
 
-select status,count(*) as total_appointments
-from appointments
-group by status;
-
-
--- 13. how many doctors are there in each specialization?
-
-select specialization,count(*) as total_doctors
-from doctors
-group by specialization;
-
-
--- 14. how many doctors are there in each gender?
-
-select gender,count(*) as total_doctors
-from doctors
-group by gender;
+select
+    d.department_id,
+    d.department_name,
+    count(distinct a.appointment_id) as appointment_workload,
+    count(distinct ad.admission_id) as admission_workload
+from departments d
+left join doctors doc
+    on d.department_id = doc.department_id
+left join appointments a
+    on doc.doctor_id = a.doctor_id
+left join admissions ad
+    on d.department_id = ad.department_id
+group by d.department_id, d.department_name
+order by appointment_workload desc, admission_workload desc;
 
 
--- 15. what is the average consultation fee?
+-- 03. how is doctor workload distributed based on available appointment or treatment data?
 
-select avg(consultation_fee) as average_consultation_fee
-from doctors;
-
-
--- 16. what is the highest consultation fee?
-
-select max(consultation_fee) as highest_consultation_fee
-from doctors;
-
-
--- 17. what is the total payment amount?
-
-select sum(payment_amount) as total_payment_amount
-from payments;
-
-
--- 18. how many payments are there for each payment mode?
-
-select payment_mode,count(*) as total_payments
-from payments
-group by payment_mode;
-
-
--- 19. how many payments are there for each payment status?
-
-select payment_status,count(*) as total_payments
-from payments
-group by payment_status;
+select
+    d.doctor_id,
+    concat(d.first_name, ' ', d.last_name) as doctor_name,
+    d.specialization,
+    coalesce(a.appointment_count, 0) as appointment_count,
+    coalesce(t.treatment_count, 0) as treatment_count,
+    coalesce(a.appointment_count, 0) +
+    coalesce(t.treatment_count, 0) as total_workload
+from doctors d
+left join (
+    select
+        doctor_id,
+        count(*) as appointment_count
+    from appointments
+    group by doctor_id
+) a
+    on d.doctor_id = a.doctor_id
+left join (
+    select
+        doctor_id,
+        count(*) as treatment_count
+    from treatments
+    group by doctor_id
+) t
+    on d.doctor_id = t.doctor_id
+order by total_workload desc;
 
 
--- 20. how many admissions are there for each admission type?
+-- 04. which patients have the highest healthcare service activity?
 
-select admission_type,count(*) as total_admissions
+select
+    p.patient_id,
+    concat(p.first_name, ' ', p.last_name) as patient_name,
+    count(*) as service_activity
+from patients p
+inner join (
+    select patient_id from appointments
+
+    union all
+
+    select patient_id from admissions
+
+    union all
+
+    select patient_id from treatments
+
+    union all
+
+    select patient_id from laboratory
+
+    union all
+
+    select patient_id from pharmacy
+) s
+    on p.patient_id = s.patient_id
+group by p.patient_id, p.first_name, p.last_name
+order by service_activity desc;
+
+
+-- 05. which hospitals and departments record the highest admissions?
+
+select
+    h.hospital_id,
+    h.hospital_name,
+    d.department_id,
+    d.department_name,
+    count(a.admission_id) as total_admissions
+from hospitals h
+inner join admissions a
+    on h.hospital_id = a.hospital_id
+inner join departments d
+    on a.department_id = d.department_id
+group by
+    h.hospital_id,
+    h.hospital_name,
+    d.department_id,
+    d.department_name
+order by total_admissions desc;
+
+
+-- 06. what are the patterns in admission type and admission status?
+
+select
+    admission_type,
+    admission_status,
+    count(*) as total_admissions
 from admissions
-group by admission_type;
+group by admission_type, admission_status
+order by total_admissions desc;
 
 
--- 21. how many admissions are there for each admission status?
+-- 07. what is the average patient length of stay where admission and discharge dates are available?
 
-select admission_status,count(*) as total_admissions
+select
+    round(avg(datediff(discharge_date, admission_date)), 2)
+        as average_length_of_stay_days
 from admissions
-group by admission_status;
+where admission_date is not null
+  and discharge_date is not null
+  and discharge_date >= admission_date;
 
 
--- 22. what is the total treatment cost?
+-- 08. how are rooms distributed by type and status?
 
-select sum(treatment_cost) as total_treatment_cost
-from treatments;
+select
+    room_type,
+    room_status,
+    count(*) as total_rooms
+from rooms
+group by room_type, room_status
+order by total_rooms desc;
 
 
--- 23. how many laboratory tests are there for each test status?
+-- 09. which treatments generate the highest activity and treatment costs?
 
-select test_status,count(*) as total_tests
+select
+    treatment_name,
+    count(*) as treatment_activity,
+    sum(treatment_cost) as total_treatment_cost
+from treatments
+group by treatment_name
+order by treatment_activity desc, total_treatment_cost desc;
+
+
+-- 10. which laboratory tests or services generate the highest volume and cost?
+
+select
+    test_name,
+    count(*) as test_volume,
+    sum(test_cost) as total_test_cost
 from laboratory
-group by test_status;
+group by test_name
+order by test_volume desc, total_test_cost desc;
 
 
--- 24. what is the total laboratory test revenue?
+-- 11. which medicines generate the highest pharmacy activity or revenue?
 
-select sum(test_cost) as total_lab_revenue
-from laboratory;
+select
+    m.medicine_id,
+    m.medicine_name,
+    sum(p.quantity) as total_quantity_sold,
+    count(p.pharmacy_sale_id) as sales_count,
+    sum(p.total_price) as total_revenue
+from medicines m
+inner join pharmacy p
+    on m.medicine_id = p.medicine_id
+group by m.medicine_id, m.medicine_name
+order by total_revenue desc, total_quantity_sold desc;
 
 
--- 25. which specialization has the most doctors?
+-- 12. how much revenue is billed across the healthcare network?
 
-select specialization,count(*) as total_doctors
-from doctors
-group by specialization
-order by total_doctors desc limit 1;
+select
+    sum(total_amount) as total_billed_revenue
+from billing;
+
+
+-- 13. how do room, doctor, medicine, laboratory, and other charges contribute to billing?
+
+select
+    sum(room_charges) as room_charges,
+    sum(doctor_charges) as doctor_charges,
+    sum(medicine_charges) as medicine_charges,
+    sum(lab_charges) as laboratory_charges,
+    sum(other_charges) as other_charges,
+    sum(total_amount) as total_billed_amount
+from billing;
+
+
+-- 14. how much of the billed amount has been collected through payments?
+
+select
+    sum(b.total_amount) as total_billed_amount,
+    coalesce(sum(p.collected_amount), 0) as total_collected_amount,
+    sum(b.total_amount) - coalesce(sum(p.collected_amount), 0) as collection_gap
+from billing b
+left join (
+    select
+        bill_id,
+        sum(payment_amount) as collected_amount
+    from payments
+    where lower(payment_status) = 'success'
+    group by bill_id
+) p
+    on b.bill_id = p.bill_id;
+
+
+-- 15. where are the largest gaps between billed amounts and payment collections?
+
+select
+    b.bill_id,
+    b.patient_id,
+    b.total_amount as billed_amount,
+    coalesce(p.collected_amount, 0) as collected_amount,
+    b.total_amount - coalesce(p.collected_amount, 0) as collection_gap
+from billing b
+left join (
+    select
+        bill_id,
+        sum(
+            case
+                when lower(payment_status) = 'success'
+                    then payment_amount
+                when lower(payment_status) = 'refunded'
+                    then -payment_amount
+                else 0
+            end
+        ) as collected_amount
+    from payments
+    group by bill_id
+) p
+    on b.bill_id = p.bill_id
+order by collection_gap desc;
+
+
+-- 16. how do payment methods and payment status affect collection performance?
+
+select
+    payment_mode,
+    payment_status,
+    count(payment_id) as total_payments,
+    sum(payment_amount) as payment_amount,
+    round(avg(payment_amount), 2) as average_payment_amount
+from payments
+group by payment_mode, payment_status
+order by payment_amount desc;
