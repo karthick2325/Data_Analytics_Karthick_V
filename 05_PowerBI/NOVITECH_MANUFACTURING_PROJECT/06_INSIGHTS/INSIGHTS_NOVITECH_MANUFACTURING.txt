@@ -1,0 +1,72 @@
+01. Executive Overview – Key Insights
+•	Total production is 1,027,696 units across 5 plants and 10 products.
+•	Total defects are 17,609 units, with an overall defect rate of 1.71%.
+•	Total downtime is 86,025 minutes, while total energy consumption is 3,204,470 kWh.
+•	Total procurement spend is 21,541,830, with 171 delayed purchase orders.
+•	Estimated defect cost exposure is 20.96M; this is an estimated cost exposure, not confirmed scrap or rework cost.
+•	Monthly production varies visibly, with July around the peak and June and November among the lower points.
+
+02. Production & Plant Performance – Key Insights
+•	Munich Electronics records the highest production volume at approximately 323K units.
+•	Tokyo Assembly follows with approximately 307K units.
+•	Monterrey Stamping produces approximately 153K units, while Shanghai Battery Gigafactory and Detroit Engine Plant record approximately 127K and 118K units.
+•	The two highest-volume plants, Munich Electronics and Tokyo Assembly, contribute a substantially larger share of production than the other three plants.
+•	Production varies month to month rather than remaining constant throughout the year.
+
+03. Quality & Operational Efficiency – Key Insights
+•	Overall defect rate is 1.71%, with 17,609 defective units.
+•	October shows the highest visible monthly defect count at about 1,587 units.
+•	Downtime varies by month; April and September show relatively high displayed downtime values, while March is comparatively low.
+•	Energy consumption is 3,204,470 kWh, and the dashboard reports energy per unit as 3.12.
+•	Shanghai Battery Gigafactory shows the highest energy consumption per unit at about 10.5, followed by Detroit Engine Plant at about 8.4.
+•	Munich Electronics and Tokyo Assembly show much lower displayed energy-per-unit values, approximately 0.9 and 0.4 respectively.
+
+04. Finance & Cost Analysis – Key Insights
+•	Total procurement spend is 21.54M.
+•	Apex Lithium Corp has the highest visible procurement spend at approximately 9.4M.
+•	Lithium-Ion Cells account for approximately 9.4M of procurement spend, the largest visible material spending category.
+•	Wind Turbine Blade has the highest visible product unit cost at approximately 18K, followed by Industrial Robot Arm at approximately 15K.
+•	Industrial Robot Arm and Wind Turbine Blade show the highest visible potential unit margin at approximately 7K each.
+•	Potential Unit Margin is target price minus unit cost context, not actual profit.
+•	Estimated defect cost exposure is 20.96M and is based on defective quantity and product unit cost.
+
+05. Procurement & Supplier Performance – Key Insights
+•	The dashboard records approximately 2K total purchase orders.
+•	Overall delay rate is 10.69%, average lead time is 9.84, and average supplier rating is 3.67.
+•	Global Packaging Logistics has the highest visible delay rate at 18.63%, followed by MexiStamping S.A. at 18.23%.
+•	Shanghai Copper & Wire shows a delay rate of 14.87%.
+•	Apex Lithium Corp has the highest procurement spend at approximately 9.4M, while its displayed delay rate is approximately 2.48%.
+•	Global Packaging Logistics combines high procurement activity with a high displayed delay rate, making it an area for procurement-performance review.
+
+06. Raw Materials & Supply Chain Risk – Key Insights
+•	The dashboard contains 12 raw materials and 41 product-material dependency records.
+•	10 materials are identified as critical materials under the project's critical-material measure.
+•	Copper Wire Spool has the highest visible product dependency count at 6.
+•	Electrical Connectors, High-Strength Steel Sheets, and Microcontrollers each show a dependency count of 5.
+•	Polycarbonate Shells, Semiconductor Chips, and Temperature Sensors each show a dependency count of 4.
+•	Materials with both high dependency and high procurement exposure should receive closer supply-chain monitoring.
+
+07. Operator & Shift Performance – Key Insights
+•	The dashboard covers 20 operators.
+•	Total production is 1,027,696 units and total defects are 17,609 units.
+•	Total downtime is displayed as approximately 1.43K hours on the operator page.
+•	The Night shift records the highest production volume at approximately 0.56M units, followed by Swing at approximately 0.25M and Day at approximately 0.21M.
+•	David Miller is the highest visible operator by production at approximately 62K units.
+•	Michael Moore has the highest visible operator defect count at approximately 1,576 defects, followed closely by Michael Williams at approximately 1,516.
+•	John Jackson has the highest visible operator downtime at approximately 93 hours.
+
+
+08. Cross-Dashboard Business Insights
+•	Production is concentrated in Munich Electronics and Tokyo Assembly, while the remaining plants contribute lower production volumes.
+•	Energy efficiency differs substantially across plants; Shanghai Battery Gigafactory and Detroit Engine Plant show much higher displayed energy consumption per unit than Munich Electronics and Tokyo Assembly.
+•	Procurement spending is concentrated in Apex Lithium Corp and Lithium-Ion Cells, creating a visible cost concentration.
+•	Several suppliers show high delay rates, particularly Global Packaging Logistics and MexiStamping S.A.
+•	Material dependency is concentrated in shared materials, especially Copper Wire Spool, Electrical Connectors, High-Strength Steel Sheets, and Microcontrollers.
+•	Defect volume, downtime, and energy intensity should be reviewed together rather than using production volume alone as an efficiency indicator.
+
+09. Data Interpretation Notes
+•	Observations are based on the values visibly displayed in the supplied Power BI dashboard screenshots.
+•	Values marked with K or M are retained as dashboard-displayed approximations.
+•	Potential Unit Margin must not be interpreted as actual profit.
+•	Estimated Defect Cost Exposure is an estimated cost-exposure measure, not confirmed scrap or rework cost.
+•	Estimated Production Cost Context and Potential Production Value Context must not be interpreted as accounting COGS or actual revenue.

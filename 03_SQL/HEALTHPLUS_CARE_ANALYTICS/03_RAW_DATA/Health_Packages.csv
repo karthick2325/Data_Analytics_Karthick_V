@@ -1,0 +1,41 @@
+package_id,package_name,package_type,price,validity_days,tests_included
+PK001,Women's Wellness Package v1,Wellness,3593,365,30
+PK002,Full Body Checkup Premium v2,Premium,8634,365,60
+PK003,Senior Citizen Care Package v3,Senior Citizen,3532,365,35
+PK004,Senior Citizen Care Package v4,Senior Citizen,3871,365,35
+PK005,Cardiac Risk Package v5,Cardiac,5949,180,25
+PK006,Full Body Checkup Premium v6,Premium,8430,365,60
+PK007,Senior Citizen Care Package v7,Senior Citizen,3634,365,35
+PK008,Diabetes Care Package v8,Diabetes Care,3159,180,18
+PK009,Basic Health Checkup v9,Basic,1689,365,20
+PK010,Basic Health Checkup v10,Basic,1786,365,20
+PK011,Executive Health Checkup v11,Executive,4805,365,45
+PK012,Cardiac Risk Package v12,Cardiac,6241,180,25
+PK013,Cardiac Risk Package v13,Cardiac,6434,180,25
+PK014,Senior Citizen Care Package v14,Senior Citizen,3413,365,35
+PK015,Diabetes Care Package v15,Diabetes Care,2752,180,18
+PK016,Cardiac Risk Package v16,Cardiac,6150,180,25
+PK017,Basic Health Checkup v17,Basic,1708,365,20
+PK018,Women's Wellness Package v18,Wellness,3048,365,30
+PK019,Senior Citizen Care Package v19,Senior Citizen,3826,365,35
+PK020,Diabetes Care Package v20,Diabetes Care,2618,180,18
+PK021,Women's Wellness Package v21,Wellness,3480,365,30
+PK022,Basic Health Checkup v22,Basic,1496,365,20
+PK023,Cardiac Risk Package v23,Cardiac,5986,180,25
+PK024,Senior Citizen Care Package v24,Senior Citizen,3490,365,35
+PK025,Senior Citizen Care Package v25,Senior Citizen,3834,365,35
+PK026,Full Body Checkup Premium v26,Premium,8337,365,60
+PK027,Women's Wellness Package v27,Wellness,3141,365,30
+PK028,Women's Wellness Package v28,Wellness,3232,365,30
+PK029,Women's Wellness Package v29,Wellness,3092,365,30
+PK030,Executive Health Checkup v30,Executive,4533,365,45
+PK031,Executive Health Checkup v31,Executive,4797,365,45
+PK032,Executive Health Checkup v32,Executive,4985,365,45
+PK033,Executive Health Checkup v33,Executive,4410,365,45
+PK034,Executive Health Checkup v34,Executive,4449,365,45
+PK035,Executive Health Checkup v35,Executive,4513,365,45
+PK036,Diabetes Care Package v36,Diabetes Care,3294,180,18
+PK037,Cardiac Risk Package v37,Cardiac,6124,180,25
+PK038,Basic Health Checkup v38,Basic,1932,365,20
+PK039,Cardiac Risk Package v39,Cardiac,6459,180,25
+PK040,Senior Citizen Care Package v40,Senior Citizen,3947,365,35

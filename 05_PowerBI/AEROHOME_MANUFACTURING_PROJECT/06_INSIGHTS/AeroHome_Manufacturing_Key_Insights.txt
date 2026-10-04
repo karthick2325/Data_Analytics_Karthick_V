@@ -1,0 +1,111 @@
+AEROHOME MANUFACTURING – KEY INSIGHTS
+
+01. Executive Overview – Key Insights
+• Total planned production is approximately 1M units, while total produced units are also approximately 1M units, achieving an overall Production Achievement of 96.26%.
+• Total defects are approximately 18K units, with an overall defect rate of 1.71%.
+• Total downtime is approximately 2.69K hours, indicating a significant operational-time impact across the manufacturing operations.
+• Total energy consumption is approximately 1.34M kWh, with overall energy consumption per unit reported as 1.25.
+• Total procurement spend is approximately 1.16bn, representing a major cost component of the manufacturing operation.
+• Estimated defect cost exposure is approximately 544M; this represents an estimated cost exposure based on defective units and product unit cost, not confirmed scrap, rework, or accounting loss.
+• The dashboard indicates a production shortfall of approximately 41K units against planned production.
+• Overall performance shows strong production achievement, but defects, downtime, procurement spend, and defect-cost exposure remain important areas for management attention.
+
+02. Production & Plant Performance – Key Insights
+• Overall production achievement is 96.26%, with approximately 41K units of production shortfall against the planned production target.
+• P003 records the highest production achievement at approximately 96.73%.
+• P002 follows closely with approximately 96.64%, while P004 records approximately 96.25%.
+• P001 has the lowest visible production achievement among the four plants at approximately 95.40%.
+• Production varies considerably across months, with December showing the highest visible production at approximately 108K units.
+• October also records relatively high production at approximately 99K units, while April is among the lower months at approximately 77K units.
+• Production by product is concentrated around the major AeroHome product lines, with AeroCool 1.5T and AeroFreeze 450L each producing approximately 145K units.
+• AeroHeat 25L produces approximately 135K units, while AeroDish is approximately 134K units.
+• Among machines, Packaging Line 2 records the highest visible production at approximately 0.15M units, followed by Compressor Station and Packaging Line 1 at approximately 0.14M units each.
+• The relatively small gap between plant achievement percentages suggests that production performance is broadly consistent across plants, although P001 requires comparatively greater attention.
+
+03. Quality & Operational Efficiency – Key Insights
+• Overall quality performance shows approximately 1M units inspected, with approximately 18K defective units and a 1.71% defect rate.
+• The dashboard reports a Rework Rate of 55.97%, making rework a major quality-process consideration.
+• Inspection results show approximately 599K units as Rework, 378K as Pass, and 93K as Fail.
+• Among defect types, Electrical defects show the highest visible count at approximately 3.8K units.
+• Packaging and Assembly defects follow at approximately 3.7K units each, while Cosmetic defects are approximately 3.6K and Mechanical defects approximately 3.4K.
+• AeroWash 8kg shows the highest visible product defect rate at approximately 1.84%.
+• AeroFreeze 300L records the lowest visible product defect rate at approximately 1.57%.
+• Plant-level defect rates range approximately from 1.61% to 1.75%, with AeroHome Pune Plant showing the highest visible rate at approximately 1.75%.
+• Energy consumption is approximately 1.34M kWh, while energy consumption per unit is approximately 1.25.
+• Monthly energy consumption varies, with October showing approximately 120K kWh, while April is comparatively low at approximately 97K kWh.
+• Production achievement reaches a visible peak of approximately 97.5% during September, while June is comparatively lower at approximately 94.7%.
+
+04. Finance & Cost Analysis – Key Insights
+• Total procurement spend is approximately 1.16bn.
+• Product unit cost is approximately 29.73K, while the displayed potential unit margin is approximately 13.03K.
+• Compressor Unit represents the highest visible procurement-spend material at approximately 314M.
+• Motor Assembly follows at approximately 281M, while Control Board accounts for approximately 252M.
+• Among suppliers, Global Compressors has the highest visible procurement spend at approximately 179M.
+• Precision Motors follows at approximately 164M, while Electra Parts accounts for approximately 153M.
+• The highest visible product unit cost is approximately 30.7K, with the monthly product-cost trend remaining around the 29K–31K range.
+• Estimated defect cost exposure reaches approximately 544M, with December showing the highest visible monthly exposure at approximately 60M.
+• Potential Unit Margin represents the difference between target price and unit cost context; it should not be interpreted as actual accounting profit.
+• The combination of high procurement spend and high estimated defect exposure indicates that cost optimization and quality improvement should be evaluated together.
+
+05. Procurement & Supplier Performance – Key Insights
+• The dashboard records approximately 1K purchase orders.
+• Total procurement spend is approximately 1.16bn.
+• Average actual lead time is approximately 11.93 days.
+• Overall On-Time Delivery Rate is 83.45%, meaning approximately 16.55% of orders are delayed.
+• The dashboard shows approximately 918 on-time orders and 182 delayed orders.
+• Bright Components is identified as the Top Performing Supplier, with a supplier rating of 4.6 / 5.0.
+• Bright Components also has the highest visible supplier rating, followed by SafePack Materials at 4.5 and Precision Motors at 4.4.
+• Prime Metals records approximately 4.2, while Electra Parts records approximately 4.0.
+• HomeTech Plastics has the lowest visible rating among the displayed suppliers at approximately 3.7.
+• Expected versus actual lead-time comparison shows that actual delivery performance varies across suppliers, indicating opportunities for supplier-level lead-time improvement.
+• With approximately 182 delayed purchase orders, improving delivery reliability could directly support production continuity and reduce supply-chain-related downtime.
+
+06. Raw Materials & Supply Chain Risk – Key Insights
+• The dashboard contains 12 materials.
+• The displayed Materials per Product value is 12.00, indicating broad material involvement across the product portfolio.
+• 4 materials are identified as high-cost materials under the dashboard's high-cost material measure.
+• Compressor Unit has the highest visible material cost at approximately 5.2K.
+• Motor Assembly follows at approximately 4.2K, while Control Board is approximately 3.1K.
+• Steel Frame has a visible material cost of approximately 1.9K, followed by Glass Panel at approximately 0.9K.
+• Supply-chain downtime varies significantly by month, with October showing the highest visible value at approximately 50 hours.
+• March records the lowest visible supply-chain downtime at approximately 18 hours.
+• Supply-chain downtime rises again during August–October, reaching approximately 34, 35, and 50 hours respectively.
+• The material-shortage downtime context indicates that material availability is an important contributor to supply-chain operational disruption.
+• High-cost materials such as Compressor Unit, Motor Assembly, and Control Board should receive closer monitoring because disruptions involving these materials can have a greater cost impact.
+
+07. Operator & Shift Performance – Key Insights
+• The dashboard covers 30 active operators.
+• Total production is approximately 1M units, with approximately 18K defects.
+• Average operator experience is approximately 7.77 years.
+• The Morning shift records the highest production volume at approximately 0.51M units.
+• The Night shift follows with approximately 0.36M units, while the Evening shift records approximately 0.20M units.
+• Morning shift therefore contributes the largest visible share of overall production.
+• Downtime is also highest during the Morning shift at approximately 1,276 hours.
+• The Night shift records approximately 910 hours of downtime, while the Evening shift records approximately 499 hours.
+• The combination of highest production and highest downtime on the Morning shift indicates that production volume alone should not be used as the only measure of shift efficiency.
+• Operator-level defect distribution shows noticeable variation between operators, suggesting opportunities for targeted quality coaching and process review.
+• The Operator Experience vs Production analysis indicates that higher experience does not automatically correspond to proportionally higher production, suggesting that machine assignment, shift, product mix, and process conditions may also influence performance.
+
+08. Cross-Dashboard Business Insights
+• AeroHome's overall production achievement is strong at 96.26%, but the approximately 41K-unit production shortfall indicates that the remaining gap to target should be addressed.
+• Production performance is relatively consistent across plants, with achievement ranging from approximately 95.40% to 96.73%.
+• Packaging Line 2 and Compressor Station are among the highest-production machines, but machine-level downtime should be considered alongside production contribution.
+• Quality performance requires attention because the dashboard shows an overall 1.71% defect rate and 55.97% rework rate.
+• Electrical, Packaging, and Assembly are the major visible defect categories and should be prioritized for root-cause analysis.
+• Downtime is particularly important because the dashboard shows approximately 2.69K total downtime hours, with supply-chain and material-related factors contributing to operational disruption.
+• Procurement spending is highly concentrated in materials such as Compressor Unit, Motor Assembly, and Control Board, making these materials important for cost and supply-chain risk management.
+• Supplier performance is generally strong among the top-rated suppliers, but the overall 83.45% on-time delivery rate leaves room for improvement.
+• Bright Components is the top-performing supplier based on the displayed supplier-rating measure at 4.6 / 5.0.
+• The Morning shift contributes the highest production but also has the highest downtime, making it an important area for operational-efficiency review.
+• Quality, downtime, energy consumption, procurement cost, and production achievement should be evaluated together rather than using production volume alone as the primary performance indicator.
+
+09. Data Interpretation Notes
+• Observations are based on the values visibly displayed in the supplied AeroHome Manufacturing Power BI dashboard screenshots.
+• Values displayed as K, M, or bn are retained as dashboard-displayed approximations.
+• Production Achievement % represents produced units compared with planned units; it should not be interpreted as production efficiency alone.
+• Potential Unit Margin represents the dashboard's target-price versus unit-cost context and must not be interpreted as actual accounting profit.
+• Estimated Defect Cost Exposure of approximately 544M represents estimated exposure based on defective quantity and product unit cost; it is not confirmed scrap, rework, or financial loss.
+• Rework Rate of 55.97% reflects the dashboard's inspection-status calculation and should be interpreted according to the underlying inspection-data definition.
+• Procurement spend represents the dashboard's calculated purchase quantity × unit-price context and should not automatically be treated as recognized accounting expense.
+• Values such as 1M production, 18K defects, 2.69K downtime hours, 1.34M kWh energy, and 1.16bn procurement spend are rounded dashboard displays and may differ slightly from underlying raw-data totals.
+• Plant, machine, supplier, product, material, and operator observations are based on the visible rankings and values shown in the supplied dashboard pages.

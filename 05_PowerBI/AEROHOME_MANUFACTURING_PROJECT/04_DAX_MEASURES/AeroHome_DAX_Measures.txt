@@ -1,0 +1,389 @@
+-- ============================================================
+-- AEROHOME MANUFACTURING ANALYTICS
+-- FINAL DAX MEASURES
+-- ============================================================
+
+
+-- ============================================================
+-- 01. MATERIAL ANALYSIS
+-- ============================================================
+
+high-cost materials =
+var avg_material_cost =
+    calculate(
+        average(dim_materials[standard_cost]),
+        all(dim_materials)
+    )
+return
+    calculate(
+        distinctcount(dim_materials[material_id]),
+        dim_materials[standard_cost] > avg_material_cost
+    )
+
+
+material standard cost =
+average(
+    dim_materials[standard_cost]
+)
+
+
+materials used =
+distinctcount(
+    dim_materials[material_id]
+)
+
+
+materials per product =
+averagex(
+    values(dim_products[product_id]),
+    calculate(
+        distinctcount(dim_materials[material_id])
+    )
+)
+
+
+products using material =
+distinctcount(
+    fact_production[product_id]
+)
+
+
+-- ============================================================
+-- 02. SUPPLIER ANALYSIS
+-- ============================================================
+
+top performing supplier =
+var top_supplier =
+    topn(
+        1,
+        all(dim_suppliers[supplier_name]),
+        calculate(
+            max(dim_suppliers[supplier_rating])
+        ),
+        desc
+    )
+return
+    concatenatex(
+        top_supplier,
+        dim_suppliers[supplier_name],
+        ", "
+    )
+
+
+top supplier rating =
+maxx(
+    topn(
+        1,
+        all(dim_suppliers[supplier_name]),
+        calculate(
+            max(dim_suppliers[supplier_rating])
+        ),
+        desc
+    ),
+    calculate(
+        max(dim_suppliers[supplier_rating])
+    )
+)
+
+
+top supplier display =
+[top performing supplier]
+    & " | "
+    & format(
+        [top supplier rating],
+        "0.0"
+    )
+    & " / 5.0"
+
+
+-- ============================================================
+-- 03. DOWNTIME ANALYSIS
+-- ============================================================
+
+average downtime =
+average(
+    fact_downtime[downtime_minutes]
+)
+
+
+average downtime hours =
+divide(
+    [average downtime],
+    60,
+    0
+)
+
+
+planned downtime hours =
+divide(
+    calculate(
+        sum(fact_downtime[downtime_minutes]),
+        fact_downtime[downtime_category] = "Planned"
+    ),
+    60,
+    0
+)
+
+
+supply chain downtime events =
+calculate(
+    distinctcount(
+        fact_downtime[downtime_id]
+    ),
+    fact_downtime[downtime_category] = "Supply Chain"
+)
+
+
+supply chain downtime hours =
+divide(
+    calculate(
+        sum(fact_downtime[downtime_minutes]),
+        fact_downtime[downtime_category] = "Supply Chain"
+    ),
+    60,
+    0
+)
+
+
+to.downtime =
+sum(
+    fact_downtime[downtime_minutes]
+)
+
+
+to.downtime hours(n) =
+divide(
+    [to.downtime],
+    60,
+    0
+)
+
+
+unplanned downtime hours =
+divide(
+    calculate(
+        sum(fact_downtime[downtime_minutes]),
+        fact_downtime[downtime_category] <> "Planned"
+    ),
+    60,
+    0
+)
+
+
+-- ============================================================
+-- 04. PRODUCTION PERFORMANCE
+-- ============================================================
+
+active operators =
+distinctcount(
+    fact_production[operator_id]
+)
+
+
+average operator experience =
+average(
+    dim_operators[experience_years]
+)
+
+
+defect rate =
+divide(
+    [total defects],
+    [total produced units],
+    0
+)
+
+
+energy consumed(unit) =
+divide(
+    [total energy consumed],
+    [total produced units],
+    0
+)
+
+
+estimated defect cost exposure =
+sumx(
+    fact_production,
+    fact_production[quantity_defective]
+        * related(dim_products[unit_cost])
+)
+
+
+potential unit margin =
+divide(
+    sumx(
+        fact_production,
+        fact_production[quantity_produced]
+            * (
+                related(dim_products[target_price])
+                - related(dim_products[unit_cost])
+            )
+    ),
+    [total produced units],
+    0
+)
+
+
+product unit cost =
+divide(
+    [total production cost],
+    [total produced units],
+    0
+)
+
+
+production achievement % =
+divide(
+    [total produced units],
+    [total planned units],
+    0
+)
+
+
+production shortfall =
+[total planned units]
+    - [total produced units]
+
+
+total defects =
+sum(
+    fact_production[quantity_defective]
+)
+
+
+total downtime =
+sum(
+    fact_production[downtime_minutes]
+)
+
+
+total downtime events =
+countrows(
+    fact_downtime
+)
+
+
+total downtime(h) =
+divide(
+    [total downtime],
+    60,
+    0
+)
+
+
+total energy consumed =
+sum(
+    fact_production[energy_consumed_kwh]
+)
+
+
+total planned units =
+sum(
+    fact_production[planned_units]
+)
+
+
+total produced units =
+sum(
+    fact_production[quantity_produced]
+)
+
+
+total production =
+sum(
+    fact_production[quantity_produced]
+)
+
+
+total production cost =
+sumx(
+    fact_production,
+    fact_production[quantity_produced]
+        * related(dim_products[unit_cost])
+)
+
+
+-- ============================================================
+-- 05. PROCUREMENT PERFORMANCE
+-- ============================================================
+
+total procurement spend =
+sumx(
+    fact_purchase_orders,
+    fact_purchase_orders[quantity_ordered]
+        * fact_purchase_orders[unit_price]
+)
+
+
+avg actual lead time =
+average(
+    fact_purchase_orders[actual_lead_days_clean]
+)
+
+
+avg expected lead time =
+average(
+    fact_purchase_orders[expected_lead_days]
+)
+
+
+on-time delivery rate =
+divide(
+    calculate(
+        [purchase order volume],
+        fact_purchase_orders[delivery_status] = "On Time"
+    ),
+    [purchase order volume],
+    0
+)
+
+
+purchase order volume =
+distinctcount(
+    fact_purchase_orders[po_id]
+)
+
+
+-- ============================================================
+-- 06. QUALITY PERFORMANCE
+-- ============================================================
+
+defective units =
+sum(
+    fact_quality[defective_units]
+)
+
+
+quality pass rate =
+divide(
+    calculate(
+        [units inspected],
+        fact_quality[inspection_status] = "Pass"
+    ),
+    [units inspected],
+    0
+)
+
+
+rework rate =
+divide(
+    [rework units],
+    [units inspected],
+    0
+)
+
+
+rework units =
+calculate(
+    sum(
+        fact_quality[units_inspected]
+    ),
+    fact_quality[inspection_status] = "Rework"
+)
+
+
+units inspected =
+sum(
+    fact_quality[units_inspected]
+)

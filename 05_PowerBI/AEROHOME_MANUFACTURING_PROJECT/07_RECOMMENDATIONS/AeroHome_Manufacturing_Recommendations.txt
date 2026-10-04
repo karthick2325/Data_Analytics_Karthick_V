@@ -1,0 +1,72 @@
+AEROHOME MANUFACTURING – RECOMMENDATIONS
+
+01. Production & Plant Performance – Recommendations
+• Review production achievement across all plants, with particular attention to P001 because it records the lowest displayed production achievement at approximately 95.40%.
+• Investigate the operational factors behind the production shortfall of approximately 41K units, including machine utilization, downtime, product mix, and planned-versus-actual production.
+• Monitor monthly production fluctuations and investigate lower-production periods, particularly April and other months showing comparatively lower output.
+• Review high-production machines such as Packaging Line 2, Compressor Station, and Packaging Line 1 together with their downtime performance to ensure high output is not accompanied by excessive operational losses.
+• Use plant-level production, achievement, shortfall, defects, downtime, and energy KPIs together when reviewing manufacturing performance rather than production volume alone.
+
+02. Quality & Operational Efficiency – Recommendations
+• Investigate the overall 1.71% defect rate and identify the main operational causes behind the approximately 18K defective units.
+• Prioritize root-cause analysis for Electrical, Packaging, and Assembly defects because they show the highest visible defect counts.
+• Review the high displayed rework rate of 55.97% and determine which inspection stages, products, plants, or processes contribute most to rework.
+• Investigate products with higher defect rates, particularly AeroWash 8kg at approximately 1.84%, and compare their production processes with lower-defect products.
+• Review AeroHome Pune Plant because it shows the highest visible plant-level defect rate at approximately 1.75%.
+• Monitor defect rate, rework rate, downtime, production achievement, and energy per unit together so operational efficiency can be evaluated comprehensively.
+
+03. Finance & Cost Analysis – Recommendations
+• Review procurement spending concentration on major materials, particularly Compressor Unit, Motor Assembly, and Control Board, because they represent the highest visible material spending categories.
+• Monitor suppliers with high procurement spend, especially Global Compressors, Precision Motors, and Electra Parts, and evaluate their cost and delivery performance together.
+• Review the displayed product unit cost of approximately 29.73K and identify products or materials contributing significantly to the cost structure.
+• Use potential unit margin of approximately 13.03K as a planning indicator based on target price and unit cost, without treating it as actual profit.
+• Investigate the approximately 544M estimated defect cost exposure and identify products, months, or plants contributing most to this exposure.
+• Use estimated defect cost exposure together with defect quantity and product unit cost to prioritize quality-related cost-reduction opportunities.
+
+04. Procurement & Supplier Performance – Recommendations
+• Prioritize delivery-performance monitoring because the overall On-Time Delivery Rate is approximately 83.45%, with approximately 182 delayed purchase orders.
+• Investigate suppliers with lower displayed ratings, particularly HomeTech Plastics at approximately 3.7, to understand whether quality, lead-time, or delivery issues are affecting performance.
+• Monitor Bright Components as the top-rated supplier at 4.6 / 5.0 and evaluate whether its delivery and procurement performance can provide useful benchmarks for other suppliers.
+• Review suppliers with high procurement spend together with lead time and delivery performance to identify areas of higher supply-chain exposure.
+• Track supplier rating, on-time delivery rate, average actual lead time, purchase order volume, and procurement spend together instead of relying on supplier rating alone.
+• Investigate the causes of the approximately 16.55% delayed-order share and identify recurring delivery or lead-time issues.
+
+05. Raw Materials & Supply Chain Risk – Recommendations
+• Prioritize monitoring of high-cost materials, especially Compressor Unit, Motor Assembly, and Control Board, because they have the highest visible material cost values.
+• Monitor the 4 materials identified as high-cost materials under the dashboard's high-cost material measure.
+• Review material-shortage and supply-chain downtime patterns because October shows the highest visible supply-chain downtime at approximately 50 hours.
+• Investigate the increase in supply-chain downtime during August, September, and October, where displayed values rise to approximately 34, 35, and 50 hours.
+• Maintain visibility of product-material relationships so management can identify shared material dependencies before they create production continuity issues.
+• Consider material cost, supply-chain downtime, supplier delivery performance, and procurement spend together when reviewing supply-chain risk.
+
+06. Operator & Shift Performance – Recommendations
+• Review the Morning shift's high production volume of approximately 0.51M units together with its high displayed downtime of approximately 1,276 hours to understand the overall operating outcome.
+• Compare Morning, Night, and Evening shifts using production, defects, downtime, and operator experience together rather than production output alone.
+• Investigate operators with high displayed defect counts and review whether process, machine assignment, product mix, or training factors may contribute to higher defects.
+• Review operators with high downtime contribution and investigate the underlying causes of time loss.
+• Use operator experience versus production analysis to identify whether experienced operators are being utilized effectively across products, machines, and shifts.
+• Identify operational practices from better-performing operators and shifts that could be evaluated for broader adoption.
+
+07. Cross-Dashboard Management Recommendations
+• Establish a regular management review combining production achievement, production shortfall, quality, downtime, energy, procurement, supplier, material, and operator KPIs.
+• Focus improvement analysis on areas where multiple indicators show exposure, such as high defects with high rework, high production with high downtime, or high procurement spend with delivery delays.
+• Prioritize quality improvement where high defect categories and high estimated defect cost exposure overlap.
+• Monitor high-cost materials together with supplier delivery and supply-chain downtime to identify potential production-continuity risks.
+• Review the Morning shift's production and downtime together because it contributes the highest visible production as well as the highest displayed shift downtime.
+• Use the Power BI dashboard as a recurring management review tool and refresh the analysis when new production, quality, procurement, and supply-chain data becomes available.
+
+08. Recommendation Priorities
+• Priority 1 – Investigate the approximately 41K-unit production shortfall and improve plant-level production achievement, especially P001.
+• Priority 2 – Address the 1.71% defect rate and 55.97% rework rate, prioritizing Electrical, Packaging, and Assembly defects.
+• Priority 3 – Review the approximately 544M estimated defect cost exposure and identify the major products, plants, and periods contributing to the exposure.
+• Priority 4 – Improve procurement delivery performance by addressing the approximately 16.55% delayed-order share and reviewing supplier lead-time performance.
+• Priority 5 – Monitor high-cost materials such as Compressor Unit, Motor Assembly, and Control Board together with supply-chain downtime.
+• Priority 6 – Review Morning-shift downtime and operator-level defect patterns to identify operational improvement opportunities.
+• Priority 7 – Monitor procurement spending concentration and evaluate high-spend suppliers and materials for cost-control opportunities.
+
+09. Recommendation Notes
+• These recommendations are based on the values and patterns visibly displayed in the supplied AeroHome Manufacturing Power BI dashboard screenshots.
+• Recommendations identify areas for management review; they do not establish confirmed root causes because the dashboard screenshots alone do not provide detailed root-cause information.
+• Potential Unit Margin of approximately 13.03K should not be treated as actual accounting profit.
+• Estimated Defect Cost Exposure of approximately 544M should not be treated as confirmed scrap, rework, or financial loss.
+• Values displayed as K, M, and bn are retained as dashboard-displayed approximations and may differ slightly from underlying raw-data totals.

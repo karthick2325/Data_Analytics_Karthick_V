@@ -1,0 +1,62 @@
+01. Production & Plant Performance – Recommendations
+•	Review the production processes and capacity utilization at Munich Electronics and Tokyo Assembly because these plants contribute the highest production volumes.
+•	Investigate the operational factors behind lower production volumes at Shanghai Battery Gigafactory and Detroit Engine Plant, including downtime and energy intensity.
+•	Monitor monthly production fluctuations and investigate the causes of the visible production drops, particularly around lower-production months.
+•	Use plant-level production, defect, downtime, and energy KPIs together when reviewing plant performance rather than production volume alone.
+
+02. Quality & Operational Efficiency – Recommendations
+•	Investigate the causes of higher monthly defect volumes, particularly the months with the highest displayed defect counts.
+•	Review production processes at plants with higher energy consumption per unit, especially Shanghai Battery Gigafactory and Detroit Engine Plant.
+•	Analyze downtime events by plant, product, operator, and shift to identify recurring operational causes.
+•	Set up regular monitoring of defect rate, downtime, and energy per unit so operational efficiency can be reviewed together.
+•	Prioritize process-improvement analysis where high defect levels and high operational time loss occur together.
+
+03. Finance & Cost Analysis – Recommendations
+•	Review procurement spending concentration on Apex Lithium Corp because it represents the highest displayed supplier spend.
+•	Review spending concentration on Lithium-Ion Cells because it represents the highest displayed material procurement spend.
+•	Monitor high-cost products such as Wind Turbine Blade and Industrial Robot Arm for cost-control opportunities.
+•	Use potential unit margin as a planning indicator by comparing target price and unit cost, without treating it as actual profit.
+•	Investigate products and plants contributing to the 20.96M estimated defect cost exposure and identify opportunities to reduce defective quantity.
+•	Use estimated defect cost exposure together with defect quantity and unit cost to prioritize cost-reduction investigations.
+
+04. Procurement & Supplier Performance – Recommendations
+•	Prioritize delivery-performance review for Global Packaging Logistics and MexiStamping S.A. because they show the highest displayed supplier delay rates.
+•	Investigate suppliers with high delay rates and determine whether lead-time issues are recurring across purchase orders.
+•	Review suppliers with high procurement spend and delivery delays together to identify areas of higher supply-chain exposure.
+•	Track supplier rating, delay rate, average lead time, order volume, and procurement spend together instead of relying on supplier rating alone.
+•	Monitor delayed purchase orders regularly and investigate the causes of the 10.69% overall displayed delay rate.
+
+05. Raw Materials & Supply Chain Risk – Recommendations
+•	Prioritize monitoring of Copper Wire Spool because it has the highest displayed product-material dependency count.
+•	Monitor Electrical Connectors, High-Strength Steel Sheets, and Microcontrollers because each is used across multiple products.
+•	Review materials that combine high dependency with high procurement spending because disruption could affect multiple products and cost exposure.
+•	Maintain visibility of product-material relationships so management can identify shared materials before they create production continuity issues.
+•	Consider supplier and procurement performance together with material dependency when reviewing supply-chain risk.
+
+06. Operator & Shift Performance – Recommendations
+•	Review the Night shift's high production volume together with its defect and downtime indicators to understand the overall operating outcome.
+•	Investigate operators with high displayed defect counts, particularly Michael Moore and Michael Williams, to identify process or training-related improvement opportunities.
+•	Review John Jackson's displayed downtime level and investigate the underlying causes of time loss.
+•	Compare operator performance using production, defects, and downtime together rather than production output alone.
+•	Use shift-level comparisons to identify operational practices that can be evaluated across Day, Swing, and Night shifts.
+
+07. Cross-Dashboard Management Recommendations
+•	Create a regular management review combining production, quality, downtime, energy, finance, procurement, and supply-chain KPIs.
+•	Focus improvement analysis on areas where multiple indicators show exposure, such as high defects with high downtime or high procurement spend with high supplier delays.
+•	Monitor cost concentration in major suppliers and materials to improve visibility of financial exposure.
+•	Monitor critical material dependencies together with supplier delay and lead-time performance to identify potential production-continuity risks.
+•	Use the Power BI dashboard as a recurring management review tool and refresh the analysis when new production and procurement data becomes available.
+
+08. Recommendation Priorities
+•	Priority 1 – Review high supplier delay rates, especially Global Packaging Logistics and MexiStamping S.A.
+•	Priority 2 – Investigate high energy-per-unit performance at Shanghai Battery Gigafactory and Detroit Engine Plant.
+•	Priority 3 – Review defect and estimated defect-cost exposure to identify quality improvement opportunities.
+•	Priority 4 – Monitor high-dependency materials, especially Copper Wire Spool and other shared materials.
+•	Priority 5 – Review operator and shift-level defect and downtime patterns to identify operational improvement opportunities.
+•	Priority 6 – Monitor procurement spending concentration in major suppliers and materials.
+
+09. Recommendation Notes
+•	These recommendations are based on the values and patterns visible in the supplied Power BI dashboard screenshots.
+•	Recommendations identify areas for management review; they do not establish confirmed root causes because the dashboard screenshots alone do not provide detailed root-cause information.
+•	Potential Unit Margin should not be treated as actual profit.
+•	Estimated Defect Cost Exposure should not be treated as confirmed scrap or rework cost.

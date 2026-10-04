@@ -1,0 +1,41 @@
+department_id,department_name,hospital_id,floor_number,head_doctor_id
+D001,ENT,H001,2,DR0164
+D002,Emergency Medicine,H002,4,
+D003,Ophthalmology,H003,6,DR0080
+D004,Cardiology,H003,5,DR0339
+D005,Neurology,H004,5,
+D006,Ophthalmology,H005,2,
+D007,Neurology,H006,1,DR0104
+D008,Urology,H007,6,DR0326
+D009,General Medicine,H007,5,DR0241
+D010,Pulmonology,H008,2,DR0225
+D011,Pediatrics,H008,2,DR0444
+D012,Pulmonology,H009,6,DR0122
+D013,General Surgery,H010,6,DR0253
+D014,Oncology,H011,1,DR0419
+D015,Radiology,H012,4,DR0086
+D016,Urology,H013,2,DR0286
+D017,Dermatology,H013,6,DR0358
+D018,General Medicine,H014,3,DR0333
+D019,Orthopedics,H015,5,DR0304
+D020,ENT,H015,5,DR0436
+D021,Nephrology,H016,1,DR0018
+D022,ENT,H017,3,
+D023,Neurology,H018,4,DR0137
+D024,Urology,H019,5,DR0272
+D025,Nephrology,H019,5,DR0367
+D026,General Medicine   ,H020,6,
+D027,ENT,H020,6,
+D028,General Medicine,H021,1,DR0432
+D029,Nephrology,H022,1,DR0180
+D030,Endocrinology,H022,3,
+D031,Anesthesiology,H023,4,DR0421
+D032,Nephrology,H024,3,
+D033,Ophthalmology,H025,4,DR0063
+D034,Gastroenterology,H026,3,DR0175
+D035,Gynecology,H026,1,
+D036,Dermatology,H027,4,
+D037,Psychiatry,H028,4,DR0059
+D038,Nephrology,H028,5,
+D039,Radiology,H029,6,DR0401
+D040,Gynecology,H030,3,DR0028

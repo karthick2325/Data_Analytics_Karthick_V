@@ -1,0 +1,2501 @@
+feedback_id,member_id,consultation_id,rating,feedback_text,feedback_date
+FB00001,M001352,CN003470,5,Staff was helpful and courteous,2024-10-17
+FB00002,M001865,CN000384,5,Telemedicine call quality was poor,2025-12-07
+FB00003,M001887,CN002496,2,Needs faster appointment scheduling,2024-06-06
+FB00004,M000569,CN005036,4,"Great experience, doctor was very attentive",2024-05-16
+FB00005,M001101,CN002704,3,Telemedicine call quality was poor,2025-08-21
+FB00006,M000950,CN005588,1,Doctor explained everything clearly,2025-08-05
+FB00007,M000643,CN001389,5,Staff was helpful and courteous,2025-04-21
+FB00008,M000269,CN000170,2,Average experience overall,2025-01-10
+FB00009,M001626,CN000336,3,Staff was helpful and courteous,2025-09-18
+FB00010,M001925,CN005510,3,Long wait time at the clinic,2025-07-13
+FB00011,M000028,CN000554,2,Average experience overall,2024-07-20
+FB00012,M001573,CN005469,4,Needs faster appointment scheduling,2025-10-31
+FB00013,M001673,CN002794,3,Would recommend to others,2025-11-23
+FB00014,M000663,CN004307,2,Excellent follow-up care,2024-11-28
+FB00015,M001709,CN002183,4,Would recommend to others,2025-11-27
+FB00016,M002119,CN003751,1,Excellent follow-up care,2025-09-04
+FB00017,M000648,CN005971,2,Would recommend to others,2024-12-01
+FB00018,M000743,CN000726,3,Telemedicine call quality was poor,2025-03-24
+FB00019,M000841,CN000047,4,Staff was helpful and courteous,2025-03-24
+FB00020,M000027,CN002009,5,Doctor explained everything clearly,2025-11-29
+FB00021,M001878,CN000620,4,Long wait time at the clinic,2024-06-27
+FB00022,M002003,CN004117,4,Long wait time at the clinic,2024-07-22
+FB00023,M001335,CN005065,4,Very satisfied with the consultation,2025-04-24
+FB00024,M000241,CN004296,5,Average experience overall,2025-02-04
+FB00025,M000261,CN005307,2,Telemedicine call quality was poor,2025-04-11
+FB00026,M001579,CN005708,2,Doctor explained everything clearly,2024-03-04
+FB00027,M000065,CN005179,1,Average experience overall,2024-08-28
+FB00028,M002151,CN000979,5,Excellent follow-up care,2024-12-12
+FB00029,M001435,CN002516,5,Very satisfied with the consultation,2024-08-18
+FB00030,M000008,CN003862,4,Doctor explained everything clearly,2025-05-15
+FB00031,M000866,CN001782,5,Very satisfied with the consultation,2024-02-22
+FB00032,M002166,CN002532,2,Average experience overall,2025-07-03
+FB00033,M002204,CN005959,3,Very satisfied with the consultation,2024-06-30
+FB00034,M001971,CN001397,4,Staff was helpful and courteous,2024-07-04
+FB00035,M001416,CN005272,4,Staff was helpful and courteous,2025-07-01
+FB00036,M000144,CN002600,1,"Great experience, doctor was very attentive",2025-09-14
+FB00037,M000393,CN004073,5,Average experience overall,2024-12-15
+FB00038,M001606,CN003208,4,Needs faster appointment scheduling,2024-05-12
+FB00039,M000742,CN001297,5,Would recommend to others,2024-09-02
+FB00040,M001180,CN003047,1,Would recommend to others,2025-12-13
+FB00041,M002364,CN000545,1,Doctor explained everything clearly,2024-11-17
+FB00042,M000416,CN000562,5,Staff was helpful and courteous,2025-06-11
+FB00043,M002017,CN001355,4,Very satisfied with the consultation,2025-02-08
+FB00044,M000671,CN001471,4,Very satisfied with the consultation,2024-02-14
+FB00045,M000023,CN004177,4,Average experience overall,2025-03-11
+FB00046,M001763,CN001704,5,Very satisfied with the consultation,2025-09-16
+FB00047,M002051,CN005526,4,Staff was helpful and courteous,2024-04-26
+FB00048,M000165,CN000741,5,Would recommend to others,2025-08-02
+FB00049,M002317,CN000772,3,Would recommend to others,2024-11-25
+FB00050,M000683,CN000400,5,Staff was helpful and courteous,2025-07-23
+FB00051,M001533,CN003942,1,Excellent follow-up care,2025-06-04
+FB00052,M000776,CN003851,4,Doctor explained everything clearly,2025-09-10
+FB00053,M000229,CN000619,3,Average experience overall,2025-02-10
+FB00054,M001751,CN003244,3,"Great experience, doctor was very attentive",2025-05-03
+FB00055,M000011,CN005359,4,"Great experience, doctor was very attentive",2025-09-17
+FB00056,M001027,CN005181,3,Telemedicine call quality was poor,2025-01-19
+FB00057,M000856,CN000046,5,Would recommend to others,2024-06-09
+FB00058,M000807,CN004709,5,Average experience overall,2025-08-15
+FB00059,M000046,CN004732,3,Would recommend to others,2024-06-07
+FB00060,M001821,CN000947,5,Staff was helpful and courteous,2024-07-23
+FB00061,M001472,CN001392,5,Would recommend to others,2024-06-03
+FB00062,M001118,CN001729,3,Telemedicine call quality was poor,2025-12-16
+FB00063,M002465,CN005501,5,Excellent follow-up care,2025-09-26
+FB00064,M001827,CN002695,4,Very satisfied with the consultation,2025-10-02
+FB00065,M002233,CN004093,4,"Great experience, doctor was very attentive",2024-09-09
+FB00066,M002156,CN005454,5,Staff was helpful and courteous,2025-06-17
+FB00067,M002103,CN002858,5,Long wait time at the clinic,2025-12-17
+FB00068,M001851,CN001803,4,"Great experience, doctor was very attentive",2025-03-04
+FB00069,M002208,CN005203,3,Long wait time at the clinic,2024-10-24
+FB00070,M002098,CN002351,5,"Great experience, doctor was very attentive",2024-12-14
+FB00071,M001476,CN005970,3,Doctor explained everything clearly,2025-12-22
+FB00072,M000109,CN002418,4,Staff was helpful and courteous,2025-08-29
+FB00073,M001350,CN004297,3,"Great experience, doctor was very attentive",2024-01-18
+FB00074,M000906,CN000138,5,"Great experience, doctor was very attentive",2024-05-12
+FB00075,M000637,CN000224,3,"Great experience, doctor was very attentive",2025-01-22
+FB00076,M001749,CN001563,4,Very satisfied with the consultation,2024-11-28
+FB00077,M000891,CN001051,1,Average experience overall,2025-12-28
+FB00078,M001344,CN001344,5,Would recommend to others,2025-06-10
+FB00079,M001459,CN000694,5,Very satisfied with the consultation,2025-07-05
+FB00080,M000079,CN004268,4,Very satisfied with the consultation,2024-06-23
+FB00081,M002363,CN004257,3,Telemedicine call quality was poor,2024-04-29
+FB00082,M001306,CN003213,3,Needs faster appointment scheduling,2025-05-23
+FB00083,M001076,CN003441,4,"Great experience, doctor was very attentive",2025-05-22
+FB00084,M001896,CN002255,5,Long wait time at the clinic,2024-05-07
+FB00085,M002102,CN002084,1,Excellent follow-up care,2025-03-20
+FB00086,M000132,CN003307,5,"Great experience, doctor was very attentive",2024-12-21
+FB00087,M000882,CN002042,3,"Great experience, doctor was very attentive",2024-06-12
+FB00088,M002097,CN004333,3,Excellent follow-up care,2025-05-26
+FB00089,M000945,CN003677,4,Would recommend to others,2024-07-30
+FB00090,M000781,CN001094,4,Very satisfied with the consultation,2024-04-22
+FB00091,M002183,CN001462,5,Very satisfied with the consultation,2024-06-26
+FB00092,M000692,CN001924,1,Staff was helpful and courteous,2025-11-06
+FB00093,M001116,CN000891,5,Excellent follow-up care,2024-02-09
+FB00094,M000733,CN003739,5,Telemedicine call quality was poor,2025-09-08
+FB00095,M002280,CN004595,3,Excellent follow-up care,2025-05-25
+FB00096,M002382,CN001868,4,Long wait time at the clinic,2024-10-30
+FB00097,M002392,CN000865,4,Staff was helpful and courteous,2025-11-20
+FB00098,M000493,CN002038,4,Doctor explained everything clearly,2025-05-06
+FB00099,M001169,CN002386,3,Long wait time at the clinic,2025-12-03
+FB00100,M000859,CN000482,5,Doctor explained everything clearly,2025-08-13
+FB00101,M001518,CN001240,4,Needs faster appointment scheduling,2024-03-11
+FB00102,M000578,CN000703,5,Long wait time at the clinic,2025-03-27
+FB00103,M000938,CN000105,2,Average experience overall,2025-08-18
+FB00104,M000233,CN001114,4,"Great experience, doctor was very attentive",2024-01-18
+FB00105,M002306,CN001554,4,Telemedicine call quality was poor,2024-01-27
+FB00106,M000573,CN000879,5,Average experience overall,2025-09-24
+FB00107,M001796,CN004003,1,Excellent follow-up care,2025-06-27
+FB00108,M001964,CN003406,3,Average experience overall,2024-06-09
+FB00109,M000380,CN005223,5,Would recommend to others,2024-05-20
+FB00110,M000431,CN000785,5,Telemedicine call quality was poor,2024-12-08
+FB00111,M000677,CN004655,3,Very satisfied with the consultation,2025-11-06
+FB00112,M000899,CN004850,4,Long wait time at the clinic,2025-03-03
+FB00113,M000336,CN001912,4,Excellent follow-up care,2025-02-22
+FB00114,M002060,CN003548,3,Long wait time at the clinic,2025-10-21
+FB00115,M000859,CN003509,3,Needs faster appointment scheduling,2025-10-15
+FB00116,M000265,CN005406,3,Long wait time at the clinic,2024-04-20
+FB00117,M001190,CN004965,4,Average experience overall,2024-05-05
+FB00118,M000028,CN003174,5,Long wait time at the clinic,2024-11-08
+FB00119,M000156,CN001007,4,"Great experience, doctor was very attentive",2024-10-12
+FB00120,M000473,CN003634,1,Average experience overall,2024-11-02
+FB00121,M001790,CN004306,3,Telemedicine call quality was poor,2024-03-16
+FB00122,M000938,CN000869,4,Needs faster appointment scheduling,2024-07-03
+FB00123,M002316,CN004376,4,Doctor explained everything clearly,2024-02-12
+FB00124,M002013,CN000184,1,"Great experience, doctor was very attentive",2024-05-28
+FB00125,M002488,CN002187,4,Excellent follow-up care,2024-11-04
+FB00126,M001799,CN003350,4,Doctor explained everything clearly,2024-12-01
+FB00127,M001150,CN002081,4,Staff was helpful and courteous,2025-07-13
+FB00128,M000323,CN002057,4,Very satisfied with the consultation,2025-12-27
+FB00129,M000721,CN005810,4,Staff was helpful and courteous,2024-08-13
+FB00130,M002013,CN000184,4,Telemedicine call quality was poor,2024-05-28
+FB00131,M000116,CN004209,5,Average experience overall,2024-11-17
+FB00132,M000476,CN004349,5,Long wait time at the clinic,2025-10-08
+FB00133,M001868,CN002787,3,Very satisfied with the consultation,2024-05-16
+FB00134,M000575,CN005199,4,Very satisfied with the consultation,2024-03-15
+FB00135,M001076,CN004479,3,Long wait time at the clinic,2024-06-11
+FB00136,M001793,CN005841,5,Needs faster appointment scheduling,2024-06-12
+FB00137,M001131,CN000732,5,Staff was helpful and courteous,2024-05-22
+FB00138,M002249,CN000279,5,Very satisfied with the consultation,2024-12-04
+FB00139,M001257,CN002891,4,Staff was helpful and courteous,2025-06-23
+FB00140,M002498,CN002063,3,Needs faster appointment scheduling,2024-01-18
+FB00141,M001685,CN004188,3,Excellent follow-up care,2024-11-26
+FB00142,M000508,CN004708,1,Would recommend to others,2025-05-14
+FB00143,M000362,CN000866,3,Doctor explained everything clearly,2024-05-30
+FB00144,M001778,CN001362,5,Doctor explained everything clearly,2025-11-09
+FB00145,M002407,CN005930,4,Would recommend to others,2025-07-16
+FB00146,M001676,CN001000,5,Very satisfied with the consultation,2025-05-07
+FB00147,M000086,CN004321,5,Long wait time at the clinic,2025-05-31
+FB00148,M002218,CN001428,5,Would recommend to others,2024-02-09
+FB00149,M001650,CN004478,5,Doctor explained everything clearly,2024-07-13
+FB00150,M002055,CN002622,5,Staff was helpful and courteous,2025-08-06
+FB00151,M001221,CN000889,4,Very satisfied with the consultation,2024-03-18
+FB00152,M001403,CN001702,5,Needs faster appointment scheduling,2024-02-02
+FB00153,M001708,CN005488,5,"Great experience, doctor was very attentive",2025-09-01
+FB00154,M000158,CN002234,1,Excellent follow-up care,2025-12-08
+FB00155,M000097,CN001495,3,Long wait time at the clinic,2025-04-30
+FB00156,M002089,CN000618,2,Needs faster appointment scheduling,2024-11-02
+FB00157,M001269,CN004812,4,"Great experience, doctor was very attentive",2025-08-11
+FB00158,M000778,CN003821,1,Staff was helpful and courteous,2024-05-25
+FB00159,M001595,CN002199,5,Telemedicine call quality was poor,2025-08-02
+FB00160,M001754,CN004825,5,"Great experience, doctor was very attentive",2024-08-25
+FB00161,M001608,CN004004,3,Would recommend to others,2024-04-23
+FB00162,M000449,CN003436,3,Long wait time at the clinic,2024-12-20
+FB00163,M001274,CN005671,4,Long wait time at the clinic,2025-03-18
+FB00164,M000672,CN002504,2,"Great experience, doctor was very attentive",2025-08-14
+FB00165,M002411,CN003063,5,Very satisfied with the consultation,2024-12-20
+FB00166,M000261,CN005307,4,Excellent follow-up care,2025-04-11
+FB00167,M001182,CN000906,4,Would recommend to others,2024-01-13
+FB00168,M001542,CN000902,4,Excellent follow-up care,2025-02-10
+FB00169,M001922,CN003970,5,"Great experience, doctor was very attentive",2024-01-17
+FB00170,M002124,CN004142,5,Average experience overall,2025-04-07
+FB00171,M000355,CN001434,3,Staff was helpful and courteous,2025-11-08
+FB00172,M000770,CN001680,3,Long wait time at the clinic,2025-06-17
+FB00173,M001322,CN003397,1,Very satisfied with the consultation,2024-04-08
+FB00174,M001589,CN001664,5,Excellent follow-up care,2025-10-30
+FB00175,M002238,CN004339,4,Average experience overall,2024-03-20
+FB00176,M002212,CN001251,2,Excellent follow-up care,2025-01-25
+FB00177,M000476,CN005536,4,Telemedicine call quality was poor,2025-02-21
+FB00178,M001248,CN004791,4,Doctor explained everything clearly,2025-03-06
+FB00179,M000765,CN004204,3,Telemedicine call quality was poor,2025-01-27
+FB00180,M000976,CN000959,5,Doctor explained everything clearly,2025-08-03
+FB00181,M000094,CN000575,5,Would recommend to others,2025-09-23
+FB00182,M001030,CN001687,5,Staff was helpful and courteous,2025-11-15
+FB00183,M001101,CN004951,5,Very satisfied with the consultation,2025-09-17
+FB00184,M000162,CN005252,5,Staff was helpful and courteous,2024-03-28
+FB00185,M002144,CN005855,5,Very satisfied with the consultation,2025-12-19
+FB00186,M001807,CN003549,2,Excellent follow-up care,2024-11-08
+FB00187,M000893,CN002825,4,Very satisfied with the consultation,2024-08-27
+FB00188,M002130,CN004299,4,Needs faster appointment scheduling,2024-12-25
+FB00189,M001357,CN001010,4,Would recommend to others,2024-09-30
+FB00190,M002235,CN003536,2,Staff was helpful and courteous,2025-03-02
+FB00191,M001323,CN000593,4,"Great experience, doctor was very attentive",2024-10-18
+FB00192,M001918,CN004819,3,Needs faster appointment scheduling,2024-05-06
+FB00193,M001074,CN004927,3,Doctor explained everything clearly,2025-07-08
+FB00194,M001153,CN003729,4,Would recommend to others,2024-12-22
+FB00195,M000557,CN003327,2,Excellent follow-up care,2025-04-06
+FB00196,M001001,CN002269,4,Very satisfied with the consultation,2025-10-05
+FB00197,M002207,CN003607,5,Telemedicine call quality was poor,2025-07-05
+FB00198,M000063,CN000738,3,"Great experience, doctor was very attentive",2024-05-04
+FB00199,M001061,CN002220,1,Telemedicine call quality was poor,2024-07-28
+FB00200,M000970,CN002012,3,Needs faster appointment scheduling,2025-12-14
+FB00201,M001601,CN000153,4,"Great experience, doctor was very attentive",2024-08-22
+FB00202,M001023,CN005448,4,"Great experience, doctor was very attentive",2024-10-18
+FB00203,M000093,CN002105,3,Excellent follow-up care,2024-06-27
+FB00204,M001972,CN002551,4,Average experience overall,2025-04-14
+FB00205,M002462,CN005250,3,Long wait time at the clinic,2025-09-14
+FB00206,M000720,CN005411,4,Doctor explained everything clearly,2024-08-12
+FB00207,M001176,CN002317,5,Long wait time at the clinic,2025-08-26
+FB00208,M001437,CN005304,3,Doctor explained everything clearly,2025-01-06
+FB00209,M000081,CN003036,5,Telemedicine call quality was poor,2025-10-26
+FB00210,M001897,CN002322,1,Staff was helpful and courteous,2025-02-25
+FB00211,M000898,CN001140,3,Very satisfied with the consultation,2024-01-26
+FB00212,M000345,CN002657,4,Staff was helpful and courteous,2025-03-04
+FB00213,M002135,CN001609,5,Would recommend to others,2025-12-25
+FB00214,M001985,CN002793,1,Doctor explained everything clearly,2025-11-28
+FB00215,M002369,CN000995,4,Doctor explained everything clearly,2025-01-23
+FB00216,M000670,CN005608,3,Doctor explained everything clearly,2024-01-05
+FB00217,M000709,CN003716,4,Doctor explained everything clearly,2025-11-26
+FB00218,M000825,CN002132,3,Would recommend to others,2025-01-24
+FB00219,M001402,CN005105,4,Very satisfied with the consultation,2024-05-07
+FB00220,M000215,CN000093,5,Doctor explained everything clearly,2025-04-13
+FB00221,M001116,CN002275,4,Telemedicine call quality was poor,2024-09-04
+FB00222,M002096,CN004168,5,Doctor explained everything clearly,2025-05-16
+FB00223,M000304,CN000319,5,Needs faster appointment scheduling,2024-10-09
+FB00224,M001119,CN003310,5,Staff was helpful and courteous,2024-09-12
+FB00225,M001277,CN005845,5,Long wait time at the clinic,2025-05-07
+FB00226,M000186,CN001725,5,Needs faster appointment scheduling,2025-12-31
+FB00227,M000017,CN003196,4,Average experience overall,2025-07-05
+FB00228,M002451,CN004086,4,Needs faster appointment scheduling,2024-03-19
+FB00229,M000472,CN005102,5,Average experience overall,2024-11-26
+FB00230,M000346,CN004195,5,Long wait time at the clinic,2025-06-07
+FB00231,M002088,CN005937,4,Average experience overall,2024-05-20
+FB00232,M000576,CN001880,5,Doctor explained everything clearly,2025-11-17
+FB00233,M001279,CN005823,4,Excellent follow-up care,2024-09-04
+FB00234,M000895,CN003341,3,Staff was helpful and courteous,2025-06-07
+FB00235,M000124,CN001238,3,Staff was helpful and courteous,2024-05-12
+FB00236,M002250,CN001090,5,Excellent follow-up care,2024-02-14
+FB00237,M001437,CN005233,3,Staff was helpful and courteous,2024-07-31
+FB00238,M000389,CN002270,5,Excellent follow-up care,2024-11-26
+FB00239,M001773,CN001194,5,Telemedicine call quality was poor,2024-11-22
+FB00240,M001695,CN001945,4,Excellent follow-up care,2024-12-06
+FB00241,M002153,CN004384,3,Long wait time at the clinic,2025-09-26
+FB00242,M001642,CN005392,4,Doctor explained everything clearly,2025-07-13
+FB00243,M002464,CN000989,1,Very satisfied with the consultation,2025-11-13
+FB00244,M002192,CN003351,5,Long wait time at the clinic,2024-05-16
+FB00245,M001992,CN004607,5,Doctor explained everything clearly,2025-10-14
+FB00246,M001848,CN002365,2,Staff was helpful and courteous,2025-06-27
+FB00247,M002347,CN005943,5,"Great experience, doctor was very attentive",2025-01-13
+FB00248,M002333,CN005525,3,Telemedicine call quality was poor,2025-11-12
+FB00249,M001074,CN004927,4,Doctor explained everything clearly,2025-07-08
+FB00250,M002279,CN004679,5,Needs faster appointment scheduling,2024-07-27
+FB00251,M001354,CN002117,4,Would recommend to others,2024-02-05
+FB00252,M001978,CN002214,3,Staff was helpful and courteous,2024-12-03
+FB00253,M000858,CN001644,2,"Great experience, doctor was very attentive",2025-02-04
+FB00254,M001753,CN004658,2,Would recommend to others,2024-01-11
+FB00255,M001057,CN004030,5,Long wait time at the clinic,2024-08-10
+FB00256,M000507,CN003674,5,Very satisfied with the consultation,2024-06-27
+FB00257,M000838,CN005589,4,"Great experience, doctor was very attentive",2024-11-16
+FB00258,M001281,CN002728,2,Average experience overall,2024-06-20
+FB00259,M001660,CN003621,3,"Great experience, doctor was very attentive",2024-08-09
+FB00260,M000799,CN003973,3,Staff was helpful and courteous,2025-08-14
+FB00261,M001086,CN000484,3,"Great experience, doctor was very attentive",2024-08-20
+FB00262,M001467,CN002534,4,Excellent follow-up care,2024-06-04
+FB00263,M000020,CN003086,2,Needs faster appointment scheduling,2025-03-28
+FB00264,M000494,CN004879,5,Long wait time at the clinic,2024-11-29
+FB00265,M000948,CN002288,3,Excellent follow-up care,2024-10-30
+FB00266,M000461,CN000920,5,Would recommend to others,2025-10-21
+FB00267,M001751,CN003244,4,Would recommend to others,2025-05-03
+FB00268,M000661,CN002262,4,"Great experience, doctor was very attentive",2024-04-10
+FB00269,M001910,CN000896,3,Needs faster appointment scheduling,2024-01-21
+FB00270,M001745,CN003842,3,Excellent follow-up care,2025-01-18
+FB00271,M001126,CN003471,3,Would recommend to others,2025-02-17
+FB00272,M002417,CN003054,1,Doctor explained everything clearly,2024-02-28
+FB00273,M000348,CN005575,4,Excellent follow-up care,2025-01-31
+FB00274,M001429,CN000025,3,"Great experience, doctor was very attentive",2025-10-08
+FB00275,M000274,CN002080,1,"Great experience, doctor was very attentive",2025-06-04
+FB00276,M001514,CN004566,4,Very satisfied with the consultation,2025-10-05
+FB00277,M001743,CN000932,3,Average experience overall,2025-11-12
+FB00278,M001953,CN001271,4,"Great experience, doctor was very attentive",2024-09-19
+FB00279,M001108,CN000894,5,Long wait time at the clinic,2025-02-08
+FB00280,M001165,CN001574,4,Excellent follow-up care,2024-06-20
+FB00281,M001912,CN005963,4,Needs faster appointment scheduling,2025-12-23
+FB00282,M000372,CN004728,3,Average experience overall,2024-08-17
+FB00283,M001371,CN003111,5,Long wait time at the clinic,2025-06-16
+FB00284,M000300,CN005006,1,Long wait time at the clinic,2024-11-23
+FB00285,M002477,CN000508,4,Would recommend to others,2024-02-17
+FB00286,M002450,CN002294,5,Needs faster appointment scheduling,2024-03-27
+FB00287,M001650,CN003990,5,Telemedicine call quality was poor,2025-01-07
+FB00288,M001184,CN000010,4,"Great experience, doctor was very attentive",2025-08-15
+FB00289,M001700,CN003954,5,Long wait time at the clinic,2024-01-29
+FB00290,M001024,CN002724,3,Long wait time at the clinic,2025-01-19
+FB00291,M001443,CN001875,5,Would recommend to others,2025-01-01
+FB00292,M000164,CN004166,4,Telemedicine call quality was poor,2025-05-08
+FB00293,M000454,CN000705,5,Excellent follow-up care,2024-05-04
+FB00294,M001245,CN003713,5,Excellent follow-up care,2025-02-22
+FB00295,M002432,CN004717,4,Long wait time at the clinic,2025-09-17
+FB00296,M000100,CN004550,2,Staff was helpful and courteous,2024-09-11
+FB00297,M000938,CN000869,5,Would recommend to others,2024-07-03
+FB00298,M000405,CN003941,1,Staff was helpful and courteous,2025-04-15
+FB00299,M000263,CN000205,4,Very satisfied with the consultation,2025-09-08
+FB00300,M001676,CN002092,4,Excellent follow-up care,2024-08-05
+FB00301,M001312,CN004533,4,Doctor explained everything clearly,2025-06-17
+FB00302,M000620,CN001638,1,Very satisfied with the consultation,2024-03-22
+FB00303,M001011,CN005710,4,Needs faster appointment scheduling,2025-12-04
+FB00304,M000224,CN003019,5,Long wait time at the clinic,2025-05-31
+FB00305,M001566,CN005990,5,Excellent follow-up care,2025-10-20
+FB00306,M000445,CN001064,3,Telemedicine call quality was poor,2024-07-30
+FB00307,M001233,CN004295,3,Excellent follow-up care,2024-12-02
+FB00308,M001206,CN000259,5,Excellent follow-up care,2024-07-25
+FB00309,M000533,CN004279,4,Telemedicine call quality was poor,2024-02-02
+FB00310,M000031,CN001259,2,Excellent follow-up care,2025-05-04
+FB00311,M001327,CN003640,5,"Great experience, doctor was very attentive",2024-10-27
+FB00312,M000106,CN001436,4,Would recommend to others,2024-01-20
+FB00313,M001470,CN004485,2,Telemedicine call quality was poor,2025-09-01
+FB00314,M001435,CN001201,4,Telemedicine call quality was poor,2024-03-29
+FB00315,M001101,CN004305,4,Needs faster appointment scheduling,2025-08-22
+FB00316,M002491,CN001376,5,Telemedicine call quality was poor,2024-05-18
+FB00317,M001743,CN000932,5,Staff was helpful and courteous,2025-11-12
+FB00318,M001193,CN001111,4,Telemedicine call quality was poor,2025-11-09
+FB00319,M000064,CN002958,4,Telemedicine call quality was poor,2025-06-02
+FB00320,M000917,CN000068,5,Staff was helpful and courteous,2024-02-09
+FB00321,M001238,CN002509,5,Telemedicine call quality was poor,2025-06-08
+FB00322,M000767,CN002539,5,Excellent follow-up care,2025-08-29
+FB00323,M000965,CN003545,2,Very satisfied with the consultation,2025-05-02
+FB00324,M002007,CN005603,3,Long wait time at the clinic,2025-10-16
+FB00325,M001324,CN004806,5,Very satisfied with the consultation,2025-05-26
+FB00326,M002056,CN004924,2,Would recommend to others,2024-03-21
+FB00327,M001332,CN004978,5,Long wait time at the clinic,2024-09-17
+FB00328,M002429,CN000354,2,Telemedicine call quality was poor,2024-11-10
+FB00329,M002183,CN001571,4,Very satisfied with the consultation,2025-04-01
+FB00330,M002387,CN004527,5,Excellent follow-up care,2025-11-05
+FB00331,M002218,CN004489,5,Staff was helpful and courteous,2025-01-14
+FB00332,M000141,CN001221,3,Very satisfied with the consultation,2025-07-08
+FB00333,M000633,CN004341,5,Would recommend to others,2024-03-03
+FB00334,M000101,CN003657,5,Very satisfied with the consultation,2025-07-02
+FB00335,M001875,CN004063,4,Would recommend to others,2024-05-19
+FB00336,M000559,CN000070,4,Telemedicine call quality was poor,2024-10-14
+FB00337,M002469,CN001737,4,Staff was helpful and courteous,2024-05-10
+FB00338,M000883,CN003660,3,Needs faster appointment scheduling,2025-09-16
+FB00339,M001238,CN002509,5,Telemedicine call quality was poor,2025-06-08
+FB00340,M001550,CN001402,3,Doctor explained everything clearly,2025-11-08
+FB00341,M000693,CN002811,5,Staff was helpful and courteous,2025-12-31
+FB00342,M001930,CN001805,2,Telemedicine call quality was poor,2024-05-03
+FB00343,M001531,CN005890,4,Doctor explained everything clearly,2025-08-14
+FB00344,M002004,CN002884,5,Very satisfied with the consultation,2025-08-01
+FB00345,M002430,CN003414,2,"Great experience, doctor was very attentive",2024-01-20
+FB00346,M000009,CN001488,5,Excellent follow-up care,2025-05-31
+FB00347,M000112,CN001947,4,Long wait time at the clinic,2024-04-03
+FB00348,M000698,CN000587,5,Staff was helpful and courteous,2025-05-19
+FB00349,M000957,CN005533,2,Long wait time at the clinic,2024-11-13
+FB00350,M002384,CN000294,2,Staff was helpful and courteous,2025-11-15
+FB00351,M000067,CN002400,3,"Great experience, doctor was very attentive",2025-06-02
+FB00352,M000475,CN004217,5,Would recommend to others,2024-03-04
+FB00353,M001239,CN000595,2,Doctor explained everything clearly,2025-11-12
+FB00354,M001099,CN000509,3,Needs faster appointment scheduling,2025-04-30
+FB00355,M002404,CN004393,3,Very satisfied with the consultation,2024-11-16
+FB00356,M000191,CN002169,4,"Great experience, doctor was very attentive",2025-11-06
+FB00357,M000351,CN002915,5,"Great experience, doctor was very attentive",2024-04-18
+FB00358,M002177,CN005860,3,Excellent follow-up care,2025-07-12
+FB00359,M002397,CN001176,4,Telemedicine call quality was poor,2024-10-26
+FB00360,M001917,CN005729,5,Average experience overall,2025-09-03
+FB00361,M002004,CN000021,4,Would recommend to others,2025-06-06
+FB00362,M001868,CN003228,4,Staff was helpful and courteous,2024-04-16
+FB00363,M000437,CN001651,4,Long wait time at the clinic,2025-12-26
+FB00364,M001164,CN004329,2,Very satisfied with the consultation,2024-12-08
+FB00365,M001326,CN001366,5,Very satisfied with the consultation,2025-09-06
+FB00366,M000259,CN001707,4,Needs faster appointment scheduling,2024-06-18
+FB00367,M002324,CN001763,5,Needs faster appointment scheduling,2025-08-20
+FB00368,M000169,CN001677,5,Long wait time at the clinic,2025-01-28
+FB00369,M001805,CN003329,2,Average experience overall,2024-10-16
+FB00370,M000797,CN003808,4,Staff was helpful and courteous,2025-04-16
+FB00371,M001064,CN005749,1,Excellent follow-up care,2024-01-23
+FB00372,M002032,CN000882,3,Average experience overall,2025-07-20
+FB00373,M002482,CN004221,5,Would recommend to others,2025-09-12
+FB00374,M001546,CN003627,5,Very satisfied with the consultation,2024-08-03
+FB00375,M001441,CN002726,2,Long wait time at the clinic,2025-06-08
+FB00376,M001151,CN001555,3,"Great experience, doctor was very attentive",2024-10-29
+FB00377,M002135,CN000642,4,"Great experience, doctor was very attentive",2025-02-14
+FB00378,M000676,CN003718,3,Would recommend to others,2025-05-24
+FB00379,M001225,CN005840,3,Needs faster appointment scheduling,2025-08-28
+FB00380,M001765,CN005903,3,Needs faster appointment scheduling,2025-03-27
+FB00381,M001100,CN005084,5,Average experience overall,2025-11-23
+FB00382,M001429,CN000025,5,Telemedicine call quality was poor,2025-10-08
+FB00383,M000630,CN000074,4,Staff was helpful and courteous,2024-06-08
+FB00384,M000159,CN002118,3,Staff was helpful and courteous,2024-08-05
+FB00385,M000071,CN001640,4,Long wait time at the clinic,2024-08-13
+FB00386,M000362,CN004150,5,Excellent follow-up care,2024-06-15
+FB00387,M001574,CN004739,5,Staff was helpful and courteous,2024-06-16
+FB00388,M000968,CN001804,5,Would recommend to others,2025-04-15
+FB00389,M001865,CN003831,5,"Great experience, doctor was very attentive",2024-04-29
+FB00390,M001692,CN003889,3,Doctor explained everything clearly,2024-09-25
+FB00391,M000999,CN002486,4,Staff was helpful and courteous,2025-07-17
+FB00392,M001962,CN001414,5,"Great experience, doctor was very attentive",2025-02-12
+FB00393,M001355,CN003431,5,Excellent follow-up care,2025-06-04
+FB00394,M002295,CN000655,4,Long wait time at the clinic,2024-05-17
+FB00395,M001113,CN001909,4,Long wait time at the clinic,2024-07-28
+FB00396,M002023,CN004542,3,Needs faster appointment scheduling,2025-11-03
+FB00397,M000299,CN001791,5,Doctor explained everything clearly,2024-11-29
+FB00398,M000768,CN005792,3,Doctor explained everything clearly,2024-02-06
+FB00399,M000395,CN003861,5,Needs faster appointment scheduling,2024-04-26
+FB00400,M001153,CN000909,3,Telemedicine call quality was poor,2025-08-02
+FB00401,M001005,CN003927,5,Long wait time at the clinic,2024-07-31
+FB00402,M000715,CN005872,5,Would recommend to others,2025-03-22
+FB00403,M001403,CN002602,1,Needs faster appointment scheduling,2025-03-05
+FB00404,M000104,CN005191,4,Very satisfied with the consultation,2024-12-24
+FB00405,M000582,CN005483,5,Needs faster appointment scheduling,2024-04-13
+FB00406,M001887,CN000794,5,Telemedicine call quality was poor,2024-05-28
+FB00407,M000266,CN001998,5,Telemedicine call quality was poor,2025-04-04
+FB00408,M000762,CN004357,1,"Great experience, doctor was very attentive",2024-12-20
+FB00409,M001329,CN003587,2,Average experience overall,2025-02-07
+FB00410,M000321,CN005166,5,Excellent follow-up care,2024-08-27
+FB00411,M001282,CN000835,5,Telemedicine call quality was poor,2024-04-12
+FB00412,M000957,CN001775,4,Staff was helpful and courteous,2025-07-10
+FB00413,M000323,CN000005,1,Average experience overall,2025-06-09
+FB00414,M000553,CN001079,3,Average experience overall,2025-11-15
+FB00415,M001454,CN000460,1,Doctor explained everything clearly,2024-03-27
+FB00416,M000187,CN005686,3,Would recommend to others,2024-09-18
+FB00417,M001484,CN005976,4,Would recommend to others,2025-12-02
+FB00418,M001722,CN002697,2,Average experience overall,2024-09-04
+FB00419,M001854,CN004926,2,Very satisfied with the consultation,2024-05-29
+FB00420,M001717,CN001899,5,Would recommend to others,2024-05-08
+FB00421,M002233,CN003819,5,Would recommend to others,2025-09-06
+FB00422,M002437,CN004140,5,"Great experience, doctor was very attentive",2024-06-22
+FB00423,M001082,CN003976,5,Staff was helpful and courteous,2024-01-06
+FB00424,M001029,CN003453,1,Average experience overall,2024-01-14
+FB00425,M000787,CN001480,5,Staff was helpful and courteous,2025-06-02
+FB00426,M002073,CN004079,5,Very satisfied with the consultation,2024-11-26
+FB00427,M001396,CN001551,5,Excellent follow-up care,2025-01-19
+FB00428,M000034,CN005297,4,Staff was helpful and courteous,2025-08-10
+FB00429,M002469,CN001737,2,Average experience overall,2024-05-10
+FB00430,M000927,CN005123,5,Long wait time at the clinic,2024-10-05
+FB00431,M000575,CN003894,5,Very satisfied with the consultation,2025-08-12
+FB00432,M000150,CN001813,5,Average experience overall,2025-05-10
+FB00433,M001985,CN002990,3,Telemedicine call quality was poor,2025-05-18
+FB00434,M002095,CN001078,4,Average experience overall,2025-08-22
+FB00435,M001505,CN004558,4,Excellent follow-up care,2024-09-01
+FB00436,M001460,CN005639,5,Long wait time at the clinic,2025-04-07
+FB00437,M000398,CN002151,4,Excellent follow-up care,2025-11-08
+FB00438,M001907,CN000914,3,Telemedicine call quality was poor,2025-05-18
+FB00439,M002135,CN005858,4,Very satisfied with the consultation,2024-06-25
+FB00440,M001995,CN005683,3,Staff was helpful and courteous,2025-08-21
+FB00441,M000504,CN000836,5,Doctor explained everything clearly,2025-10-31
+FB00442,M000996,CN001637,3,Excellent follow-up care,2024-06-15
+FB00443,M002236,CN002361,2,Doctor explained everything clearly,2024-01-31
+FB00444,M001193,CN002666,5,Would recommend to others,2025-10-22
+FB00445,M000895,CN003341,5,Very satisfied with the consultation,2025-06-07
+FB00446,M001038,CN004286,4,Would recommend to others,2025-05-03
+FB00447,M001542,CN004425,3,Would recommend to others,2025-07-11
+FB00448,M000625,CN000883,4,Doctor explained everything clearly,2024-10-18
+FB00449,M001598,CN003644,5,Very satisfied with the consultation,2025-10-16
+FB00450,M002304,CN003935,5,Excellent follow-up care,2025-03-09
+FB00451,M001564,CN000501,4,Average experience overall,2025-12-11
+FB00452,M001707,CN000331,4,Doctor explained everything clearly,2025-08-01
+FB00453,M001906,CN005819,5,Excellent follow-up care,2025-09-01
+FB00454,M001346,CN005545,4,Very satisfied with the consultation,2025-11-28
+FB00455,M000743,CN004050,4,Needs faster appointment scheduling,2024-06-15
+FB00456,M000904,CN005133,5,Average experience overall,2025-10-05
+FB00457,M001262,CN001838,5,Very satisfied with the consultation,2025-08-01
+FB00458,M002247,CN002681,5,Long wait time at the clinic,2025-01-25
+FB00459,M001749,CN002239,4,Average experience overall,2024-04-21
+FB00460,M000813,CN001681,2,Would recommend to others,2025-02-05
+FB00461,M000693,CN005253,3,Long wait time at the clinic,2024-08-16
+FB00462,M001225,CN003225,5,Telemedicine call quality was poor,2025-05-19
+FB00463,M001304,CN000783,4,Staff was helpful and courteous,2025-06-14
+FB00464,M000556,CN004987,4,"Great experience, doctor was very attentive",2024-06-11
+FB00465,M001095,CN003246,4,Needs faster appointment scheduling,2025-02-18
+FB00466,M001093,CN005339,4,Very satisfied with the consultation,2024-08-23
+FB00467,M001921,CN003948,3,Telemedicine call quality was poor,2024-03-12
+FB00468,M001163,CN005391,4,Needs faster appointment scheduling,2025-07-23
+FB00469,M001657,CN005390,5,Needs faster appointment scheduling,2025-03-15
+FB00470,M000475,CN004217,2,Would recommend to others,2024-03-04
+FB00471,M001729,CN003798,3,Telemedicine call quality was poor,2025-09-20
+FB00472,M001169,CN002386,5,Doctor explained everything clearly,2025-12-03
+FB00473,M000853,CN001578,4,Would recommend to others,2025-10-23
+FB00474,M001946,CN005853,5,"Great experience, doctor was very attentive",2024-05-06
+FB00475,M001578,CN002847,3,Average experience overall,2025-06-07
+FB00476,M001400,CN005851,1,"Great experience, doctor was very attentive",2025-08-19
+FB00477,M001438,CN000199,4,Very satisfied with the consultation,2024-12-23
+FB00478,M000804,CN001513,5,Long wait time at the clinic,2024-04-26
+FB00479,M000866,CN003603,4,Would recommend to others,2025-12-26
+FB00480,M000927,CN004576,4,Doctor explained everything clearly,2025-12-22
+FB00481,M000045,CN000431,5,Very satisfied with the consultation,2025-07-11
+FB00482,M002266,CN002765,2,Would recommend to others,2025-05-03
+FB00483,M000270,CN000817,5,Very satisfied with the consultation,2025-03-07
+FB00484,M000112,CN001935,4,"Great experience, doctor was very attentive",2025-09-19
+FB00485,M001892,CN001210,4,Telemedicine call quality was poor,2024-06-21
+FB00486,M001113,CN001909,4,Needs faster appointment scheduling,2024-07-28
+FB00487,M001450,CN003482,5,"Great experience, doctor was very attentive",2025-12-22
+FB00488,M000152,CN002722,5,Would recommend to others,2025-10-03
+FB00489,M000902,CN002111,2,Staff was helpful and courteous,2025-09-13
+FB00490,M000303,CN002550,4,Would recommend to others,2025-03-15
+FB00491,M001172,CN004388,5,Long wait time at the clinic,2024-03-02
+FB00492,M002300,CN001084,2,Doctor explained everything clearly,2024-06-16
+FB00493,M000944,CN002472,5,Doctor explained everything clearly,2024-03-09
+FB00494,M001377,CN004723,2,Excellent follow-up care,2025-10-24
+FB00495,M002047,CN001764,5,Would recommend to others,2025-03-17
+FB00496,M000479,CN001415,5,"Great experience, doctor was very attentive",2025-03-06
+FB00497,M000504,CN000836,4,Staff was helpful and courteous,2025-10-31
+FB00498,M000996,CN005173,4,Excellent follow-up care,2025-07-01
+FB00499,M002454,CN000107,2,Long wait time at the clinic,2025-06-24
+FB00500,M001925,CN005510,2,"Great experience, doctor was very attentive",2025-07-13
+FB00501,M001528,CN002524,5,Telemedicine call quality was poor,2024-10-22
+FB00502,M002074,CN001624,2,Excellent follow-up care,2024-05-31
+FB00503,M000880,CN001512,5,Excellent follow-up care,2025-12-16
+FB00504,M002202,CN000159,4,Would recommend to others,2024-04-10
+FB00505,M001572,CN003909,5,Would recommend to others,2025-12-27
+FB00506,M001329,CN005513,5,"Great experience, doctor was very attentive",2024-07-14
+FB00507,M001379,CN003964,4,Excellent follow-up care,2025-09-19
+FB00508,M001688,CN001128,5,Average experience overall,2025-08-23
+FB00509,M001912,CN001931,4,Would recommend to others,2024-08-14
+FB00510,M000509,CN004251,5,"Great experience, doctor was very attentive",2024-02-11
+FB00511,M001392,CN004433,3,Long wait time at the clinic,2025-11-29
+FB00512,M001065,CN004025,4,"Great experience, doctor was very attentive",2025-06-17
+FB00513,M001306,CN003213,3,Would recommend to others,2025-05-23
+FB00514,M001394,CN003828,5,Excellent follow-up care,2024-10-16
+FB00515,M000162,CN005252,3,Long wait time at the clinic,2024-03-28
+FB00516,M001589,CN001664,3,Needs faster appointment scheduling,2025-10-30
+FB00517,M001751,CN003153,4,Needs faster appointment scheduling,2025-07-29
+FB00518,M000001,CN005532,4,Long wait time at the clinic,2024-02-03
+FB00519,M000109,CN005991,3,Telemedicine call quality was poor,2025-09-30
+FB00520,M001830,CN003161,4,Telemedicine call quality was poor,2024-05-09
+FB00521,M000109,CN004084,3,Staff was helpful and courteous,2024-07-21
+FB00522,M001442,CN000290,4,Doctor explained everything clearly,2024-10-28
+FB00523,M000521,CN004495,4,Average experience overall,2024-02-04
+FB00524,M002498,CN003211,3,Telemedicine call quality was poor,2024-04-03
+FB00525,M002267,CN002058,3,Would recommend to others,2024-07-07
+FB00526,M002081,CN002440,4,Average experience overall,2025-10-21
+FB00527,M002457,CN000563,3,Very satisfied with the consultation,2025-05-02
+FB00528,M000633,CN003800,3,Telemedicine call quality was poor,2025-02-19
+FB00529,M000634,CN000081,5,Needs faster appointment scheduling,2025-05-12
+FB00530,M001832,CN005044,5,Very satisfied with the consultation,2025-10-27
+FB00531,M000451,CN000498,4,"Great experience, doctor was very attentive",2024-07-02
+FB00532,M002356,CN003527,3,"Great experience, doctor was very attentive",2024-12-25
+FB00533,M001926,CN002462,5,Telemedicine call quality was poor,2024-05-04
+FB00534,M001299,CN001224,5,Staff was helpful and courteous,2024-09-12
+FB00535,M000882,CN001913,4,Excellent follow-up care,2024-02-01
+FB00536,M000830,CN000084,4,Doctor explained everything clearly,2024-02-17
+FB00537,M001709,CN002254,5,Needs faster appointment scheduling,2024-03-20
+FB00538,M000638,CN002335,3,Doctor explained everything clearly,2025-07-27
+FB00539,M000530,CN002927,3,Very satisfied with the consultation,2024-07-17
+FB00540,M002128,CN000463,3,Long wait time at the clinic,2024-09-22
+FB00541,M002391,CN004089,1,Telemedicine call quality was poor,2025-04-19
+FB00542,M002440,CN004688,2,Needs faster appointment scheduling,2024-10-28
+FB00543,M000826,CN004901,4,Long wait time at the clinic,2024-09-05
+FB00544,M002089,CN002098,5,Staff was helpful and courteous,2025-05-21
+FB00545,M001895,CN005398,5,Average experience overall,2024-03-04
+FB00546,M001721,CN003226,3,"Great experience, doctor was very attentive",2024-01-03
+FB00547,M000784,CN004318,4,Long wait time at the clinic,2025-06-09
+FB00548,M000418,CN000289,4,Long wait time at the clinic,2024-08-06
+FB00549,M001721,CN000623,2,Telemedicine call quality was poor,2024-05-15
+FB00550,M001309,CN005748,4,Excellent follow-up care,2025-09-25
+FB00551,M000074,CN004165,5,"Great experience, doctor was very attentive",2025-03-30
+FB00552,M001867,CN005468,5,Excellent follow-up care,2025-09-01
+FB00553,M001976,CN000397,4,Very satisfied with the consultation,2024-10-16
+FB00554,M000126,CN005335,2,Average experience overall,2024-06-17
+FB00555,M000506,CN005217,5,Very satisfied with the consultation,2025-02-06
+FB00556,M002469,CN001092,4,"Great experience, doctor was very attentive",2024-03-23
+FB00557,M001873,CN005375,3,Excellent follow-up care,2025-10-20
+FB00558,M001579,CN001195,5,Long wait time at the clinic,2024-06-25
+FB00559,M001694,CN003242,4,Staff was helpful and courteous,2025-03-11
+FB00560,M000151,CN000368,4,Would recommend to others,2024-07-26
+FB00561,M001408,CN005934,4,Average experience overall,2024-01-20
+FB00562,M000178,CN004704,4,"Great experience, doctor was very attentive",2025-02-25
+FB00563,M000248,CN005839,4,Staff was helpful and courteous,2025-10-21
+FB00564,M001083,CN003445,5,Long wait time at the clinic,2025-04-12
+FB00565,M001381,CN004974,4,Staff was helpful and courteous,2024-03-10
+FB00566,M002191,CN003008,3,Long wait time at the clinic,2024-10-31
+FB00567,M001524,CN005538,1,Telemedicine call quality was poor,2024-02-07
+FB00568,M001924,CN003769,5,Needs faster appointment scheduling,2024-11-12
+FB00569,M002121,CN002709,2,Needs faster appointment scheduling,2025-02-17
+FB00570,M002417,CN004501,3,Excellent follow-up care,2025-01-23
+FB00571,M002049,CN004076,1,Excellent follow-up care,2025-08-31
+FB00572,M000001,CN005709,4,Average experience overall,2025-03-05
+FB00573,M000302,CN000100,5,"Great experience, doctor was very attentive",2025-10-19
+FB00574,M000506,CN005217,2,Doctor explained everything clearly,2025-02-06
+FB00575,M000323,CN002057,1,Excellent follow-up care,2025-12-27
+FB00576,M000443,CN000143,4,Doctor explained everything clearly,2024-10-08
+FB00577,M001565,CN004170,3,"Great experience, doctor was very attentive",2024-03-20
+FB00578,M000803,CN004291,4,Average experience overall,2025-11-22
+FB00579,M000561,CN003472,5,"Great experience, doctor was very attentive",2025-07-24
+FB00580,M000724,CN002258,3,Needs faster appointment scheduling,2025-09-22
+FB00581,M000221,CN005789,4,Staff was helpful and courteous,2024-11-10
+FB00582,M000551,CN004302,5,Average experience overall,2024-04-19
+FB00583,M002219,CN004633,5,Very satisfied with the consultation,2024-11-27
+FB00584,M001883,CN004229,5,Staff was helpful and courteous,2024-12-22
+FB00585,M001970,CN004912,5,Long wait time at the clinic,2025-07-08
+FB00586,M000400,CN002432,4,"Great experience, doctor was very attentive",2024-04-10
+FB00587,M000458,CN005284,5,Long wait time at the clinic,2024-05-13
+FB00588,M001960,CN000492,4,Telemedicine call quality was poor,2025-10-19
+FB00589,M001806,CN002940,5,Staff was helpful and courteous,2024-11-01
+FB00590,M001886,CN002143,4,Long wait time at the clinic,2024-09-15
+FB00591,M000797,CN002792,2,Telemedicine call quality was poor,2024-09-30
+FB00592,M000056,CN003339,5,Staff was helpful and courteous,2025-06-05
+FB00593,M001107,CN001625,4,Telemedicine call quality was poor,2024-10-15
+FB00594,M002222,CN001881,5,Telemedicine call quality was poor,2025-05-14
+FB00595,M000243,CN005736,5,Telemedicine call quality was poor,2024-09-15
+FB00596,M001003,CN001162,4,Average experience overall,2024-05-24
+FB00597,M000920,CN004665,4,Telemedicine call quality was poor,2024-08-27
+FB00598,M000152,CN002722,2,Long wait time at the clinic,2025-10-03
+FB00599,M001119,CN003310,4,Would recommend to others,2024-09-12
+FB00600,M000272,CN002170,4,Long wait time at the clinic,2024-06-01
+FB00601,M001108,CN000838,3,Doctor explained everything clearly,2024-08-03
+FB00602,M000883,CN000525,4,Excellent follow-up care,2024-10-10
+FB00603,M001887,CN002496,5,Telemedicine call quality was poor,2024-06-06
+FB00604,M001712,CN004111,4,Long wait time at the clinic,2024-12-14
+FB00605,M002264,CN002372,3,"Great experience, doctor was very attentive",2025-03-27
+FB00606,M001389,CN003486,4,Long wait time at the clinic,2025-11-08
+FB00607,M002211,CN004838,3,Telemedicine call quality was poor,2024-09-17
+FB00608,M001774,CN004167,2,Long wait time at the clinic,2025-08-12
+FB00609,M000352,CN001077,4,Very satisfied with the consultation,2024-08-31
+FB00610,M000045,CN000417,5,Average experience overall,2025-08-10
+FB00611,M002054,CN002655,5,"Great experience, doctor was very attentive",2024-09-13
+FB00612,M000990,CN005725,2,Doctor explained everything clearly,2025-11-11
+FB00613,M001346,CN001474,5,Staff was helpful and courteous,2024-09-16
+FB00614,M000545,CN000296,3,"Great experience, doctor was very attentive",2025-07-26
+FB00615,M002410,CN003675,1,"Great experience, doctor was very attentive",2025-06-29
+FB00616,M002302,CN003365,3,Needs faster appointment scheduling,2024-01-21
+FB00617,M000890,CN003147,2,Average experience overall,2024-06-29
+FB00618,M000617,CN000841,4,Staff was helpful and courteous,2025-07-01
+FB00619,M000940,CN002845,5,Doctor explained everything clearly,2024-09-11
+FB00620,M001054,CN002597,5,Excellent follow-up care,2024-09-11
+FB00621,M000047,CN003433,5,Doctor explained everything clearly,2024-12-26
+FB00622,M001988,CN000682,3,Needs faster appointment scheduling,2025-09-30
+FB00623,M002246,CN000975,5,Long wait time at the clinic,2024-10-09
+FB00624,M000920,CN003575,3,Average experience overall,2024-04-26
+FB00625,M002369,CN000995,5,Telemedicine call quality was poor,2025-01-23
+FB00626,M001198,CN004730,5,Very satisfied with the consultation,2025-03-05
+FB00627,M001600,CN002561,1,Needs faster appointment scheduling,2024-08-29
+FB00628,M000427,CN001029,4,Average experience overall,2025-04-18
+FB00629,M000963,CN004311,5,Staff was helpful and courteous,2024-08-07
+FB00630,M000500,CN003073,4,Excellent follow-up care,2024-03-26
+FB00631,M000430,CN002251,4,Excellent follow-up care,2025-08-14
+FB00632,M001279,CN005870,4,Would recommend to others,2024-08-21
+FB00633,M002155,CN001349,3,Needs faster appointment scheduling,2025-12-06
+FB00634,M001427,CN004013,3,"Great experience, doctor was very attentive",2025-10-02
+FB00635,M001071,CN005746,2,Long wait time at the clinic,2024-02-14
+FB00636,M000097,CN001495,3,Average experience overall,2025-04-30
+FB00637,M000653,CN001303,5,"Great experience, doctor was very attentive",2024-02-02
+FB00638,M002262,CN000957,3,Very satisfied with the consultation,2025-08-01
+FB00639,M000589,CN004499,2,Needs faster appointment scheduling,2024-07-22
+FB00640,M000720,CN005411,4,Average experience overall,2024-08-12
+FB00641,M000428,CN003308,3,Very satisfied with the consultation,2025-06-16
+FB00642,M000944,CN003763,5,Very satisfied with the consultation,2025-12-02
+FB00643,M000446,CN004250,5,Would recommend to others,2024-11-01
+FB00644,M002110,CN003902,5,Excellent follow-up care,2025-08-30
+FB00645,M001060,CN005982,5,Doctor explained everything clearly,2024-09-12
+FB00646,M000151,CN005056,5,Needs faster appointment scheduling,2025-01-25
+FB00647,M002073,CN004182,1,Telemedicine call quality was poor,2025-08-22
+FB00648,M002405,CN005638,3,Would recommend to others,2025-03-24
+FB00649,M000710,CN001735,4,Doctor explained everything clearly,2025-12-01
+FB00650,M001051,CN003914,3,Excellent follow-up care,2024-11-13
+FB00651,M001121,CN001733,4,"Great experience, doctor was very attentive",2025-02-16
+FB00652,M000730,CN005577,5,Long wait time at the clinic,2024-07-07
+FB00653,M000482,CN000737,4,Would recommend to others,2024-09-25
+FB00654,M000354,CN004572,5,Needs faster appointment scheduling,2024-12-06
+FB00655,M000797,CN000419,5,Needs faster appointment scheduling,2024-07-24
+FB00656,M000837,CN004039,4,Needs faster appointment scheduling,2024-08-19
+FB00657,M002365,CN000589,4,Would recommend to others,2024-07-16
+FB00658,M001152,CN005791,2,"Great experience, doctor was very attentive",2024-07-21
+FB00659,M001987,CN000980,4,Would recommend to others,2024-01-05
+FB00660,M000269,CN004123,4,Average experience overall,2024-08-18
+FB00661,M000553,CN000014,4,Needs faster appointment scheduling,2024-04-22
+FB00662,M000433,CN002944,5,Excellent follow-up care,2024-06-10
+FB00663,M000862,CN005756,5,Would recommend to others,2025-03-26
+FB00664,M002216,CN002005,2,"Great experience, doctor was very attentive",2024-10-19
+FB00665,M000604,CN000637,4,Very satisfied with the consultation,2024-07-20
+FB00666,M000045,CN003777,4,Very satisfied with the consultation,2025-07-20
+FB00667,M001592,CN000095,3,Needs faster appointment scheduling,2025-12-31
+FB00668,M000113,CN001662,5,Doctor explained everything clearly,2025-07-26
+FB00669,M001373,CN000956,5,Would recommend to others,2025-09-13
+FB00670,M000990,CN002498,5,Long wait time at the clinic,2025-07-21
+FB00671,M002471,CN002771,3,"Great experience, doctor was very attentive",2025-11-19
+FB00672,M001236,CN003456,5,Long wait time at the clinic,2025-03-25
+FB00673,M001335,CN001319,4,Long wait time at the clinic,2025-08-14
+FB00674,M000152,CN005017,5,Staff was helpful and courteous,2025-03-28
+FB00675,M001841,CN005277,1,Telemedicine call quality was poor,2024-11-21
+FB00676,M000180,CN002334,4,Doctor explained everything clearly,2025-08-22
+FB00677,M001616,CN003685,4,Average experience overall,2025-05-20
+FB00678,M001548,CN002247,5,Long wait time at the clinic,2024-03-29
+FB00679,M002149,CN000156,4,"Great experience, doctor was very attentive",2025-12-02
+FB00680,M000898,CN004210,5,Excellent follow-up care,2024-08-31
+FB00681,M000431,CN005218,3,Staff was helpful and courteous,2025-05-26
+FB00682,M000362,CN000234,3,Average experience overall,2024-03-11
+FB00683,M002177,CN001246,4,Very satisfied with the consultation,2025-08-26
+FB00684,M001435,CN001201,5,Doctor explained everything clearly,2024-03-29
+FB00685,M002170,CN004837,3,Telemedicine call quality was poor,2025-12-02
+FB00686,M000401,CN000079,5,Very satisfied with the consultation,2025-12-23
+FB00687,M002444,CN005806,5,Would recommend to others,2024-05-30
+FB00688,M002266,CN002191,3,Doctor explained everything clearly,2024-04-06
+FB00689,M000067,CN001393,3,Average experience overall,2025-02-28
+FB00690,M000222,CN000788,5,Needs faster appointment scheduling,2024-09-17
+FB00691,M001145,CN001939,5,Excellent follow-up care,2024-06-19
+FB00692,M001790,CN004429,5,Excellent follow-up care,2024-05-03
+FB00693,M002223,CN004552,1,Excellent follow-up care,2024-03-29
+FB00694,M000110,CN000134,4,Excellent follow-up care,2024-12-03
+FB00695,M001195,CN004731,5,Telemedicine call quality was poor,2024-03-21
+FB00696,M001662,CN003923,5,Needs faster appointment scheduling,2024-04-21
+FB00697,M000823,CN004861,4,Telemedicine call quality was poor,2025-10-06
+FB00698,M000692,CN000167,2,Doctor explained everything clearly,2024-12-27
+FB00699,M000935,CN000944,1,Needs faster appointment scheduling,2024-04-02
+FB00700,M002222,CN003133,5,Average experience overall,2025-02-02
+FB00701,M001673,CN003666,3,Doctor explained everything clearly,2025-08-05
+FB00702,M001983,CN001165,4,Staff was helpful and courteous,2025-02-01
+FB00703,M001348,CN002379,1,Staff was helpful and courteous,2024-01-09
+FB00704,M002172,CN001994,2,Very satisfied with the consultation,2025-12-04
+FB00705,M002454,CN000590,4,Telemedicine call quality was poor,2025-02-04
+FB00706,M002474,CN000251,1,Staff was helpful and courteous,2024-06-21
+FB00707,M001393,CN005024,5,Needs faster appointment scheduling,2024-10-30
+FB00708,M002048,CN003712,4,Average experience overall,2024-08-14
+FB00709,M000159,CN002804,4,"Great experience, doctor was very attentive",2024-03-02
+FB00710,M002373,CN003439,3,Staff was helpful and courteous,2024-08-14
+FB00711,M000769,CN003523,5,Needs faster appointment scheduling,2025-02-16
+FB00712,M001424,CN002775,4,Would recommend to others,2025-01-24
+FB00713,M002156,CN002718,2,Doctor explained everything clearly,2025-12-26
+FB00714,M000622,CN004212,3,Very satisfied with the consultation,2025-04-08
+FB00715,M001304,CN005083,4,Excellent follow-up care,2024-05-20
+FB00716,M001132,CN001844,5,"Great experience, doctor was very attentive",2024-04-10
+FB00717,M001143,CN000766,4,Long wait time at the clinic,2024-06-24
+FB00718,M001839,CN001650,4,Telemedicine call quality was poor,2024-08-28
+FB00719,M001914,CN002593,5,Long wait time at the clinic,2024-07-01
+FB00720,M001224,CN005836,5,Excellent follow-up care,2024-07-31
+FB00721,M001069,CN003297,3,Average experience overall,2025-10-05
+FB00722,M001675,CN001403,4,"Great experience, doctor was very attentive",2025-06-01
+FB00723,M002024,CN003238,3,Would recommend to others,2025-01-05
+FB00724,M000670,CN001526,3,Long wait time at the clinic,2025-11-09
+FB00725,M000001,CN005709,4,Very satisfied with the consultation,2025-03-05
+FB00726,M000023,CN004149,5,Excellent follow-up care,2024-04-21
+FB00727,M002487,CN002809,4,Needs faster appointment scheduling,2025-11-25
+FB00728,M001998,CN004922,5,Telemedicine call quality was poor,2025-02-17
+FB00729,M001267,CN002596,2,Long wait time at the clinic,2024-05-19
+FB00730,M001875,CN004063,1,Average experience overall,2024-05-19
+FB00731,M001896,CN002255,4,Average experience overall,2024-05-07
+FB00732,M000508,CN000614,2,Would recommend to others,2024-01-04
+FB00733,M001564,CN003836,5,Excellent follow-up care,2024-12-07
+FB00734,M001968,CN001087,3,Very satisfied with the consultation,2025-01-31
+FB00735,M000255,CN000795,5,Doctor explained everything clearly,2025-12-19
+FB00736,M001960,CN000492,5,Telemedicine call quality was poor,2025-10-19
+FB00737,M000800,CN004187,3,Would recommend to others,2025-02-15
+FB00738,M000784,CN005960,1,Doctor explained everything clearly,2024-08-08
+FB00739,M001598,CN005193,2,Very satisfied with the consultation,2024-02-26
+FB00740,M001668,CN000821,5,Would recommend to others,2025-09-04
+FB00741,M001002,CN003655,4,Needs faster appointment scheduling,2025-02-04
+FB00742,M001065,CN004491,5,Staff was helpful and courteous,2025-09-05
+FB00743,M001005,CN004284,5,Needs faster appointment scheduling,2024-05-19
+FB00744,M000590,CN003177,3,"Great experience, doctor was very attentive",2024-05-26
+FB00745,M001034,CN004780,5,Average experience overall,2025-06-28
+FB00746,M001423,CN002661,4,Doctor explained everything clearly,2024-11-16
+FB00747,M001252,CN005127,1,Would recommend to others,2025-03-18
+FB00748,M000717,CN003547,2,Long wait time at the clinic,2024-05-26
+FB00749,M000578,CN005514,4,Needs faster appointment scheduling,2024-11-13
+FB00750,M000631,CN002049,2,Would recommend to others,2024-09-12
+FB00751,M001536,CN000843,5,Doctor explained everything clearly,2024-01-04
+FB00752,M000265,CN005406,3,Doctor explained everything clearly,2024-04-20
+FB00753,M002390,CN005317,5,Needs faster appointment scheduling,2024-10-04
+FB00754,M001737,CN001044,4,Excellent follow-up care,2025-05-05
+FB00755,M001608,CN004004,5,Needs faster appointment scheduling,2024-04-23
+FB00756,M001727,CN001423,3,Doctor explained everything clearly,2025-06-19
+FB00757,M000746,CN001486,1,"Great experience, doctor was very attentive",2025-03-01
+FB00758,M000664,CN002476,5,Telemedicine call quality was poor,2024-03-05
+FB00759,M000677,CN004081,5,Doctor explained everything clearly,2025-08-12
+FB00760,M002451,CN004086,2,Excellent follow-up care,2024-03-19
+FB00761,M000660,CN005981,5,Very satisfied with the consultation,2024-10-13
+FB00762,M000115,CN002619,5,Would recommend to others,2025-02-21
+FB00763,M001454,CN003951,4,"Great experience, doctor was very attentive",2025-12-17
+FB00764,M001968,CN001087,3,Excellent follow-up care,2025-01-31
+FB00765,M001517,CN005679,4,Would recommend to others,2025-02-27
+FB00766,M000852,CN001083,3,Needs faster appointment scheduling,2025-10-05
+FB00767,M001931,CN004990,3,Very satisfied with the consultation,2024-03-22
+FB00768,M001572,CN001986,4,Excellent follow-up care,2025-12-19
+FB00769,M000428,CN004034,4,"Great experience, doctor was very attentive",2025-03-27
+FB00770,M001661,CN005865,3,Would recommend to others,2024-02-05
+FB00771,M001267,CN002857,5,Needs faster appointment scheduling,2024-03-03
+FB00772,M001495,CN002815,5,Telemedicine call quality was poor,2024-03-10
+FB00773,M001728,CN003382,5,Needs faster appointment scheduling,2024-03-12
+FB00774,M000814,CN001157,2,Telemedicine call quality was poor,2024-05-03
+FB00775,M002169,CN002110,2,Excellent follow-up care,2025-12-14
+FB00776,M001285,CN000965,5,Long wait time at the clinic,2024-01-05
+FB00777,M002020,CN004208,5,Telemedicine call quality was poor,2024-06-24
+FB00778,M000693,CN005253,3,Very satisfied with the consultation,2024-08-16
+FB00779,M001539,CN004928,3,Average experience overall,2024-06-30
+FB00780,M001342,CN002086,2,Staff was helpful and courteous,2025-06-24
+FB00781,M001254,CN002955,3,"Great experience, doctor was very attentive",2025-11-27
+FB00782,M000729,CN001120,4,Excellent follow-up care,2024-12-24
+FB00783,M002151,CN004614,5,Very satisfied with the consultation,2025-07-04
+FB00784,M001132,CN001844,4,Would recommend to others,2024-04-10
+FB00785,M001717,CN005499,2,Would recommend to others,2024-10-19
+FB00786,M000902,CN004135,5,Staff was helpful and courteous,2025-02-01
+FB00787,M001708,CN000933,4,"Great experience, doctor was very attentive",2025-12-23
+FB00788,M000826,CN001678,4,Average experience overall,2024-02-14
+FB00789,M002177,CN005860,4,Long wait time at the clinic,2025-07-12
+FB00790,M001327,CN003180,5,Would recommend to others,2024-06-05
+FB00791,M001271,CN003395,5,"Great experience, doctor was very attentive",2025-09-17
+FB00792,M001518,CN000055,3,Excellent follow-up care,2024-11-09
+FB00793,M001564,CN003836,5,Telemedicine call quality was poor,2024-12-07
+FB00794,M000672,CN003554,4,Average experience overall,2025-01-25
+FB00795,M002006,CN001075,5,Excellent follow-up care,2025-12-29
+FB00796,M001352,CN000870,1,Long wait time at the clinic,2024-09-06
+FB00797,M000886,CN003966,3,Needs faster appointment scheduling,2025-05-03
+FB00798,M001426,CN005743,3,Doctor explained everything clearly,2024-11-05
+FB00799,M001910,CN003475,4,Average experience overall,2025-03-14
+FB00800,M001687,CN002347,3,Staff was helpful and courteous,2024-03-08
+FB00801,M002141,CN000131,4,Needs faster appointment scheduling,2025-07-18
+FB00802,M001493,CN003911,5,"Great experience, doctor was very attentive",2025-08-22
+FB00803,M000221,CN004931,5,Needs faster appointment scheduling,2024-12-12
+FB00804,M000789,CN005478,2,Very satisfied with the consultation,2025-11-08
+FB00805,M000334,CN004521,5,Average experience overall,2025-02-05
+FB00806,M001240,CN003358,3,Needs faster appointment scheduling,2025-11-15
+FB00807,M001905,CN005578,4,Doctor explained everything clearly,2024-01-19
+FB00808,M002224,CN004809,3,Long wait time at the clinic,2024-06-23
+FB00809,M002377,CN000203,5,Would recommend to others,2024-07-03
+FB00810,M001206,CN000259,4,Telemedicine call quality was poor,2024-07-25
+FB00811,M001460,CN002193,5,Long wait time at the clinic,2024-04-15
+FB00812,M000890,CN004760,3,Excellent follow-up care,2025-01-12
+FB00813,M002074,CN000899,5,Average experience overall,2024-03-07
+FB00814,M000921,CN002899,5,Very satisfied with the consultation,2024-03-23
+FB00815,M001139,CN005693,5,Very satisfied with the consultation,2024-12-14
+FB00816,M000970,CN002012,3,"Great experience, doctor was very attentive",2025-12-14
+FB00817,M002294,CN002981,3,Needs faster appointment scheduling,2025-01-16
+FB00818,M000580,CN003290,5,Doctor explained everything clearly,2024-06-22
+FB00819,M001454,CN000460,3,Would recommend to others,2024-03-27
+FB00820,M001173,CN000465,1,Doctor explained everything clearly,2025-11-15
+FB00821,M000651,CN002553,5,Doctor explained everything clearly,2025-11-19
+FB00822,M001812,CN005280,4,"Great experience, doctor was very attentive",2025-02-07
+FB00823,M000503,CN005070,3,Average experience overall,2024-08-25
+FB00824,M000651,CN005911,5,Would recommend to others,2025-08-10
+FB00825,M001500,CN001543,5,Telemedicine call quality was poor,2025-01-25
+FB00826,M001275,CN001925,4,Staff was helpful and courteous,2024-12-29
+FB00827,M001327,CN005161,3,"Great experience, doctor was very attentive",2025-06-13
+FB00828,M000037,CN002355,2,Telemedicine call quality was poor,2025-11-09
+FB00829,M000169,CN001677,4,"Great experience, doctor was very attentive",2025-01-28
+FB00830,M000976,CN002647,3,Long wait time at the clinic,2025-06-02
+FB00831,M001157,CN004359,5,Average experience overall,2024-09-06
+FB00832,M000594,CN005226,3,Staff was helpful and courteous,2025-07-16
+FB00833,M000965,CN001550,4,Doctor explained everything clearly,2024-07-08
+FB00834,M001435,CN002392,3,Very satisfied with the consultation,2024-09-20
+FB00835,M001193,CN004380,4,Telemedicine call quality was poor,2025-09-11
+FB00836,M000333,CN005962,2,Would recommend to others,2025-06-09
+FB00837,M000113,CN001662,5,Doctor explained everything clearly,2025-07-26
+FB00838,M001122,CN001411,5,"Great experience, doctor was very attentive",2024-12-20
+FB00839,M001316,CN003683,3,Telemedicine call quality was poor,2025-04-19
+FB00840,M001511,CN002065,4,Long wait time at the clinic,2025-01-16
+FB00841,M002434,CN003323,5,Telemedicine call quality was poor,2025-03-14
+FB00842,M000720,CN001033,5,Doctor explained everything clearly,2025-12-17
+FB00843,M002089,CN002098,4,Very satisfied with the consultation,2025-05-21
+FB00844,M001552,CN004567,5,"Great experience, doctor was very attentive",2024-04-23
+FB00845,M001855,CN003245,4,Would recommend to others,2025-02-01
+FB00846,M000396,CN005324,2,Doctor explained everything clearly,2024-08-30
+FB00847,M000007,CN000481,5,Would recommend to others,2025-06-24
+FB00848,M002491,CN001097,5,Long wait time at the clinic,2024-07-25
+FB00849,M001787,CN000837,5,Long wait time at the clinic,2024-03-12
+FB00850,M001327,CN004661,5,Long wait time at the clinic,2024-01-12
+FB00851,M000555,CN005540,5,Doctor explained everything clearly,2025-03-01
+FB00852,M000236,CN002638,4,"Great experience, doctor was very attentive",2025-08-28
+FB00853,M000362,CN000234,4,"Great experience, doctor was very attentive",2024-03-11
+FB00854,M000896,CN005502,4,"Great experience, doctor was very attentive",2025-04-05
+FB00855,M000908,CN001262,5,Long wait time at the clinic,2025-11-02
+FB00856,M000767,CN003388,5,Needs faster appointment scheduling,2025-06-23
+FB00857,M001564,CN000501,2,Doctor explained everything clearly,2025-12-11
+FB00858,M000178,CN003476,5,Staff was helpful and courteous,2025-10-10
+FB00859,M000893,CN004523,3,Staff was helpful and courteous,2024-07-18
+FB00860,M001307,CN002931,4,Doctor explained everything clearly,2025-07-23
+FB00861,M000894,CN001834,5,"Great experience, doctor was very attentive",2024-04-19
+FB00862,M002099,CN003895,5,Very satisfied with the consultation,2025-02-08
+FB00863,M000163,CN003176,4,Doctor explained everything clearly,2025-02-05
+FB00864,M001480,CN003838,5,Telemedicine call quality was poor,2024-12-07
+FB00865,M002095,CN001209,4,Staff was helpful and courteous,2025-01-26
+FB00866,M002196,CN001151,4,Long wait time at the clinic,2024-03-22
+FB00867,M001018,CN000840,5,Long wait time at the clinic,2024-06-30
+FB00868,M000739,CN005916,2,Average experience overall,2024-06-07
+FB00869,M000285,CN005506,1,Telemedicine call quality was poor,2024-07-26
+FB00870,M000938,CN005721,2,Long wait time at the clinic,2024-06-17
+FB00871,M000149,CN003780,5,Excellent follow-up care,2025-08-24
+FB00872,M001764,CN004451,4,"Great experience, doctor was very attentive",2024-01-23
+FB00873,M001851,CN001803,3,Staff was helpful and courteous,2025-03-04
+FB00874,M002047,CN001764,3,Average experience overall,2025-03-17
+FB00875,M000003,CN000471,3,Long wait time at the clinic,2025-02-01
+FB00876,M000342,CN005459,3,Doctor explained everything clearly,2025-12-23
+FB00877,M002471,CN000136,3,Doctor explained everything clearly,2025-06-10
+FB00878,M000372,CN005140,5,Excellent follow-up care,2024-09-21
+FB00879,M001428,CN000355,5,Long wait time at the clinic,2025-03-19
+FB00880,M001704,CN005285,5,Average experience overall,2024-12-28
+FB00881,M000189,CN005744,4,Very satisfied with the consultation,2024-10-11
+FB00882,M001263,CN004283,5,Would recommend to others,2025-03-08
+FB00883,M000334,CN004521,5,Doctor explained everything clearly,2025-02-05
+FB00884,M000836,CN000421,1,Average experience overall,2024-10-05
+FB00885,M001990,CN004734,5,"Great experience, doctor was very attentive",2024-05-09
+FB00886,M002242,CN001606,3,Staff was helpful and courteous,2025-06-16
+FB00887,M002026,CN000918,5,Very satisfied with the consultation,2024-07-26
+FB00888,M000525,CN002209,5,Excellent follow-up care,2025-10-03
+FB00889,M000563,CN001544,4,Needs faster appointment scheduling,2024-10-18
+FB00890,M000428,CN003251,5,Telemedicine call quality was poor,2025-01-13
+FB00891,M001560,CN000708,5,Average experience overall,2025-08-02
+FB00892,M002199,CN002465,3,"Great experience, doctor was very attentive",2025-01-28
+FB00893,M002356,CN003527,3,Doctor explained everything clearly,2024-12-25
+FB00894,M000112,CN002064,3,Needs faster appointment scheduling,2025-11-28
+FB00895,M000737,CN005559,3,"Great experience, doctor was very attentive",2025-12-08
+FB00896,M001584,CN005074,4,Needs faster appointment scheduling,2025-11-14
+FB00897,M000151,CN000368,3,Average experience overall,2024-07-26
+FB00898,M001698,CN001861,2,Doctor explained everything clearly,2025-08-09
+FB00899,M000094,CN000255,4,Staff was helpful and courteous,2025-02-18
+FB00900,M002494,CN005013,1,Average experience overall,2024-09-12
+FB00901,M000726,CN000707,5,Staff was helpful and courteous,2024-03-14
+FB00902,M000381,CN005046,5,Long wait time at the clinic,2024-11-04
+FB00903,M001417,CN005761,5,Excellent follow-up care,2025-02-03
+FB00904,M001921,CN003948,4,Staff was helpful and courteous,2024-03-12
+FB00905,M002276,CN002383,2,Would recommend to others,2025-11-25
+FB00906,M000949,CN003124,1,Telemedicine call quality was poor,2024-08-02
+FB00907,M001804,CN001367,4,Excellent follow-up care,2024-02-22
+FB00908,M001130,CN000779,4,Long wait time at the clinic,2024-08-13
+FB00909,M001449,CN003925,4,Staff was helpful and courteous,2024-01-06
+FB00910,M001560,CN005939,1,Would recommend to others,2025-06-08
+FB00911,M000711,CN004119,3,Very satisfied with the consultation,2024-06-28
+FB00912,M001393,CN005024,2,Would recommend to others,2024-10-30
+FB00913,M002096,CN002175,3,Needs faster appointment scheduling,2024-02-03
+FB00914,M000888,CN002902,4,"Great experience, doctor was very attentive",2024-11-28
+FB00915,M001118,CN001887,5,Very satisfied with the consultation,2024-11-07
+FB00916,M001442,CN000290,5,Excellent follow-up care,2024-10-28
+FB00917,M002222,CN003133,3,Very satisfied with the consultation,2025-02-02
+FB00918,M001955,CN003756,4,Would recommend to others,2025-02-16
+FB00919,M001208,CN005169,3,Doctor explained everything clearly,2025-07-29
+FB00920,M001970,CN001761,4,Doctor explained everything clearly,2024-08-22
+FB00921,M000727,CN002919,4,"Great experience, doctor was very attentive",2024-08-10
+FB00922,M000665,CN001980,2,Needs faster appointment scheduling,2024-02-12
+FB00923,M000148,CN003983,3,Staff was helpful and courteous,2025-12-08
+FB00924,M000577,CN004541,4,Needs faster appointment scheduling,2024-01-19
+FB00925,M001926,CN004522,4,Average experience overall,2024-05-18
+FB00926,M002188,CN003955,3,Would recommend to others,2024-10-25
+FB00927,M002347,CN004778,4,Very satisfied with the consultation,2025-08-28
+FB00928,M001792,CN001453,1,Average experience overall,2025-08-25
+FB00929,M002256,CN001048,4,Doctor explained everything clearly,2024-01-14
+FB00930,M002104,CN003407,4,Average experience overall,2025-03-14
+FB00931,M000541,CN003243,4,Doctor explained everything clearly,2025-12-03
+FB00932,M000778,CN001043,4,Average experience overall,2024-10-13
+FB00933,M000941,CN004368,4,Average experience overall,2025-04-16
+FB00934,M001914,CN002593,4,Excellent follow-up care,2024-07-01
+FB00935,M001169,CN005055,5,Very satisfied with the consultation,2025-07-08
+FB00936,M000183,CN002154,1,Very satisfied with the consultation,2025-06-23
+FB00937,M000827,CN005321,3,Would recommend to others,2025-10-09
+FB00938,M002097,CN000558,3,Needs faster appointment scheduling,2025-11-15
+FB00939,M001255,CN004786,5,Staff was helpful and courteous,2025-02-15
+FB00940,M002244,CN003714,2,Needs faster appointment scheduling,2024-04-04
+FB00941,M002187,CN000282,5,Telemedicine call quality was poor,2025-02-20
+FB00942,M000847,CN003098,2,Long wait time at the clinic,2024-10-12
+FB00943,M000101,CN003657,4,Needs faster appointment scheduling,2025-07-02
+FB00944,M001262,CN000177,5,Very satisfied with the consultation,2025-02-22
+FB00945,M001233,CN004295,5,Average experience overall,2024-12-02
+FB00946,M000102,CN002384,5,Staff was helpful and courteous,2025-07-19
+FB00947,M000479,CN001952,5,"Great experience, doctor was very attentive",2024-08-26
+FB00948,M000313,CN000466,5,Telemedicine call quality was poor,2025-08-14
+FB00949,M002185,CN005644,2,Telemedicine call quality was poor,2025-02-22
+FB00950,M001411,CN005420,5,"Great experience, doctor was very attentive",2024-01-12
+FB00951,M001389,CN003486,4,Staff was helpful and courteous,2025-11-08
+FB00952,M001265,CN005690,3,Very satisfied with the consultation,2024-12-10
+FB00953,M001808,CN005868,4,Would recommend to others,2025-04-17
+FB00954,M001574,CN004739,3,Telemedicine call quality was poor,2024-06-16
+FB00955,M001985,CN002990,3,Staff was helpful and courteous,2025-05-18
+FB00956,M001903,CN002877,2,Doctor explained everything clearly,2024-03-16
+FB00957,M000206,CN005029,4,Needs faster appointment scheduling,2025-04-01
+FB00958,M000651,CN004343,4,Excellent follow-up care,2024-12-15
+FB00959,M001910,CN005141,4,Needs faster appointment scheduling,2025-08-31
+FB00960,M001603,CN005866,5,Doctor explained everything clearly,2025-03-12
+FB00961,M002236,CN000714,2,Doctor explained everything clearly,2024-09-19
+FB00962,M000904,CN005133,4,Telemedicine call quality was poor,2025-10-05
+FB00963,M000921,CN002899,4,Staff was helpful and courteous,2024-03-23
+FB00964,M001395,CN004774,5,Staff was helpful and courteous,2024-05-28
+FB00965,M000852,CN003641,4,Staff was helpful and courteous,2025-04-26
+FB00966,M001525,CN001920,3,Staff was helpful and courteous,2025-05-09
+FB00967,M002064,CN004504,3,Excellent follow-up care,2025-02-25
+FB00968,M001142,CN005900,4,Long wait time at the clinic,2024-03-05
+FB00969,M001779,CN002531,5,Doctor explained everything clearly,2024-11-24
+FB00970,M002149,CN003375,5,Needs faster appointment scheduling,2024-09-04
+FB00971,M000113,CN003754,5,Excellent follow-up care,2025-10-02
+FB00972,M000865,CN001237,4,Needs faster appointment scheduling,2025-02-22
+FB00973,M000623,CN002493,4,Excellent follow-up care,2025-01-31
+FB00974,M000265,CN004782,5,Long wait time at the clinic,2024-07-12
+FB00975,M000624,CN001473,5,"Great experience, doctor was very attentive",2024-06-19
+FB00976,M000646,CN003776,1,Would recommend to others,2024-07-01
+FB00977,M000210,CN003565,5,Telemedicine call quality was poor,2025-04-01
+FB00978,M001556,CN000967,1,Telemedicine call quality was poor,2025-09-09
+FB00979,M000718,CN002082,3,Long wait time at the clinic,2025-03-04
+FB00980,M002418,CN004068,4,Long wait time at the clinic,2025-07-03
+FB00981,M002202,CN000159,5,Staff was helpful and courteous,2024-04-10
+FB00982,M001836,CN000971,3,"Great experience, doctor was very attentive",2024-11-29
+FB00983,M000893,CN002825,4,Very satisfied with the consultation,2024-08-27
+FB00984,M002087,CN002467,5,Excellent follow-up care,2024-09-04
+FB00985,M001032,CN001824,3,Average experience overall,2024-07-08
+FB00986,M000771,CN001890,5,Average experience overall,2024-09-24
+FB00987,M001349,CN000057,2,Average experience overall,2024-07-12
+FB00988,M002096,CN002175,5,Would recommend to others,2024-02-03
+FB00989,M000454,CN000705,4,Long wait time at the clinic,2024-05-04
+FB00990,M002024,CN003238,5,Doctor explained everything clearly,2025-01-05
+FB00991,M002238,CN004078,4,Staff was helpful and courteous,2024-09-09
+FB00992,M002035,CN001647,3,Needs faster appointment scheduling,2025-03-14
+FB00993,M001532,CN000415,2,Would recommend to others,2024-10-21
+FB00994,M000804,CN000155,1,"Great experience, doctor was very attentive",2025-08-21
+FB00995,M000726,CN003884,4,Very satisfied with the consultation,2024-02-27
+FB00996,M002316,CN004517,5,Average experience overall,2025-10-10
+FB00997,M000131,CN005871,4,"Great experience, doctor was very attentive",2025-05-19
+FB00998,M002241,CN005028,5,Excellent follow-up care,2025-04-20
+FB00999,M000607,CN002478,5,Doctor explained everything clearly,2024-04-23
+FB01000,M000342,CN005459,3,Very satisfied with the consultation,2025-12-23
+FB01001,M002185,CN005644,5,Would recommend to others,2025-02-22
+FB01002,M000146,CN002621,3,"Great experience, doctor was very attentive",2024-03-27
+FB01003,M000839,CN005622,2,Telemedicine call quality was poor,2024-06-16
+FB01004,M001279,CN000151,2,Staff was helpful and courteous,2025-07-31
+FB01005,M000294,CN004398,3,"Great experience, doctor was very attentive",2025-04-16
+FB01006,M001210,CN005994,5,"Great experience, doctor was very attentive",2024-12-16
+FB01007,M002176,CN002282,5,Would recommend to others,2024-07-05
+FB01008,M002172,CN003386,5,Needs faster appointment scheduling,2024-12-05
+FB01009,M000898,CN004896,5,Doctor explained everything clearly,2024-06-13
+FB01010,M000947,CN005972,3,Excellent follow-up care,2025-06-27
+FB01011,M001942,CN005451,5,Staff was helpful and courteous,2025-01-16
+FB01012,M000788,CN000012,4,Long wait time at the clinic,2024-01-16
+FB01013,M000978,CN003217,5,Doctor explained everything clearly,2025-07-07
+FB01014,M000813,CN004242,3,Doctor explained everything clearly,2025-09-03
+FB01015,M000011,CN005359,4,Average experience overall,2025-09-17
+FB01016,M002421,CN003906,4,"Great experience, doctor was very attentive",2024-04-20
+FB01017,M002084,CN005160,5,Would recommend to others,2025-04-26
+FB01018,M000562,CN000839,2,Staff was helpful and courteous,2024-02-01
+FB01019,M001362,CN004851,4,Long wait time at the clinic,2025-02-01
+FB01020,M001988,CN000341,5,Telemedicine call quality was poor,2024-01-04
+FB01021,M001098,CN005762,4,Doctor explained everything clearly,2024-03-08
+FB01022,M001014,CN001485,3,Long wait time at the clinic,2024-06-02
+FB01023,M001079,CN005135,5,Doctor explained everything clearly,2024-07-18
+FB01024,M002225,CN001173,3,Staff was helpful and courteous,2025-11-21
+FB01025,M001666,CN001660,5,"Great experience, doctor was very attentive",2025-11-18
+FB01026,M001349,CN004755,3,Needs faster appointment scheduling,2025-11-17
+FB01027,M001813,CN001701,5,Doctor explained everything clearly,2024-04-18
+FB01028,M000935,CN000944,5,Telemedicine call quality was poor,2024-04-02
+FB01029,M000788,CN001035,2,"Great experience, doctor was very attentive",2025-11-08
+FB01030,M001564,CN003836,5,Long wait time at the clinic,2024-12-07
+FB01031,M000721,CN005810,5,Doctor explained everything clearly,2024-08-13
+FB01032,M001993,CN004810,4,Average experience overall,2024-09-15
+FB01033,M001380,CN003272,4,Average experience overall,2025-02-04
+FB01034,M000223,CN004697,3,Excellent follow-up care,2024-07-02
+FB01035,M001974,CN004454,4,Staff was helpful and courteous,2025-09-08
+FB01036,M001011,CN004255,5,Staff was helpful and courteous,2025-11-10
+FB01037,M002187,CN003608,3,Excellent follow-up care,2025-03-24
+FB01038,M000988,CN000116,3,Staff was helpful and courteous,2025-06-13
+FB01039,M000113,CN001655,5,"Great experience, doctor was very attentive",2025-03-01
+FB01040,M000373,CN005043,3,Doctor explained everything clearly,2025-04-21
+FB01041,M000634,CN001013,2,Very satisfied with the consultation,2024-04-16
+FB01042,M000899,CN004850,5,Very satisfied with the consultation,2025-03-03
+FB01043,M000297,CN005258,4,Needs faster appointment scheduling,2025-09-07
+FB01044,M002279,CN005188,4,Needs faster appointment scheduling,2024-06-05
+FB01045,M001142,CN000676,5,Needs faster appointment scheduling,2025-03-12
+FB01046,M001513,CN001475,3,Excellent follow-up care,2024-10-23
+FB01047,M001070,CN000621,3,Telemedicine call quality was poor,2025-11-30
+FB01048,M000140,CN002871,5,Average experience overall,2025-10-31
+FB01049,M002360,CN005244,5,"Great experience, doctor was very attentive",2025-04-24
+FB01050,M002024,CN001227,4,Telemedicine call quality was poor,2024-06-15
+FB01051,M000603,CN003012,3,Very satisfied with the consultation,2025-08-30
+FB01052,M000990,CN002326,5,Would recommend to others,2024-05-02
+FB01053,M002413,CN003203,4,Staff was helpful and courteous,2025-08-19
+FB01054,M001440,CN003371,3,Long wait time at the clinic,2024-07-27
+FB01055,M002419,CN003871,2,Would recommend to others,2024-10-23
+FB01056,M000112,CN004375,2,Would recommend to others,2025-04-26
+FB01057,M001280,CN005697,1,Doctor explained everything clearly,2025-04-17
+FB01058,M002144,CN005855,1,Telemedicine call quality was poor,2025-12-19
+FB01059,M001252,CN005127,2,Needs faster appointment scheduling,2025-03-18
+FB01060,M001347,CN000570,2,Staff was helpful and courteous,2025-06-06
+FB01061,M002386,CN000320,3,Doctor explained everything clearly,2025-02-13
+FB01062,M001682,CN004733,5,Would recommend to others,2025-09-08
+FB01063,M001910,CN002617,4,Needs faster appointment scheduling,2024-07-27
+FB01064,M002136,CN002001,4,Would recommend to others,2025-07-13
+FB01065,M000370,CN000665,4,Needs faster appointment scheduling,2024-10-18
+FB01066,M002409,CN002420,5,Would recommend to others,2025-04-29
+FB01067,M001670,CN003038,4,Average experience overall,2025-06-14
+FB01068,M000090,CN001465,5,Doctor explained everything clearly,2025-10-20
+FB01069,M000556,CN001547,4,Needs faster appointment scheduling,2025-03-09
+FB01070,M001352,CN000870,5,Average experience overall,2024-09-06
+FB01071,M002298,CN003740,5,Staff was helpful and courteous,2025-07-02
+FB01072,M001807,CN001232,5,Staff was helpful and courteous,2025-02-15
+FB01073,M001613,CN003830,2,Needs faster appointment scheduling,2025-02-15
+FB01074,M001627,CN001626,4,"Great experience, doctor was very attentive",2024-07-19
+FB01075,M000439,CN003113,5,Would recommend to others,2025-09-05
+FB01076,M001377,CN004723,4,"Great experience, doctor was very attentive",2025-10-24
+FB01077,M001097,CN004684,2,"Great experience, doctor was very attentive",2025-09-23
+FB01078,M001280,CN005697,4,Telemedicine call quality was poor,2025-04-17
+FB01079,M001363,CN004472,5,Excellent follow-up care,2024-04-11
+FB01080,M001853,CN004313,4,Needs faster appointment scheduling,2024-09-30
+FB01081,M000386,CN001515,3,Average experience overall,2025-10-25
+FB01082,M001201,CN004921,3,Very satisfied with the consultation,2025-11-27
+FB01083,M001004,CN002850,5,Excellent follow-up care,2025-03-08
+FB01084,M000815,CN001858,3,"Great experience, doctor was very attentive",2024-07-20
+FB01085,M001708,CN000933,5,"Great experience, doctor was very attentive",2025-12-23
+FB01086,M002085,CN002888,3,Telemedicine call quality was poor,2024-09-18
+FB01087,M001210,CN005994,3,Needs faster appointment scheduling,2024-12-16
+FB01088,M000146,CN002313,4,Would recommend to others,2025-08-24
+FB01089,M000494,CN004879,3,Excellent follow-up care,2024-11-29
+FB01090,M002144,CN004813,1,"Great experience, doctor was very attentive",2025-04-30
+FB01091,M001761,CN005849,5,Long wait time at the clinic,2024-08-07
+FB01092,M001917,CN005729,1,"Great experience, doctor was very attentive",2025-09-03
+FB01093,M000515,CN005402,3,Would recommend to others,2025-08-21
+FB01094,M000207,CN001335,5,Excellent follow-up care,2024-11-10
+FB01095,M001236,CN003456,3,Excellent follow-up care,2025-03-25
+FB01096,M000658,CN005940,2,Average experience overall,2024-11-14
+FB01097,M000192,CN000026,1,Very satisfied with the consultation,2024-07-04
+FB01098,M002250,CN001090,5,Very satisfied with the consultation,2024-02-14
+FB01099,M000472,CN002000,2,Staff was helpful and courteous,2024-03-01
+FB01100,M000441,CN004654,4,Telemedicine call quality was poor,2025-04-21
+FB01101,M001221,CN004714,2,Doctor explained everything clearly,2024-03-05
+FB01102,M002223,CN003120,5,Long wait time at the clinic,2025-11-04
+FB01103,M001489,CN000850,4,Needs faster appointment scheduling,2025-09-02
+FB01104,M000897,CN001483,5,Would recommend to others,2025-11-07
+FB01105,M000835,CN000913,4,Excellent follow-up care,2024-10-22
+FB01106,M002258,CN004882,5,Excellent follow-up care,2025-12-13
+FB01107,M001932,CN003775,4,Staff was helpful and courteous,2024-05-11
+FB01108,M000169,CN001677,5,Very satisfied with the consultation,2025-01-28
+FB01109,M000157,CN001548,3,Would recommend to others,2024-04-21
+FB01110,M001885,CN004910,3,Staff was helpful and courteous,2024-11-09
+FB01111,M000229,CN002736,4,Telemedicine call quality was poor,2024-08-31
+FB01112,M001563,CN005041,5,Excellent follow-up care,2025-12-12
+FB01113,M000202,CN000852,3,Doctor explained everything clearly,2025-08-13
+FB01114,M001229,CN004248,1,Telemedicine call quality was poor,2024-08-30
+FB01115,M001164,CN004329,2,Telemedicine call quality was poor,2024-12-08
+FB01116,M001911,CN005352,5,Long wait time at the clinic,2024-12-27
+FB01117,M001704,CN005285,5,Doctor explained everything clearly,2024-12-28
+FB01118,M002218,CN001863,5,Staff was helpful and courteous,2025-09-11
+FB01119,M001535,CN004325,1,Staff was helpful and courteous,2024-10-20
+FB01120,M002176,CN002282,5,Excellent follow-up care,2024-07-05
+FB01121,M000211,CN004591,3,Excellent follow-up care,2024-11-12
+FB01122,M002496,CN004895,5,Excellent follow-up care,2024-04-24
+FB01123,M000371,CN005059,4,Doctor explained everything clearly,2024-10-10
+FB01124,M000496,CN005322,4,"Great experience, doctor was very attentive",2024-07-03
+FB01125,M001337,CN003995,4,"Great experience, doctor was very attentive",2025-09-01
+FB01126,M001093,CN005339,4,Long wait time at the clinic,2024-08-23
+FB01127,M002095,CN000681,4,"Great experience, doctor was very attentive",2025-10-03
+FB01128,M000505,CN000338,5,Telemedicine call quality was poor,2025-12-02
+FB01129,M001984,CN001472,1,Average experience overall,2024-04-10
+FB01130,M001661,CN003142,3,Long wait time at the clinic,2024-12-27
+FB01131,M000046,CN004732,3,Staff was helpful and courteous,2024-06-07
+FB01132,M002427,CN002523,5,Very satisfied with the consultation,2025-09-21
+FB01133,M002007,CN005603,5,Telemedicine call quality was poor,2025-10-16
+FB01134,M001608,CN003230,3,Average experience overall,2024-06-17
+FB01135,M001247,CN005349,4,"Great experience, doctor was very attentive",2024-05-21
+FB01136,M002347,CN005943,2,Very satisfied with the consultation,2025-01-13
+FB01137,M000307,CN004240,3,Very satisfied with the consultation,2025-06-15
+FB01138,M000001,CN005532,2,Very satisfied with the consultation,2024-02-03
+FB01139,M000968,CN003694,3,Telemedicine call quality was poor,2024-01-09
+FB01140,M001884,CN005289,3,Doctor explained everything clearly,2025-06-23
+FB01141,M000006,CN001416,5,"Great experience, doctor was very attentive",2024-05-21
+FB01142,M002364,CN004699,5,Average experience overall,2024-04-30
+FB01143,M001307,CN002931,4,Very satisfied with the consultation,2025-07-23
+FB01144,M002268,CN002394,2,Long wait time at the clinic,2025-06-05
+FB01145,M002430,CN005509,5,Needs faster appointment scheduling,2025-02-14
+FB01146,M000059,CN005735,4,Staff was helpful and courteous,2024-01-16
+FB01147,M002006,CN001075,5,Doctor explained everything clearly,2025-12-29
+FB01148,M000100,CN004550,2,Would recommend to others,2024-09-11
+FB01149,M002333,CN005525,3,"Great experience, doctor was very attentive",2025-11-12
+FB01150,M000019,CN001153,4,Would recommend to others,2025-08-02
+FB01151,M000333,CN003563,4,Staff was helpful and courteous,2025-09-28
+FB01152,M000441,CN004654,5,Would recommend to others,2025-04-21
+FB01153,M001873,CN005457,2,Very satisfied with the consultation,2024-02-10
+FB01154,M002176,CN002656,3,Excellent follow-up care,2024-08-10
+FB01155,M002498,CN004642,5,Excellent follow-up care,2025-11-16
+FB01156,M002428,CN002176,5,"Great experience, doctor was very attentive",2024-11-17
+FB01157,M002417,CN004501,5,Doctor explained everything clearly,2025-01-23
+FB01158,M001914,CN004449,2,Would recommend to others,2024-06-29
+FB01159,M002086,CN005520,4,Telemedicine call quality was poor,2024-07-05
+FB01160,M001014,CN001485,5,Needs faster appointment scheduling,2024-06-02
+FB01161,M000230,CN001008,5,Very satisfied with the consultation,2024-05-30
+FB01162,M001763,CN001704,5,Would recommend to others,2025-09-16
+FB01163,M001557,CN003104,4,Staff was helpful and courteous,2024-07-12
+FB01164,M000745,CN001857,3,"Great experience, doctor was very attentive",2025-01-21
+FB01165,M002462,CN000434,4,Staff was helpful and courteous,2024-10-12
+FB01166,M000443,CN000143,5,Telemedicine call quality was poor,2024-10-08
+FB01167,M000836,CN000421,5,Doctor explained everything clearly,2024-10-05
+FB01168,M000254,CN001974,2,Doctor explained everything clearly,2024-01-01
+FB01169,M002281,CN003623,5,Needs faster appointment scheduling,2025-07-01
+FB01170,M000831,CN000092,5,"Great experience, doctor was very attentive",2025-07-07
+FB01171,M000656,CN005660,3,Telemedicine call quality was poor,2024-01-21
+FB01172,M000191,CN001268,5,Would recommend to others,2024-03-12
+FB01173,M001914,CN002593,2,Doctor explained everything clearly,2024-07-01
+FB01174,M001121,CN001733,4,"Great experience, doctor was very attentive",2025-02-16
+FB01175,M000990,CN005892,5,Telemedicine call quality was poor,2024-08-07
+FB01176,M000015,CN001091,3,Needs faster appointment scheduling,2024-06-13
+FB01177,M001902,CN000955,3,Excellent follow-up care,2025-05-04
+FB01178,M000045,CN002487,4,Telemedicine call quality was poor,2025-10-03
+FB01179,M000866,CN001782,4,Telemedicine call quality was poor,2024-02-22
+FB01180,M002355,CN004969,3,Staff was helpful and courteous,2024-03-25
+FB01181,M001907,CN004362,3,Long wait time at the clinic,2025-04-30
+FB01182,M000156,CN004640,5,Telemedicine call quality was poor,2025-03-31
+FB01183,M001885,CN002986,4,Long wait time at the clinic,2025-02-13
+FB01184,M000888,CN002902,4,Average experience overall,2024-11-28
+FB01185,M000639,CN000298,2,Very satisfied with the consultation,2024-09-14
+FB01186,M001751,CN004967,2,Would recommend to others,2025-05-27
+FB01187,M002347,CN004529,4,Long wait time at the clinic,2024-01-27
+FB01188,M000153,CN002812,5,Staff was helpful and courteous,2025-05-03
+FB01189,M002169,CN000291,5,Needs faster appointment scheduling,2024-08-04
+FB01190,M000193,CN002204,2,Needs faster appointment scheduling,2025-07-14
+FB01191,M000162,CN005252,4,Staff was helpful and courteous,2024-03-28
+FB01192,M001870,CN004946,2,Needs faster appointment scheduling,2024-12-26
+FB01193,M000134,CN000308,3,Long wait time at the clinic,2024-11-15
+FB01194,M001821,CN000947,4,Telemedicine call quality was poor,2024-07-23
+FB01195,M000223,CN004697,4,Would recommend to others,2024-07-02
+FB01196,M001014,CN000638,4,Average experience overall,2025-08-21
+FB01197,M001322,CN004973,1,Average experience overall,2025-02-17
+FB01198,M000657,CN004958,4,Telemedicine call quality was poor,2025-11-16
+FB01199,M001752,CN000374,5,Would recommend to others,2024-02-06
+FB01200,M002006,CN002429,4,Needs faster appointment scheduling,2025-06-10
+FB01201,M001847,CN001565,4,"Great experience, doctor was very attentive",2025-01-04
+FB01202,M001183,CN001242,5,Would recommend to others,2024-07-28
+FB01203,M000492,CN000571,3,Staff was helpful and courteous,2025-03-03
+FB01204,M001071,CN003193,3,Average experience overall,2024-02-24
+FB01205,M001772,CN004638,4,"Great experience, doctor was very attentive",2025-08-28
+FB01206,M001837,CN002124,2,Excellent follow-up care,2024-09-12
+FB01207,M000642,CN003846,2,Excellent follow-up care,2025-11-13
+FB01208,M000274,CN002988,4,Doctor explained everything clearly,2025-11-24
+FB01209,M001327,CN005635,5,Average experience overall,2025-12-07
+FB01210,M001814,CN002552,5,Excellent follow-up care,2025-06-04
+FB01211,M001737,CN003212,3,Very satisfied with the consultation,2025-02-11
+FB01212,M002006,CN002429,5,Staff was helpful and courteous,2025-06-10
+FB01213,M001630,CN004243,5,"Great experience, doctor was very attentive",2024-04-06
+FB01214,M001293,CN000413,2,Needs faster appointment scheduling,2025-02-20
+FB01215,M001877,CN003719,2,Needs faster appointment scheduling,2024-05-13
+FB01216,M002430,CN005924,4,"Great experience, doctor was very attentive",2025-04-06
+FB01217,M001163,CN003028,5,Long wait time at the clinic,2024-08-05
+FB01218,M000934,CN000262,5,Long wait time at the clinic,2025-09-09
+FB01219,M001700,CN003954,5,Needs faster appointment scheduling,2024-01-29
+FB01220,M001513,CN002525,4,Doctor explained everything clearly,2024-12-18
+FB01221,M000657,CN002431,4,Staff was helpful and courteous,2025-06-06
+FB01222,M001920,CN001604,3,Very satisfied with the consultation,2025-07-06
+FB01223,M000233,CN003088,4,Telemedicine call quality was poor,2025-09-27
+FB01224,M001446,CN004705,4,"Great experience, doctor was very attentive",2025-05-16
+FB01225,M001014,CN005726,4,"Great experience, doctor was very attentive",2024-12-03
+FB01226,M001162,CN000329,5,Telemedicine call quality was poor,2024-12-16
+FB01227,M001051,CN003914,4,Would recommend to others,2024-11-13
+FB01228,M001276,CN000377,5,Telemedicine call quality was poor,2024-12-20
+FB01229,M000326,CN000499,5,"Great experience, doctor was very attentive",2025-03-05
+FB01230,M002285,CN001597,3,Would recommend to others,2024-12-14
+FB01231,M002473,CN004925,5,Doctor explained everything clearly,2024-10-16
+FB01232,M000123,CN002717,4,Doctor explained everything clearly,2025-10-15
+FB01233,M000020,CN004122,3,Excellent follow-up care,2024-07-03
+FB01234,M001251,CN003268,4,"Great experience, doctor was very attentive",2024-01-16
+FB01235,M000942,CN004467,4,Very satisfied with the consultation,2025-08-01
+FB01236,M001169,CN005055,5,"Great experience, doctor was very attentive",2025-07-08
+FB01237,M000741,CN000813,5,Average experience overall,2024-03-03
+FB01238,M000339,CN000546,5,Doctor explained everything clearly,2025-09-15
+FB01239,M000159,CN002804,4,"Great experience, doctor was very attentive",2024-03-02
+FB01240,M002097,CN004942,4,Doctor explained everything clearly,2024-08-19
+FB01241,M000832,CN000507,3,Excellent follow-up care,2025-06-16
+FB01242,M002058,CN004671,3,Average experience overall,2024-05-23
+FB01243,M000866,CN003398,2,Very satisfied with the consultation,2025-02-20
+FB01244,M000560,CN002776,1,Long wait time at the clinic,2024-01-20
+FB01245,M000698,CN000587,2,Doctor explained everything clearly,2025-05-19
+FB01246,M002356,CN002662,5,Excellent follow-up care,2025-07-14
+FB01247,M000541,CN001972,5,Very satisfied with the consultation,2024-06-23
+FB01248,M000616,CN004525,4,"Great experience, doctor was very attentive",2025-08-08
+FB01249,M001366,CN001535,3,Would recommend to others,2025-11-08
+FB01250,M002418,CN004068,5,Would recommend to others,2025-07-03
+FB01251,M001424,CN001558,5,Excellent follow-up care,2025-10-11
+FB01252,M000345,CN005209,4,"Great experience, doctor was very attentive",2025-03-19
+FB01253,M002056,CN001500,3,Would recommend to others,2024-06-21
+FB01254,M002395,CN004110,3,"Great experience, doctor was very attentive",2025-08-02
+FB01255,M001557,CN003097,4,Very satisfied with the consultation,2024-08-20
+FB01256,M000602,CN001369,5,"Great experience, doctor was very attentive",2024-08-02
+FB01257,M000983,CN004783,3,Telemedicine call quality was poor,2025-09-30
+FB01258,M000831,CN000092,5,Long wait time at the clinic,2025-07-07
+FB01259,M001288,CN001731,4,Long wait time at the clinic,2025-03-11
+FB01260,M002000,CN000963,5,Telemedicine call quality was poor,2025-07-16
+FB01261,M001014,CN002019,5,Telemedicine call quality was poor,2024-03-10
+FB01262,M000769,CN003523,4,"Great experience, doctor was very attentive",2025-02-16
+FB01263,M000889,CN002099,5,"Great experience, doctor was very attentive",2025-10-15
+FB01264,M002483,CN001301,5,Telemedicine call quality was poor,2024-03-30
+FB01265,M001312,CN004261,3,Average experience overall,2025-03-04
+FB01266,M001985,CN002793,4,Would recommend to others,2025-11-28
+FB01267,M002090,CN004102,3,Would recommend to others,2024-02-22
+FB01268,M001788,CN002719,2,Staff was helpful and courteous,2024-02-15
+FB01269,M001111,CN005018,5,Telemedicine call quality was poor,2024-07-11
+FB01270,M002437,CN003305,4,Excellent follow-up care,2025-04-05
+FB01271,M000508,CN000614,5,Would recommend to others,2024-01-04
+FB01272,M001675,CN001403,4,Needs faster appointment scheduling,2025-06-01
+FB01273,M000330,CN000954,4,Average experience overall,2025-03-21
+FB01274,M000179,CN002305,1,Staff was helpful and courteous,2024-07-16
+FB01275,M000638,CN002335,3,Average experience overall,2025-07-27
+FB01276,M001106,CN000579,3,Telemedicine call quality was poor,2025-05-17
+FB01277,M000437,CN002040,5,Very satisfied with the consultation,2025-05-26
+FB01278,M002000,CN000963,5,"Great experience, doctor was very attentive",2025-07-16
+FB01279,M000271,CN000530,4,Would recommend to others,2024-05-31
+FB01280,M001435,CN002392,5,"Great experience, doctor was very attentive",2024-09-20
+FB01281,M001049,CN004382,3,Staff was helpful and courteous,2024-07-06
+FB01282,M000727,CN004162,5,Doctor explained everything clearly,2024-07-27
+FB01283,M001792,CN000733,3,Would recommend to others,2025-09-02
+FB01284,M001878,CN000403,5,Excellent follow-up care,2025-03-19
+FB01285,M000619,CN001343,4,Doctor explained everything clearly,2025-01-02
+FB01286,M000873,CN001192,5,Excellent follow-up care,2025-10-03
+FB01287,M001917,CN005729,3,Average experience overall,2025-09-03
+FB01288,M002064,CN001482,3,Doctor explained everything clearly,2025-03-24
+FB01289,M000524,CN002723,2,Doctor explained everything clearly,2025-03-21
+FB01290,M000741,CN003204,5,Doctor explained everything clearly,2025-02-18
+FB01291,M000527,CN000942,5,Telemedicine call quality was poor,2025-08-26
+FB01292,M000250,CN001507,3,Excellent follow-up care,2024-11-10
+FB01293,M001687,CN004345,4,Average experience overall,2024-10-14
+FB01294,M000189,CN005416,3,Needs faster appointment scheduling,2024-04-27
+FB01295,M001938,CN004777,5,Long wait time at the clinic,2025-08-28
+FB01296,M000846,CN001787,2,Excellent follow-up care,2024-05-07
+FB01297,M002446,CN002453,4,Telemedicine call quality was poor,2024-12-02
+FB01298,M001366,CN005759,4,"Great experience, doctor was very attentive",2024-04-08
+FB01299,M001358,CN001383,4,Staff was helpful and courteous,2025-03-04
+FB01300,M002114,CN003647,5,Would recommend to others,2025-01-30
+FB01301,M001979,CN004169,5,Very satisfied with the consultation,2025-05-11
+FB01302,M000513,CN002244,3,Telemedicine call quality was poor,2025-10-13
+FB01303,M000508,CN000614,2,Would recommend to others,2024-01-04
+FB01304,M002356,CN002662,2,Needs faster appointment scheduling,2025-07-14
+FB01305,M002160,CN003855,5,Long wait time at the clinic,2025-10-09
+FB01306,M000427,CN001029,4,Telemedicine call quality was poor,2025-04-18
+FB01307,M002440,CN002993,3,Average experience overall,2024-09-30
+FB01308,M000852,CN005342,4,Doctor explained everything clearly,2025-06-19
+FB01309,M001283,CN002022,5,Doctor explained everything clearly,2025-04-06
+FB01310,M002373,CN003439,2,Very satisfied with the consultation,2024-08-14
+FB01311,M002137,CN004340,5,Needs faster appointment scheduling,2025-10-08
+FB01312,M000444,CN001598,4,Very satisfied with the consultation,2024-08-18
+FB01313,M000431,CN000785,5,Very satisfied with the consultation,2024-12-08
+FB01314,M002264,CN002372,5,Doctor explained everything clearly,2025-03-27
+FB01315,M001151,CN001284,4,Staff was helpful and courteous,2025-12-30
+FB01316,M001639,CN001524,4,Needs faster appointment scheduling,2025-06-09
+FB01317,M001083,CN004158,2,Long wait time at the clinic,2025-07-27
+FB01318,M000881,CN000480,3,Very satisfied with the consultation,2024-12-07
+FB01319,M000380,CN000832,3,Needs faster appointment scheduling,2025-07-20
+FB01320,M000784,CN002936,4,Very satisfied with the consultation,2024-05-10
+FB01321,M001135,CN005264,4,Needs faster appointment scheduling,2024-11-07
+FB01322,M000907,CN001188,3,Average experience overall,2024-04-06
+FB01323,M001475,CN004578,2,Excellent follow-up care,2025-10-24
+FB01324,M000927,CN005856,5,Staff was helpful and courteous,2024-12-11
+FB01325,M001694,CN005178,5,Staff was helpful and courteous,2025-12-29
+FB01326,M000517,CN003295,4,Very satisfied with the consultation,2024-11-08
+FB01327,M000963,CN004311,3,Telemedicine call quality was poor,2024-08-07
+FB01328,M002032,CN004403,5,Telemedicine call quality was poor,2025-09-06
+FB01329,M001107,CN002559,5,Doctor explained everything clearly,2025-03-29
+FB01330,M001440,CN002135,1,Staff was helpful and courteous,2024-05-20
+FB01331,M000649,CN000592,1,Staff was helpful and courteous,2024-11-20
+FB01332,M001018,CN003568,2,Doctor explained everything clearly,2024-02-27
+FB01333,M002157,CN004048,3,Very satisfied with the consultation,2024-06-11
+FB01334,M000529,CN002665,2,Needs faster appointment scheduling,2025-03-02
+FB01335,M001561,CN000888,4,Long wait time at the clinic,2025-06-22
+FB01336,M002021,CN005350,5,Staff was helpful and courteous,2025-06-30
+FB01337,M001066,CN002243,4,Needs faster appointment scheduling,2024-12-10
+FB01338,M002084,CN002763,4,Average experience overall,2024-05-07
+FB01339,M000585,CN001759,5,Doctor explained everything clearly,2025-03-28
+FB01340,M002202,CN001540,4,Average experience overall,2025-10-21
+FB01341,M000928,CN001333,5,Doctor explained everything clearly,2025-01-31
+FB01342,M001027,CN002455,1,Needs faster appointment scheduling,2025-03-31
+FB01343,M001525,CN001920,4,Staff was helpful and courteous,2025-05-09
+FB01344,M000424,CN003913,3,Staff was helpful and courteous,2024-08-29
+FB01345,M002296,CN002957,4,"Great experience, doctor was very attentive",2025-02-22
+FB01346,M001703,CN002452,3,Staff was helpful and courteous,2025-07-25
+FB01347,M000058,CN000210,3,Doctor explained everything clearly,2024-11-27
+FB01348,M002159,CN001522,4,Long wait time at the clinic,2025-11-18
+FB01349,M000746,CN004936,4,"Great experience, doctor was very attentive",2024-05-05
+FB01350,M000155,CN000309,5,Staff was helpful and courteous,2025-02-06
+FB01351,M002000,CN005164,3,Would recommend to others,2024-07-07
+FB01352,M000432,CN002669,3,Staff was helpful and courteous,2025-03-28
+FB01353,M000270,CN002416,5,Average experience overall,2025-08-01
+FB01354,M000974,CN002716,4,Very satisfied with the consultation,2025-03-28
+FB01355,M001457,CN004964,3,"Great experience, doctor was very attentive",2025-02-19
+FB01356,M000199,CN003144,3,Excellent follow-up care,2025-09-03
+FB01357,M000518,CN002664,2,Would recommend to others,2025-02-27
+FB01358,M002491,CN001097,4,Long wait time at the clinic,2024-07-25
+FB01359,M000679,CN001811,4,Average experience overall,2024-03-04
+FB01360,M000386,CN001515,4,Telemedicine call quality was poor,2025-10-25
+FB01361,M001274,CN005671,5,"Great experience, doctor was very attentive",2025-03-18
+FB01362,M002086,CN002751,5,Telemedicine call quality was poor,2024-04-01
+FB01363,M000633,CN003800,4,Doctor explained everything clearly,2025-02-19
+FB01364,M002315,CN001003,5,Doctor explained everything clearly,2025-12-13
+FB01365,M000989,CN003580,4,Telemedicine call quality was poor,2024-04-02
+FB01366,M000839,CN002153,2,"Great experience, doctor was very attentive",2024-04-15
+FB01367,M001207,CN002389,5,Needs faster appointment scheduling,2025-09-30
+FB01368,M000437,CN004000,5,Doctor explained everything clearly,2025-07-20
+FB01369,M002449,CN003298,5,Would recommend to others,2025-12-31
+FB01370,M000837,CN004039,2,"Great experience, doctor was very attentive",2024-08-19
+FB01371,M000261,CN004055,5,Needs faster appointment scheduling,2025-09-02
+FB01372,M000697,CN005480,3,Needs faster appointment scheduling,2024-04-13
+FB01373,M001601,CN000153,5,Needs faster appointment scheduling,2024-08-22
+FB01374,M002156,CN002318,3,"Great experience, doctor was very attentive",2024-09-13
+FB01375,M000440,CN001203,4,Doctor explained everything clearly,2025-09-18
+FB01376,M001985,CN002990,2,Telemedicine call quality was poor,2025-05-18
+FB01377,M002016,CN005195,5,Needs faster appointment scheduling,2024-05-05
+FB01378,M002049,CN001164,3,Long wait time at the clinic,2025-11-14
+FB01379,M002114,CN003647,5,Would recommend to others,2025-01-30
+FB01380,M001022,CN000540,5,Telemedicine call quality was poor,2025-05-29
+FB01381,M000112,CN002952,4,Long wait time at the clinic,2024-03-11
+FB01382,M000950,CN003920,5,Long wait time at the clinic,2024-07-06
+FB01383,M001015,CN000625,3,Needs faster appointment scheduling,2025-01-31
+FB01384,M001482,CN004898,4,Telemedicine call quality was poor,2025-12-22
+FB01385,M000269,CN004123,5,Would recommend to others,2024-08-18
+FB01386,M001028,CN000479,5,"Great experience, doctor was very attentive",2024-04-23
+FB01387,M001344,CN001344,4,Telemedicine call quality was poor,2025-06-10
+FB01388,M000865,CN001237,5,Would recommend to others,2025-02-22
+FB01389,M001943,CN001170,5,Very satisfied with the consultation,2024-03-12
+FB01390,M001807,CN002095,2,Telemedicine call quality was poor,2024-08-15
+FB01391,M002374,CN000556,5,Needs faster appointment scheduling,2024-10-11
+FB01392,M000374,CN001444,5,Needs faster appointment scheduling,2025-09-11
+FB01393,M001208,CN005728,3,Needs faster appointment scheduling,2025-07-10
+FB01394,M001993,CN001898,3,Excellent follow-up care,2025-01-08
+FB01395,M000645,CN001561,4,Doctor explained everything clearly,2024-09-05
+FB01396,M002086,CN005520,4,"Great experience, doctor was very attentive",2024-07-05
+FB01397,M002365,CN000589,5,"Great experience, doctor was very attentive",2024-07-16
+FB01398,M001768,CN001698,2,Telemedicine call quality was poor,2024-01-26
+FB01399,M000620,CN004765,5,"Great experience, doctor was very attentive",2025-11-08
+FB01400,M001666,CN004690,5,Long wait time at the clinic,2024-04-25
+FB01401,M001678,CN002437,5,Telemedicine call quality was poor,2024-08-22
+FB01402,M000633,CN001105,5,Telemedicine call quality was poor,2024-12-21
+FB01403,M001280,CN005310,5,"Great experience, doctor was very attentive",2025-01-05
+FB01404,M002302,CN003365,5,Very satisfied with the consultation,2024-01-21
+FB01405,M002277,CN002569,4,Staff was helpful and courteous,2025-11-27
+FB01406,M002129,CN005326,2,Needs faster appointment scheduling,2024-12-01
+FB01407,M002269,CN000687,5,Long wait time at the clinic,2024-08-09
+FB01408,M001254,CN002755,4,Long wait time at the clinic,2025-02-09
+FB01409,M002262,CN004367,5,Staff was helpful and courteous,2024-02-14
+FB01410,M001997,CN002672,5,Average experience overall,2025-03-31
+FB01411,M001764,CN004451,4,"Great experience, doctor was very attentive",2024-01-23
+FB01412,M000762,CN004357,3,Telemedicine call quality was poor,2024-12-20
+FB01413,M001252,CN005127,5,Very satisfied with the consultation,2025-03-18
+FB01414,M000917,CN000068,5,Staff was helpful and courteous,2024-02-09
+FB01415,M000745,CN001857,4,Staff was helpful and courteous,2025-01-21
+FB01416,M001259,CN005902,2,Excellent follow-up care,2024-12-20
+FB01417,M001125,CN003301,4,"Great experience, doctor was very attentive",2024-11-30
+FB01418,M001018,CN002004,1,Staff was helpful and courteous,2025-05-31
+FB01419,M001674,CN003412,4,Doctor explained everything clearly,2025-10-27
+FB01420,M001986,CN005672,4,Needs faster appointment scheduling,2024-07-04
+FB01421,M002491,CN002948,4,Would recommend to others,2024-10-10
+FB01422,M001569,CN002298,5,"Great experience, doctor was very attentive",2024-06-10
+FB01423,M001627,CN000088,4,Excellent follow-up care,2024-04-24
+FB01424,M001131,CN001433,5,Average experience overall,2025-10-03
+FB01425,M001575,CN002100,4,"Great experience, doctor was very attentive",2025-01-09
+FB01426,M001675,CN001403,4,Would recommend to others,2025-06-01
+FB01427,M001132,CN000185,4,Would recommend to others,2025-11-22
+FB01428,M000074,CN002762,5,Telemedicine call quality was poor,2025-10-20
+FB01429,M001342,CN000790,3,Average experience overall,2024-01-26
+FB01430,M001347,CN005618,3,Would recommend to others,2025-05-19
+FB01431,M002089,CN002076,4,Would recommend to others,2024-04-04
+FB01432,M000613,CN005344,1,"Great experience, doctor was very attentive",2024-07-15
+FB01433,M000410,CN005492,3,Long wait time at the clinic,2024-03-29
+FB01434,M001229,CN002301,3,Long wait time at the clinic,2024-10-04
+FB01435,M001935,CN004192,5,"Great experience, doctor was very attentive",2025-04-08
+FB01436,M002229,CN005877,4,Very satisfied with the consultation,2025-01-01
+FB01437,M000156,CN000118,5,Telemedicine call quality was poor,2025-09-10
+FB01438,M002292,CN003882,3,Very satisfied with the consultation,2025-10-26
+FB01439,M001076,CN004770,5,"Great experience, doctor was very attentive",2024-01-30
+FB01440,M002211,CN003423,5,Long wait time at the clinic,2025-12-09
+FB01441,M000329,CN001830,2,"Great experience, doctor was very attentive",2025-08-08
+FB01442,M002338,CN004878,4,Would recommend to others,2025-04-18
+FB01443,M002030,CN000977,3,Very satisfied with the consultation,2024-02-29
+FB01444,M002203,CN005312,5,Would recommend to others,2025-08-04
+FB01445,M001677,CN002150,4,Very satisfied with the consultation,2025-07-08
+FB01446,M002098,CN004486,5,Excellent follow-up care,2025-12-22
+FB01447,M000307,CN005138,3,Staff was helpful and courteous,2025-01-30
+FB01448,M002176,CN002282,5,"Great experience, doctor was very attentive",2024-07-05
+FB01449,M000822,CN000820,2,Excellent follow-up care,2025-08-14
+FB01450,M002054,CN004657,3,Long wait time at the clinic,2025-08-08
+FB01451,M001708,CN001055,5,"Great experience, doctor was very attentive",2025-08-26
+FB01452,M001262,CN000177,4,Excellent follow-up care,2025-02-22
+FB01453,M000191,CN000015,3,Doctor explained everything clearly,2024-11-01
+FB01454,M000606,CN005002,1,Very satisfied with the consultation,2025-03-18
+FB01455,M001370,CN003886,5,Very satisfied with the consultation,2025-09-19
+FB01456,M001969,CN003020,3,"Great experience, doctor was very attentive",2025-11-11
+FB01457,M000248,CN005839,5,Staff was helpful and courteous,2025-10-21
+FB01458,M001638,CN005695,5,Would recommend to others,2025-03-15
+FB01459,M000560,CN003075,3,Telemedicine call quality was poor,2025-09-20
+FB01460,M000389,CN002226,4,Excellent follow-up care,2025-08-30
+FB01461,M000213,CN000208,1,Needs faster appointment scheduling,2024-05-31
+FB01462,M001299,CN005706,5,Long wait time at the clinic,2024-07-12
+FB01463,M000553,CN001629,5,Staff was helpful and courteous,2025-01-11
+FB01464,M000356,CN005282,5,Average experience overall,2025-05-07
+FB01465,M002444,CN001893,2,Telemedicine call quality was poor,2025-07-05
+FB01466,M001206,CN000734,5,Long wait time at the clinic,2024-12-09
+FB01467,M001455,CN004316,5,Would recommend to others,2024-05-28
+FB01468,M000344,CN005305,3,Telemedicine call quality was poor,2025-04-24
+FB01469,M001107,CN001625,4,Average experience overall,2024-10-15
+FB01470,M000031,CN001905,5,Staff was helpful and courteous,2025-10-01
+FB01471,M000243,CN000527,4,Needs faster appointment scheduling,2025-04-13
+FB01472,M000472,CN003041,3,Would recommend to others,2025-01-16
+FB01473,M001843,CN002675,4,Very satisfied with the consultation,2025-05-02
+FB01474,M001293,CN000413,4,Telemedicine call quality was poor,2025-02-20
+FB01475,M001807,CN003549,4,Telemedicine call quality was poor,2024-11-08
+FB01476,M001152,CN005791,2,Long wait time at the clinic,2024-07-21
+FB01477,M001970,CN004912,3,Long wait time at the clinic,2025-07-08
+FB01478,M000259,CN001707,4,Telemedicine call quality was poor,2024-06-18
+FB01479,M000668,CN004431,2,Very satisfied with the consultation,2025-11-09
+FB01480,M001080,CN001325,3,Staff was helpful and courteous,2024-11-01
+FB01481,M002024,CN005766,5,Staff was helpful and courteous,2024-11-04
+FB01482,M000218,CN005888,5,Would recommend to others,2024-05-03
+FB01483,M001427,CN003926,3,Very satisfied with the consultation,2024-11-24
+FB01484,M000358,CN000077,1,Long wait time at the clinic,2024-12-25
+FB01485,M001939,CN004386,2,Very satisfied with the consultation,2024-08-24
+FB01486,M000245,CN004258,4,Needs faster appointment scheduling,2024-08-31
+FB01487,M000990,CN004405,4,Staff was helpful and courteous,2025-05-14
+FB01488,M001009,CN001851,5,"Great experience, doctor was very attentive",2024-05-31
+FB01489,M001924,CN005101,4,Average experience overall,2025-10-28
+FB01490,M002423,CN005565,5,Average experience overall,2025-09-29
+FB01491,M002402,CN004016,4,Very satisfied with the consultation,2025-02-16
+FB01492,M000469,CN003085,5,Staff was helpful and courteous,2025-12-04
+FB01493,M000982,CN005347,5,"Great experience, doctor was very attentive",2025-01-16
+FB01494,M001805,CN003329,4,"Great experience, doctor was very attentive",2024-10-16
+FB01495,M001057,CN004030,4,Very satisfied with the consultation,2024-08-10
+FB01496,M000866,CN001782,4,Long wait time at the clinic,2024-02-22
+FB01497,M002264,CN000613,5,Doctor explained everything clearly,2024-09-30
+FB01498,M000525,CN002209,2,Long wait time at the clinic,2025-10-03
+FB01499,M001461,CN002185,3,Average experience overall,2025-08-09
+FB01500,M000887,CN001072,3,Needs faster appointment scheduling,2025-06-28
+FB01501,M002307,CN001908,3,Needs faster appointment scheduling,2024-02-10
+FB01502,M002079,CN002991,4,Long wait time at the clinic,2025-09-11
+FB01503,M001009,CN002101,4,Very satisfied with the consultation,2025-11-02
+FB01504,M001601,CN001607,4,Long wait time at the clinic,2024-06-18
+FB01505,M000416,CN000562,4,Very satisfied with the consultation,2025-06-11
+FB01506,M001286,CN003723,2,Would recommend to others,2024-04-09
+FB01507,M001651,CN005755,4,Telemedicine call quality was poor,2025-07-18
+FB01508,M000097,CN000313,5,Doctor explained everything clearly,2025-05-08
+FB01509,M001539,CN005185,3,Very satisfied with the consultation,2025-07-24
+FB01510,M000590,CN003177,4,Doctor explained everything clearly,2024-05-26
+FB01511,M001703,CN002452,3,"Great experience, doctor was very attentive",2025-07-25
+FB01512,M002005,CN005555,3,Average experience overall,2024-07-03
+FB01513,M001628,CN002797,4,"Great experience, doctor was very attentive",2025-06-28
+FB01514,M001537,CN001427,5,Doctor explained everything clearly,2025-02-06
+FB01515,M001446,CN002510,4,Excellent follow-up care,2025-11-03
+FB01516,M001153,CN000909,4,Very satisfied with the consultation,2025-08-02
+FB01517,M001279,CN005870,5,Average experience overall,2024-08-21
+FB01518,M000035,CN002119,2,Doctor explained everything clearly,2024-03-08
+FB01519,M000691,CN003688,5,Excellent follow-up care,2024-04-08
+FB01520,M000558,CN004821,3,Would recommend to others,2025-07-07
+FB01521,M001346,CN001474,4,Long wait time at the clinic,2024-09-16
+FB01522,M000397,CN000701,1,Staff was helpful and courteous,2025-07-07
+FB01523,M000856,CN004308,4,Would recommend to others,2025-11-02
+FB01524,M001912,CN005259,4,Needs faster appointment scheduling,2024-10-18
+FB01525,M000042,CN003231,3,Long wait time at the clinic,2025-08-26
+FB01526,M001825,CN001281,4,Doctor explained everything clearly,2025-03-30
+FB01527,M000419,CN002333,3,Very satisfied with the consultation,2025-01-28
+FB01528,M002034,CN001421,2,Doctor explained everything clearly,2025-11-18
+FB01529,M002247,CN000073,5,Long wait time at the clinic,2024-05-30
+FB01530,M000945,CN003677,5,"Great experience, doctor was very attentive",2024-07-30
+FB01531,M001817,CN005465,4,Long wait time at the clinic,2025-05-27
+FB01532,M000339,CN000546,5,Average experience overall,2025-09-15
+FB01533,M001012,CN000867,4,Average experience overall,2024-07-26
+FB01534,M000035,CN000597,5,Doctor explained everything clearly,2024-06-13
+FB01535,M001484,CN004520,4,Staff was helpful and courteous,2024-08-25
+FB01536,M001299,CN005706,5,Staff was helpful and courteous,2024-07-12
+FB01537,M001121,CN001733,5,Staff was helpful and courteous,2025-02-16
+FB01538,M000387,CN002564,4,Staff was helpful and courteous,2024-01-02
+FB01539,M002434,CN003323,3,Staff was helpful and courteous,2025-03-14
+FB01540,M001291,CN004253,4,Needs faster appointment scheduling,2025-04-14
+FB01541,M000124,CN005236,3,"Great experience, doctor was very attentive",2024-12-09
+FB01542,M001667,CN003553,4,Would recommend to others,2025-07-31
+FB01543,M002139,CN003442,3,"Great experience, doctor was very attentive",2025-12-28
+FB01544,M001297,CN004085,4,Average experience overall,2024-11-28
+FB01545,M001347,CN003969,5,Very satisfied with the consultation,2025-12-11
+FB01546,M002496,CN001566,4,Doctor explained everything clearly,2025-04-07
+FB01547,M000625,CN001305,4,Excellent follow-up care,2025-03-07
+FB01548,M000945,CN003422,4,Long wait time at the clinic,2024-02-14
+FB01549,M002277,CN002569,5,Excellent follow-up care,2025-11-27
+FB01550,M001144,CN004483,3,"Great experience, doctor was very attentive",2025-10-18
+FB01551,M001725,CN002461,5,"Great experience, doctor was very attentive",2024-10-14
+FB01552,M001703,CN004571,4,Needs faster appointment scheduling,2024-06-19
+FB01553,M000085,CN000598,3,"Great experience, doctor was very attentive",2025-03-04
+FB01554,M001977,CN005358,5,Long wait time at the clinic,2024-01-04
+FB01555,M000460,CN004303,2,Doctor explained everything clearly,2024-07-28
+FB01556,M002104,CN000566,5,Very satisfied with the consultation,2025-09-23
+FB01557,M002162,CN000248,4,Long wait time at the clinic,2024-12-11
+FB01558,M000167,CN005829,5,Staff was helpful and courteous,2024-01-22
+FB01559,M000804,CN004856,5,Long wait time at the clinic,2024-07-17
+FB01560,M000063,CN000738,3,Doctor explained everything clearly,2024-05-04
+FB01561,M000442,CN002200,3,Average experience overall,2024-12-19
+FB01562,M002135,CN001609,3,Excellent follow-up care,2025-12-25
+FB01563,M000425,CN005763,3,Very satisfied with the consultation,2024-11-29
+FB01564,M000697,CN005480,4,Average experience overall,2024-04-13
+FB01565,M001976,CN000397,4,Staff was helpful and courteous,2024-10-16
+FB01566,M000247,CN003613,3,Needs faster appointment scheduling,2025-07-12
+FB01567,M001408,CN005934,5,Doctor explained everything clearly,2024-01-20
+FB01568,M000965,CN001669,3,Excellent follow-up care,2024-10-30
+FB01569,M001764,CN004451,4,Doctor explained everything clearly,2024-01-23
+FB01570,M000660,CN005981,4,"Great experience, doctor was very attentive",2024-10-13
+FB01571,M001659,CN003725,2,Needs faster appointment scheduling,2025-05-14
+FB01572,M000240,CN003084,4,Telemedicine call quality was poor,2024-07-13
+FB01573,M001499,CN005923,2,"Great experience, doctor was very attentive",2024-07-30
+FB01574,M000437,CN001651,4,"Great experience, doctor was very attentive",2025-12-26
+FB01575,M001425,CN002137,4,Needs faster appointment scheduling,2024-04-25
+FB01576,M001670,CN004686,4,Long wait time at the clinic,2024-11-11
+FB01577,M001435,CN002516,4,Telemedicine call quality was poor,2024-08-18
+FB01578,M001699,CN004453,4,Staff was helpful and courteous,2024-05-02
+FB01579,M002469,CN002353,2,Telemedicine call quality was poor,2024-09-22
+FB01580,M000748,CN001129,4,Staff was helpful and courteous,2024-10-14
+FB01581,M000238,CN003451,5,Average experience overall,2025-11-18
+FB01582,M001983,CN000044,5,Telemedicine call quality was poor,2025-12-30
+FB01583,M001208,CN001489,4,Average experience overall,2024-03-15
+FB01584,M001259,CN003417,2,Would recommend to others,2025-12-19
+FB01585,M000414,CN000829,5,Staff was helpful and courteous,2024-02-22
+FB01586,M002392,CN005198,5,Needs faster appointment scheduling,2025-12-02
+FB01587,M002059,CN003759,3,Doctor explained everything clearly,2024-02-08
+FB01588,M002296,CN004989,5,Needs faster appointment scheduling,2025-08-13
+FB01589,M002095,CN002242,2,Excellent follow-up care,2024-01-20
+FB01590,M001869,CN005734,2,Average experience overall,2024-05-04
+FB01591,M001597,CN001464,5,Telemedicine call quality was poor,2024-04-21
+FB01592,M002156,CN002318,3,Long wait time at the clinic,2024-09-13
+FB01593,M002297,CN003457,4,Staff was helpful and courteous,2025-07-22
+FB01594,M001518,CN001240,5,Excellent follow-up care,2024-03-11
+FB01595,M002223,CN005955,4,Needs faster appointment scheduling,2025-01-16
+FB01596,M002187,CN003608,3,Needs faster appointment scheduling,2025-03-24
+FB01597,M000270,CN002416,4,Needs faster appointment scheduling,2025-08-01
+FB01598,M001326,CN002920,4,Needs faster appointment scheduling,2024-10-08
+FB01599,M001153,CN005124,1,Very satisfied with the consultation,2025-11-14
+FB01600,M001590,CN002066,2,Excellent follow-up care,2024-08-26
+FB01601,M002293,CN001233,5,Doctor explained everything clearly,2025-09-27
+FB01602,M000720,CN005411,1,Excellent follow-up care,2024-08-12
+FB01603,M000959,CN003760,5,Telemedicine call quality was poor,2025-07-02
+FB01604,M001777,CN003690,4,Long wait time at the clinic,2025-12-01
+FB01605,M002150,CN003532,1,Telemedicine call quality was poor,2025-11-19
+FB01606,M000529,CN002665,5,Excellent follow-up care,2025-03-02
+FB01607,M001374,CN001900,5,Excellent follow-up care,2025-03-22
+FB01608,M001745,CN001018,4,"Great experience, doctor was very attentive",2025-04-15
+FB01609,M000076,CN004976,3,Long wait time at the clinic,2025-04-16
+FB01610,M001544,CN001713,3,Average experience overall,2025-01-08
+FB01611,M001157,CN001542,5,"Great experience, doctor was very attentive",2024-05-07
+FB01612,M001757,CN000917,2,Excellent follow-up care,2025-09-10
+FB01613,M002386,CN000320,4,Telemedicine call quality was poor,2025-02-13
+FB01614,M000646,CN001928,4,Would recommend to others,2024-09-26
+FB01615,M000574,CN003572,4,Would recommend to others,2024-06-02
+FB01616,M001638,CN004890,3,"Great experience, doctor was very attentive",2024-09-05
+FB01617,M002144,CN005855,1,Telemedicine call quality was poor,2025-12-19
+FB01618,M001811,CN002753,5,Average experience overall,2025-04-18
+FB01619,M000403,CN004952,3,Telemedicine call quality was poor,2025-04-08
+FB01620,M001052,CN002127,4,"Great experience, doctor was very attentive",2025-05-08
+FB01621,M001755,CN003854,5,Excellent follow-up care,2025-08-25
+FB01622,M001947,CN001821,3,Telemedicine call quality was poor,2025-05-25
+FB01623,M001782,CN001801,4,Excellent follow-up care,2025-04-10
+FB01624,M002359,CN004915,4,Needs faster appointment scheduling,2025-08-04
+FB01625,M000179,CN002305,1,Average experience overall,2024-07-16
+FB01626,M001672,CN000169,4,Would recommend to others,2024-01-19
+FB01627,M000916,CN001559,3,Excellent follow-up care,2024-04-04
+FB01628,M000332,CN002059,5,Long wait time at the clinic,2025-10-14
+FB01629,M001899,CN001450,5,Telemedicine call quality was poor,2024-08-10
+FB01630,M001186,CN005381,5,Long wait time at the clinic,2025-07-14
+FB01631,M001751,CN004967,3,Staff was helpful and courteous,2025-05-27
+FB01632,M000067,CN002873,3,Average experience overall,2025-08-19
+FB01633,M001645,CN001812,3,Excellent follow-up care,2025-01-21
+FB01634,M000302,CN002904,1,Long wait time at the clinic,2024-10-11
+FB01635,M001745,CN004940,3,Staff was helpful and courteous,2025-08-10
+FB01636,M002103,CN002858,4,Average experience overall,2025-12-17
+FB01637,M001131,CN004756,4,"Great experience, doctor was very attentive",2025-06-14
+FB01638,M001854,CN001874,2,Long wait time at the clinic,2024-02-21
+FB01639,M000019,CN001153,3,Doctor explained everything clearly,2025-08-02
+FB01640,M001581,CN004334,3,Average experience overall,2025-02-20
+FB01641,M000657,CN000190,3,Average experience overall,2025-05-25
+FB01642,M000542,CN000691,2,Would recommend to others,2025-08-19
+FB01643,M002428,CN002176,3,Doctor explained everything clearly,2024-11-17
+FB01644,M001909,CN004046,5,Excellent follow-up care,2025-01-24
+FB01645,M001944,CN003870,5,Average experience overall,2024-05-18
+FB01646,M000660,CN005981,1,Would recommend to others,2024-10-13
+FB01647,M001384,CN002518,4,Needs faster appointment scheduling,2024-03-09
+FB01648,M000807,CN004709,1,Would recommend to others,2025-08-15
+FB01649,M000945,CN003422,4,Excellent follow-up care,2024-02-14
+FB01650,M001453,CN000742,4,Average experience overall,2025-07-01
+FB01651,M000113,CN001662,5,Excellent follow-up care,2025-07-26
+FB01652,M001940,CN001758,2,"Great experience, doctor was very attentive",2024-01-16
+FB01653,M001671,CN004999,3,Staff was helpful and courteous,2024-07-22
+FB01654,M002210,CN001789,3,Average experience overall,2024-06-28
+FB01655,M001219,CN003614,4,Staff was helpful and courteous,2025-07-12
+FB01656,M000742,CN004941,5,Would recommend to others,2025-03-18
+FB01657,M001054,CN004237,2,Long wait time at the clinic,2024-02-23
+FB01658,M001305,CN003393,5,Telemedicine call quality was poor,2024-05-01
+FB01659,M001216,CN003459,3,Needs faster appointment scheduling,2024-12-23
+FB01660,M000700,CN001442,4,Doctor explained everything clearly,2025-12-24
+FB01661,M001874,CN002188,2,Staff was helpful and courteous,2024-08-03
+FB01662,M002468,CN001652,3,Very satisfied with the consultation,2025-02-17
+FB01663,M001752,CN000374,3,Staff was helpful and courteous,2024-02-06
+FB01664,M002252,CN005097,5,Average experience overall,2025-07-22
+FB01665,M001856,CN005373,4,Would recommend to others,2024-05-26
+FB01666,M002316,CN000462,3,Very satisfied with the consultation,2024-05-30
+FB01667,M000885,CN005241,4,"Great experience, doctor was very attentive",2024-08-06
+FB01668,M002095,CN000241,4,Long wait time at the clinic,2024-05-04
+FB01669,M000936,CN004061,5,Excellent follow-up care,2025-06-20
+FB01670,M000781,CN000333,5,Average experience overall,2024-08-28
+FB01671,M000035,CN004438,4,Excellent follow-up care,2024-04-11
+FB01672,M002247,CN003074,2,"Great experience, doctor was very attentive",2025-10-27
+FB01673,M000292,CN003274,5,Needs faster appointment scheduling,2025-04-03
+FB01674,M002024,CN000112,5,Telemedicine call quality was poor,2024-06-25
+FB01675,M000954,CN002865,2,Very satisfied with the consultation,2024-11-23
+FB01676,M000749,CN004272,5,Telemedicine call quality was poor,2025-04-03
+FB01677,M000165,CN003353,4,Needs faster appointment scheduling,2024-07-16
+FB01678,M001641,CN004725,5,Would recommend to others,2025-07-20
+FB01679,M000240,CN000230,3,Needs faster appointment scheduling,2025-02-18
+FB01680,M001833,CN002266,5,"Great experience, doctor was very attentive",2024-09-25
+FB01681,M000922,CN005230,5,Very satisfied with the consultation,2025-04-19
+FB01682,M000519,CN005718,1,Excellent follow-up care,2024-07-01
+FB01683,M002175,CN005742,4,Excellent follow-up care,2024-09-19
+FB01684,M000859,CN003509,5,Long wait time at the clinic,2025-10-15
+FB01685,M001219,CN001985,4,Very satisfied with the consultation,2024-11-18
+FB01686,M002134,CN001178,4,Staff was helpful and courteous,2025-02-05
+FB01687,M000577,CN004541,4,Doctor explained everything clearly,2024-01-19
+FB01688,M000716,CN004516,3,Excellent follow-up care,2024-01-31
+FB01689,M001983,CN001247,2,Needs faster appointment scheduling,2025-03-18
+FB01690,M001910,CN000896,4,Excellent follow-up care,2024-01-21
+FB01691,M002428,CN002512,4,Long wait time at the clinic,2024-02-26
+FB01692,M002292,CN005928,5,Telemedicine call quality was poor,2024-03-06
+FB01693,M001727,CN001423,4,Very satisfied with the consultation,2025-06-19
+FB01694,M000799,CN005498,1,Needs faster appointment scheduling,2025-05-07
+FB01695,M000360,CN002560,5,Excellent follow-up care,2024-05-19
+FB01696,M001086,CN003904,1,Doctor explained everything clearly,2025-02-27
+FB01697,M000863,CN000751,5,Average experience overall,2024-05-04
+FB01698,M000698,CN002582,5,Telemedicine call quality was poor,2024-09-24
+FB01699,M001531,CN005890,3,Excellent follow-up care,2025-08-14
+FB01700,M000953,CN000446,5,Telemedicine call quality was poor,2025-10-24
+FB01701,M000537,CN003875,2,Doctor explained everything clearly,2024-10-15
+FB01702,M000827,CN005321,4,Staff was helpful and courteous,2025-10-09
+FB01703,M000556,CN001547,4,Telemedicine call quality was poor,2025-03-09
+FB01704,M000440,CN001203,5,Average experience overall,2025-09-18
+FB01705,M002429,CN000354,3,Staff was helpful and courteous,2024-11-10
+FB01706,M001594,CN003016,4,Very satisfied with the consultation,2025-10-22
+FB01707,M002270,CN002796,5,Doctor explained everything clearly,2024-10-13
+FB01708,M001564,CN005798,5,Telemedicine call quality was poor,2024-10-08
+FB01709,M001310,CN003488,5,Average experience overall,2024-02-07
+FB01710,M001437,CN005233,5,Telemedicine call quality was poor,2024-07-31
+FB01711,M001942,CN005451,4,Average experience overall,2025-01-16
+FB01712,M000688,CN005254,4,Staff was helpful and courteous,2024-06-22
+FB01713,M002204,CN002073,5,Staff was helpful and courteous,2025-02-25
+FB01714,M000426,CN005997,3,Very satisfied with the consultation,2025-03-18
+FB01715,M001287,CN004845,5,Needs faster appointment scheduling,2025-01-24
+FB01716,M000935,CN005681,3,Excellent follow-up care,2024-05-09
+FB01717,M000799,CN003973,5,Would recommend to others,2025-08-14
+FB01718,M001070,CN000621,5,Long wait time at the clinic,2025-11-30
+FB01719,M001572,CN003909,2,"Great experience, doctor was very attentive",2025-12-27
+FB01720,M000664,CN003738,5,Very satisfied with the consultation,2024-02-12
+FB01721,M000155,CN001697,5,"Great experience, doctor was very attentive",2025-10-21
+FB01722,M000544,CN001350,5,Would recommend to others,2025-04-10
+FB01723,M002325,CN002430,5,Long wait time at the clinic,2025-02-04
+FB01724,M001692,CN004018,3,Needs faster appointment scheduling,2024-08-07
+FB01725,M000075,CN003357,4,Telemedicine call quality was poor,2025-04-17
+FB01726,M001609,CN001958,4,Excellent follow-up care,2024-01-10
+FB01727,M001510,CN002031,4,Excellent follow-up care,2024-01-26
+FB01728,M000612,CN001518,5,Staff was helpful and courteous,2025-11-11
+FB01729,M000446,CN003468,5,"Great experience, doctor was very attentive",2024-05-25
+FB01730,M000337,CN005314,2,Telemedicine call quality was poor,2025-09-22
+FB01731,M001361,CN003112,5,Long wait time at the clinic,2025-04-21
+FB01732,M002417,CN001443,5,Needs faster appointment scheduling,2024-02-02
+FB01733,M002222,CN001881,3,Excellent follow-up care,2025-05-14
+FB01734,M001901,CN005290,5,Very satisfied with the consultation,2024-07-23
+FB01735,M001906,CN001940,4,Would recommend to others,2024-11-10
+FB01736,M001755,CN004937,2,Needs faster appointment scheduling,2025-12-11
+FB01737,M002130,CN004299,5,Needs faster appointment scheduling,2024-12-25
+FB01738,M000612,CN004082,4,Would recommend to others,2024-07-26
+FB01739,M000766,CN005332,4,Staff was helpful and courteous,2024-08-09
+FB01740,M000543,CN000580,4,Would recommend to others,2024-07-31
+FB01741,M000094,CN001228,3,Would recommend to others,2024-07-02
+FB01742,M001256,CN000531,3,Would recommend to others,2024-06-27
+FB01743,M001818,CN005936,5,"Great experience, doctor was very attentive",2024-06-14
+FB01744,M000222,CN002689,4,"Great experience, doctor was very attentive",2025-10-06
+FB01745,M000670,CN003318,4,Telemedicine call quality was poor,2025-11-08
+FB01746,M000021,CN000934,3,Excellent follow-up care,2025-07-06
+FB01747,M002146,CN000905,5,Staff was helpful and courteous,2025-12-13
+FB01748,M000477,CN001797,4,"Great experience, doctor was very attentive",2025-04-09
+FB01749,M002464,CN000989,4,Needs faster appointment scheduling,2025-11-13
+FB01750,M002158,CN005421,4,Staff was helpful and courteous,2025-05-15
+FB01751,M000796,CN001373,5,Very satisfied with the consultation,2024-02-13
+FB01752,M000166,CN003399,5,Staff was helpful and courteous,2025-12-06
+FB01753,M002143,CN000565,4,Very satisfied with the consultation,2024-07-24
+FB01754,M000603,CN002817,5,Needs faster appointment scheduling,2025-01-19
+FB01755,M001589,CN001664,4,Average experience overall,2025-10-30
+FB01756,M000352,CN001077,3,Telemedicine call quality was poor,2024-08-31
+FB01757,M001041,CN003782,4,Long wait time at the clinic,2025-09-05
+FB01758,M001818,CN001025,3,Average experience overall,2024-08-22
+FB01759,M000536,CN005909,5,Doctor explained everything clearly,2025-09-11
+FB01760,M001391,CN004394,4,"Great experience, doctor was very attentive",2024-06-24
+FB01761,M000494,CN002633,3,Telemedicine call quality was poor,2025-11-30
+FB01762,M001544,CN005460,4,Would recommend to others,2025-10-08
+FB01763,M000426,CN000293,4,Average experience overall,2024-06-24
+FB01764,M000777,CN003389,1,Very satisfied with the consultation,2024-05-14
+FB01765,M001070,CN004417,5,"Great experience, doctor was very attentive",2025-08-21
+FB01766,M000864,CN000445,4,Doctor explained everything clearly,2024-07-11
+FB01767,M001342,CN005949,1,Telemedicine call quality was poor,2025-07-12
+FB01768,M000949,CN003124,4,Needs faster appointment scheduling,2024-08-02
+FB01769,M000983,CN003856,5,Would recommend to others,2025-02-26
+FB01770,M001539,CN002025,4,Telemedicine call quality was poor,2024-05-30
+FB01771,M001740,CN005363,5,Doctor explained everything clearly,2024-07-01
+FB01772,M000112,CN002952,5,Telemedicine call quality was poor,2024-03-11
+FB01773,M000674,CN000006,5,"Great experience, doctor was very attentive",2024-01-04
+FB01774,M002357,CN002640,5,Staff was helpful and courteous,2024-08-18
+FB01775,M001080,CN001325,4,Staff was helpful and courteous,2024-11-01
+FB01776,M002302,CN003365,2,Staff was helpful and courteous,2024-01-21
+FB01777,M000732,CN005864,2,Telemedicine call quality was poor,2024-12-23
+FB01778,M000409,CN004354,5,Needs faster appointment scheduling,2024-05-26
+FB01779,M001811,CN005610,3,Average experience overall,2024-02-22
+FB01780,M002371,CN003429,5,Needs faster appointment scheduling,2025-04-11
+FB01781,M000206,CN004144,3,Staff was helpful and courteous,2024-09-30
+FB01782,M001121,CN001733,5,Average experience overall,2025-02-16
+FB01783,M001324,CN004806,2,Staff was helpful and courteous,2025-05-26
+FB01784,M001997,CN002672,3,Average experience overall,2025-03-31
+FB01785,M001001,CN002269,3,Telemedicine call quality was poor,2025-10-05
+FB01786,M001130,CN001158,5,Excellent follow-up care,2025-06-06
+FB01787,M001231,CN001891,5,Very satisfied with the consultation,2024-05-31
+FB01788,M001265,CN001902,5,Long wait time at the clinic,2025-02-24
+FB01789,M000781,CN005691,5,Needs faster appointment scheduling,2024-09-03
+FB01790,M000402,CN002954,3,Telemedicine call quality was poor,2024-04-03
+FB01791,M001738,CN005771,3,Needs faster appointment scheduling,2025-07-13
+FB01792,M000889,CN000994,4,Would recommend to others,2025-02-14
+FB01793,M001532,CN004831,4,Average experience overall,2025-05-28
+FB01794,M000369,CN000606,4,Staff was helpful and courteous,2025-04-23
+FB01795,M000563,CN001544,4,Very satisfied with the consultation,2024-10-18
+FB01796,M001313,CN000710,1,Would recommend to others,2024-07-06
+FB01797,M001650,CN003990,4,Doctor explained everything clearly,2025-01-07
+FB01798,M002435,CN002468,4,Staff was helpful and courteous,2025-11-15
+FB01799,M002104,CN005058,4,Very satisfied with the consultation,2024-03-11
+FB01800,M000461,CN000713,5,Telemedicine call quality was poor,2024-05-04
+FB01801,M000112,CN005576,4,Needs faster appointment scheduling,2024-03-15
+FB01802,M002294,CN000335,5,Would recommend to others,2024-05-01
+FB01803,M002264,CN000613,5,Telemedicine call quality was poor,2024-09-30
+FB01804,M000505,CN000552,5,Excellent follow-up care,2025-10-12
+FB01805,M000480,CN004418,3,"Great experience, doctor was very attentive",2024-02-14
+FB01806,M000120,CN001499,4,Very satisfied with the consultation,2024-11-16
+FB01807,M002329,CN002938,4,Very satisfied with the consultation,2025-04-24
+FB01808,M001566,CN005990,5,Average experience overall,2025-10-20
+FB01809,M000505,CN003447,3,Needs faster appointment scheduling,2024-02-29
+FB01810,M001366,CN002823,4,Doctor explained everything clearly,2024-07-19
+FB01811,M002316,CN004376,2,Long wait time at the clinic,2024-02-12
+FB01812,M001712,CN003785,3,Telemedicine call quality was poor,2024-12-28
+FB01813,M002277,CN005620,4,Telemedicine call quality was poor,2024-10-25
+FB01814,M001298,CN003658,5,Would recommend to others,2024-07-28
+FB01815,M001622,CN004631,4,Very satisfied with the consultation,2024-01-02
+FB01816,M000176,CN005333,5,Average experience overall,2025-04-01
+FB01817,M000630,CN000074,3,Average experience overall,2024-06-08
+FB01818,M002008,CN005804,4,Average experience overall,2024-08-18
+FB01819,M000238,CN000106,1,Long wait time at the clinic,2025-02-20
+FB01820,M000709,CN003716,5,Very satisfied with the consultation,2025-11-26
+FB01821,M001145,CN001171,4,Needs faster appointment scheduling,2024-12-04
+FB01822,M001207,CN002389,5,Staff was helpful and courteous,2025-09-30
+FB01823,M001257,CN002891,3,Average experience overall,2025-06-23
+FB01824,M000454,CN002585,4,Excellent follow-up care,2025-01-04
+FB01825,M001281,CN003173,2,Excellent follow-up care,2024-05-01
+FB01826,M001111,CN003317,4,Staff was helpful and courteous,2025-09-10
+FB01827,M000677,CN001401,4,Would recommend to others,2024-01-03
+FB01828,M001481,CN000487,4,Would recommend to others,2025-04-01
+FB01829,M000914,CN003469,2,Excellent follow-up care,2025-12-31
+FB01830,M001878,CN005091,2,Doctor explained everything clearly,2024-07-08
+FB01831,M001749,CN002239,5,Long wait time at the clinic,2024-04-21
+FB01832,M002097,CN002748,4,Needs faster appointment scheduling,2024-12-20
+FB01833,M001259,CN004324,5,Excellent follow-up care,2024-01-26
+FB01834,M000483,CN005508,5,Would recommend to others,2024-09-14
+FB01835,M000894,CN001834,2,Needs faster appointment scheduling,2024-04-19
+FB01836,M002430,CN000583,1,Very satisfied with the consultation,2024-01-23
+FB01837,M002316,CN004517,2,Needs faster appointment scheduling,2025-10-10
+FB01838,M002480,CN004432,5,Would recommend to others,2025-02-07
+FB01839,M002484,CN004155,5,Doctor explained everything clearly,2024-05-09
+FB01840,M000712,CN001885,2,Average experience overall,2024-03-01
+FB01841,M000383,CN001508,5,Excellent follow-up care,2024-07-30
+FB01842,M001676,CN002951,4,Doctor explained everything clearly,2025-04-29
+FB01843,M001718,CN005184,3,Very satisfied with the consultation,2025-03-17
+FB01844,M000685,CN002983,5,Staff was helpful and courteous,2025-01-16
+FB01845,M001165,CN001574,3,Very satisfied with the consultation,2024-06-20
+FB01846,M002082,CN000221,4,Long wait time at the clinic,2024-07-06
+FB01847,M000103,CN004613,4,Excellent follow-up care,2024-10-09
+FB01848,M000720,CN005411,4,Excellent follow-up care,2024-08-12
+FB01849,M000074,CN002008,4,Very satisfied with the consultation,2025-01-24
+FB01850,M002250,CN001090,3,Long wait time at the clinic,2024-02-14
+FB01851,M000563,CN000875,3,Doctor explained everything clearly,2024-03-14
+FB01852,M000882,CN001913,4,Doctor explained everything clearly,2024-02-01
+FB01853,M001468,CN004914,5,Telemedicine call quality was poor,2025-07-04
+FB01854,M000151,CN000368,2,Very satisfied with the consultation,2024-07-26
+FB01855,M000999,CN002486,3,Doctor explained everything clearly,2025-07-17
+FB01856,M001415,CN001038,5,Excellent follow-up care,2024-10-17
+FB01857,M001428,CN000355,2,Excellent follow-up care,2025-03-19
+FB01858,M000928,CN001333,5,Average experience overall,2025-01-31
+FB01859,M001198,CN004730,2,Telemedicine call quality was poor,2025-03-05
+FB01860,M001122,CN000022,5,"Great experience, doctor was very attentive",2025-08-18
+FB01861,M001212,CN005899,3,Long wait time at the clinic,2024-01-14
+FB01862,M001485,CN005531,5,Needs faster appointment scheduling,2025-06-05
+FB01863,M001358,CN000051,2,Long wait time at the clinic,2025-10-25
+FB01864,M001979,CN001579,5,Excellent follow-up care,2024-12-23
+FB01865,M000641,CN003024,2,"Great experience, doctor was very attentive",2024-08-29
+FB01866,M000461,CN000713,5,Very satisfied with the consultation,2024-05-04
+FB01867,M001486,CN003883,5,Average experience overall,2024-12-15
+FB01868,M001617,CN005449,1,Would recommend to others,2025-03-06
+FB01869,M001619,CN000572,5,Average experience overall,2025-05-10
+FB01870,M000712,CN005413,4,Would recommend to others,2025-02-11
+FB01871,M000151,CN000368,5,Doctor explained everything clearly,2024-07-26
+FB01872,M002424,CN004314,3,Average experience overall,2024-04-01
+FB01873,M001147,CN000376,5,"Great experience, doctor was very attentive",2025-02-16
+FB01874,M001399,CN005629,1,Doctor explained everything clearly,2024-12-08
+FB01875,M001147,CN001910,2,Very satisfied with the consultation,2025-11-05
+FB01876,M000786,CN001449,4,Would recommend to others,2025-08-03
+FB01877,M002388,CN002758,1,Doctor explained everything clearly,2025-10-23
+FB01878,M000480,CN004418,5,Telemedicine call quality was poor,2024-02-14
+FB01879,M001997,CN002672,4,Very satisfied with the consultation,2025-03-31
+FB01880,M001714,CN004474,4,Telemedicine call quality was poor,2024-05-01
+FB01881,M001741,CN003758,4,Very satisfied with the consultation,2024-02-21
+FB01882,M002300,CN000453,5,Telemedicine call quality was poor,2024-08-10
+FB01883,M002075,CN001446,5,Long wait time at the clinic,2024-08-27
+FB01884,M002333,CN004100,3,Long wait time at the clinic,2025-03-28
+FB01885,M000836,CN000421,4,Long wait time at the clinic,2024-10-05
+FB01886,M000201,CN005965,4,Long wait time at the clinic,2025-07-06
+FB01887,M000152,CN002722,3,Long wait time at the clinic,2025-10-03
+FB01888,M000658,CN003517,3,Doctor explained everything clearly,2024-09-23
+FB01889,M000595,CN000418,4,Long wait time at the clinic,2024-10-28
+FB01890,M001639,CN001524,1,Needs faster appointment scheduling,2025-06-09
+FB01891,M000441,CN002554,5,Staff was helpful and courteous,2025-10-12
+FB01892,M000724,CN002258,5,Telemedicine call quality was poor,2025-09-22
+FB01893,M002170,CN000222,2,Would recommend to others,2024-11-10
+FB01894,M001729,CN005705,5,Telemedicine call quality was poor,2024-08-08
+FB01895,M001855,CN002985,5,Long wait time at the clinic,2025-03-03
+FB01896,M000495,CN000808,2,Long wait time at the clinic,2024-10-26
+FB01897,M000683,CN003980,5,Would recommend to others,2024-12-10
+FB01898,M001677,CN005825,4,Telemedicine call quality was poor,2025-11-27
+FB01899,M002003,CN001155,5,Very satisfied with the consultation,2025-08-09
+FB01900,M001915,CN000109,5,Very satisfied with the consultation,2025-10-04
+FB01901,M001865,CN005237,2,Very satisfied with the consultation,2024-02-22
+FB01902,M001385,CN004515,4,Very satisfied with the consultation,2025-10-30
+FB01903,M002198,CN000636,1,Doctor explained everything clearly,2025-01-02
+FB01904,M000876,CN000672,4,Staff was helpful and courteous,2024-11-13
+FB01905,M000889,CN002099,4,Staff was helpful and courteous,2025-10-15
+FB01906,M002032,CN004403,5,Needs faster appointment scheduling,2025-09-06
+FB01907,M002440,CN002993,4,Needs faster appointment scheduling,2024-09-30
+FB01908,M002060,CN004096,3,Staff was helpful and courteous,2025-10-14
+FB01909,M000664,CN002476,2,Telemedicine call quality was poor,2024-03-05
+FB01910,M002088,CN002625,3,Average experience overall,2024-10-03
+FB01911,M001327,CN005635,3,Doctor explained everything clearly,2025-12-07
+FB01912,M001422,CN000178,4,Would recommend to others,2025-08-13
+FB01913,M002469,CN001267,3,Telemedicine call quality was poor,2025-05-29
+FB01914,M000049,CN000064,1,Telemedicine call quality was poor,2025-05-29
+FB01915,M000404,CN002987,4,Excellent follow-up care,2025-09-16
+FB01916,M000061,CN004290,4,Doctor explained everything clearly,2024-02-25
+FB01917,M001957,CN004396,3,Staff was helpful and courteous,2025-03-15
+FB01918,M001755,CN005741,3,Needs faster appointment scheduling,2025-02-01
+FB01919,M000110,CN000134,5,Needs faster appointment scheduling,2024-12-03
+FB01920,M000221,CN000450,4,Would recommend to others,2024-02-10
+FB01921,M002198,CN002616,5,"Great experience, doctor was very attentive",2024-11-09
+FB01922,M000631,CN000269,2,Very satisfied with the consultation,2025-04-03
+FB01923,M000429,CN003168,2,Doctor explained everything clearly,2024-08-18
+FB01924,M001403,CN005984,4,Staff was helpful and courteous,2024-11-14
+FB01925,M001917,CN000719,4,"Great experience, doctor was very attentive",2024-02-25
+FB01926,M000679,CN003784,2,"Great experience, doctor was very attentive",2024-09-06
+FB01927,M001563,CN005041,3,Doctor explained everything clearly,2025-12-12
+FB01928,M000259,CN004319,5,Would recommend to others,2025-06-01
+FB01929,M000322,CN002403,5,Needs faster appointment scheduling,2024-02-02
+FB01930,M002186,CN005094,3,Long wait time at the clinic,2025-07-17
+FB01931,M000028,CN000494,2,Average experience overall,2025-12-17
+FB01932,M002071,CN001115,3,Needs faster appointment scheduling,2024-10-12
+FB01933,M002397,CN005980,4,Needs faster appointment scheduling,2025-06-28
+FB01934,M001486,CN001040,4,Telemedicine call quality was poor,2025-04-04
+FB01935,M002355,CN000139,4,Very satisfied with the consultation,2024-08-31
+FB01936,M000220,CN004776,5,Staff was helpful and courteous,2025-04-27
+FB01937,M001502,CN001788,2,Staff was helpful and courteous,2025-09-30
+FB01938,M000333,CN003563,5,Excellent follow-up care,2025-09-28
+FB01939,M001110,CN000646,4,Needs faster appointment scheduling,2025-05-31
+FB01940,M001145,CN003364,5,Staff was helpful and courteous,2025-01-12
+FB01941,M001430,CN005739,4,Long wait time at the clinic,2024-07-12
+FB01942,M001808,CN005868,5,Needs faster appointment scheduling,2025-04-17
+FB01943,M000287,CN004077,4,Very satisfied with the consultation,2025-05-23
+FB01944,M001708,CN000933,4,Average experience overall,2025-12-23
+FB01945,M001183,CN000824,5,Doctor explained everything clearly,2024-03-27
+FB01946,M002408,CN001329,1,Staff was helpful and courteous,2025-05-11
+FB01947,M002307,CN001476,2,Needs faster appointment scheduling,2024-02-18
+FB01948,M001782,CN004274,4,Long wait time at the clinic,2025-09-25
+FB01949,M001019,CN002370,4,Needs faster appointment scheduling,2024-09-24
+FB01950,M000556,CN004987,5,Staff was helpful and courteous,2024-06-11
+FB01951,M000325,CN004338,4,Long wait time at the clinic,2024-06-07
+FB01952,M000064,CN002958,5,Excellent follow-up care,2025-06-02
+FB01953,M002277,CN002569,5,Staff was helpful and courteous,2025-11-27
+FB01954,M000380,CN005223,5,Average experience overall,2024-05-20
+FB01955,M002047,CN001764,4,Staff was helpful and courteous,2025-03-17
+FB01956,M001580,CN000433,4,Would recommend to others,2025-07-23
+FB01957,M002329,CN003872,4,Very satisfied with the consultation,2025-11-09
+FB01958,M000972,CN004884,3,Telemedicine call quality was poor,2025-10-15
+FB01959,M001910,CN003475,5,"Great experience, doctor was very attentive",2025-03-14
+FB01960,M000528,CN005424,1,Long wait time at the clinic,2024-12-22
+FB01961,M001217,CN003562,5,Telemedicine call quality was poor,2025-08-15
+FB01962,M000661,CN002262,4,Excellent follow-up care,2024-04-10
+FB01963,M000058,CN002140,4,Doctor explained everything clearly,2024-05-13
+FB01964,M000230,CN005357,4,Would recommend to others,2024-01-21
+FB01965,M000938,CN005721,1,Needs faster appointment scheduling,2024-06-17
+FB01966,M000294,CN004540,3,Very satisfied with the consultation,2025-08-17
+FB01967,M001746,CN005287,5,Very satisfied with the consultation,2024-07-20
+FB01968,M002473,CN000043,5,Needs faster appointment scheduling,2025-08-02
+FB01969,M000324,CN005730,3,Excellent follow-up care,2024-09-30
+FB01970,M000983,CN004783,4,Average experience overall,2025-09-30
+FB01971,M001632,CN004551,3,Very satisfied with the consultation,2024-02-02
+FB01972,M001424,CN001558,4,Average experience overall,2025-10-11
+FB01973,M001676,CN005214,4,Very satisfied with the consultation,2024-11-07
+FB01974,M002018,CN003275,5,Telemedicine call quality was poor,2024-02-15
+FB01975,M002393,CN005156,5,Average experience overall,2024-04-29
+FB01976,M002353,CN000206,5,Long wait time at the clinic,2024-06-26
+FB01977,M000197,CN003849,5,Long wait time at the clinic,2024-08-03
+FB01978,M000325,CN004338,5,Telemedicine call quality was poor,2024-06-07
+FB01979,M000558,CN000660,5,Doctor explained everything clearly,2024-04-23
+FB01980,M000330,CN000936,5,Average experience overall,2024-04-19
+FB01981,M000917,CN004008,2,Average experience overall,2025-10-24
+FB01982,M000342,CN005459,2,Needs faster appointment scheduling,2025-12-23
+FB01983,M002211,CN005551,2,Long wait time at the clinic,2025-01-07
+FB01984,M001651,CN005755,4,Would recommend to others,2025-07-18
+FB01985,M001114,CN001536,3,Would recommend to others,2024-08-19
+FB01986,M001352,CN000870,5,Long wait time at the clinic,2024-09-06
+FB01987,M000461,CN000713,5,"Great experience, doctor was very attentive",2024-05-04
+FB01988,M000439,CN002801,4,Telemedicine call quality was poor,2024-09-20
+FB01989,M000193,CN000670,3,Would recommend to others,2025-07-18
+FB01990,M001120,CN002360,4,Telemedicine call quality was poor,2025-05-10
+FB01991,M000116,CN004209,4,Average experience overall,2024-11-17
+FB01992,M000432,CN002669,5,Staff was helpful and courteous,2025-03-28
+FB01993,M000220,CN000900,5,Would recommend to others,2024-07-01
+FB01994,M001122,CN004203,5,Needs faster appointment scheduling,2024-10-28
+FB01995,M000414,CN000634,5,Average experience overall,2025-11-01
+FB01996,M000718,CN002082,1,Very satisfied with the consultation,2025-03-04
+FB01997,M000015,CN001091,4,Needs faster appointment scheduling,2024-06-13
+FB01998,M001193,CN000831,5,Excellent follow-up care,2024-11-23
+FB01999,M001855,CN005623,4,Long wait time at the clinic,2024-08-12
+FB02000,M001054,CN003184,3,Average experience overall,2024-09-12
+FB02001,M000095,CN000610,3,Excellent follow-up care,2025-02-11
+FB02002,M000676,CN000876,4,Excellent follow-up care,2025-01-12
+FB02003,M001545,CN005715,2,Excellent follow-up care,2024-12-07
+FB02004,M002478,CN005795,3,Needs faster appointment scheduling,2025-04-30
+FB02005,M000827,CN000970,5,Very satisfied with the consultation,2025-10-20
+FB02006,M001706,CN005265,5,Excellent follow-up care,2024-02-14
+FB02007,M001218,CN002840,4,Long wait time at the clinic,2025-07-11
+FB02008,M001813,CN001701,4,Doctor explained everything clearly,2024-04-18
+FB02009,M001559,CN005325,5,"Great experience, doctor was very attentive",2024-03-02
+FB02010,M001164,CN004329,4,Would recommend to others,2024-12-08
+FB02011,M000246,CN000007,4,Telemedicine call quality was poor,2024-09-27
+FB02012,M002421,CN001587,3,Excellent follow-up care,2025-10-28
+FB02013,M000948,CN001067,2,Long wait time at the clinic,2024-03-29
+FB02014,M000330,CN000318,5,Average experience overall,2025-03-21
+FB02015,M001947,CN001530,5,Very satisfied with the consultation,2025-11-03
+FB02016,M000448,CN002436,4,Long wait time at the clinic,2024-09-05
+FB02017,M000508,CN000614,2,Would recommend to others,2024-01-04
+FB02018,M000622,CN004090,5,Would recommend to others,2025-06-17
+FB02019,M001834,CN001686,1,Staff was helpful and courteous,2025-12-05
+FB02020,M001301,CN003662,5,Excellent follow-up care,2024-01-28
+FB02021,M000338,CN002749,5,Needs faster appointment scheduling,2025-02-28
+FB02022,M001528,CN002227,5,Telemedicine call quality was poor,2025-10-21
+FB02023,M000884,CN003343,5,Doctor explained everything clearly,2025-06-03
+FB02024,M001828,CN004031,4,Average experience overall,2024-10-18
+FB02025,M001515,CN001023,5,Needs faster appointment scheduling,2024-01-08
+FB02026,M000429,CN000428,3,Long wait time at the clinic,2024-10-03
+FB02027,M002289,CN003033,3,Very satisfied with the consultation,2024-02-09
+FB02028,M002075,CN001418,3,Staff was helpful and courteous,2025-09-30
+FB02029,M002210,CN004944,4,Needs faster appointment scheduling,2025-10-02
+FB02030,M001393,CN003632,2,Average experience overall,2025-04-28
+FB02031,M000483,CN005508,5,Telemedicine call quality was poor,2024-09-14
+FB02032,M001507,CN001826,5,Would recommend to others,2025-10-15
+FB02033,M000851,CN002506,5,Telemedicine call quality was poor,2024-08-31
+FB02034,M000740,CN000317,4,Average experience overall,2024-06-27
+FB02035,M000684,CN004626,2,Telemedicine call quality was poor,2024-06-22
+FB02036,M002320,CN004930,4,Long wait time at the clinic,2025-09-07
+FB02037,M000446,CN003468,4,Needs faster appointment scheduling,2024-05-25
+FB02038,M000734,CN004834,5,"Great experience, doctor was very attentive",2025-01-31
+FB02039,M000152,CN001345,5,Needs faster appointment scheduling,2024-09-27
+FB02040,M001453,CN001085,4,"Great experience, doctor was very attentive",2024-08-15
+FB02041,M001045,CN002725,5,Long wait time at the clinic,2024-04-10
+FB02042,M000834,CN005907,4,Very satisfied with the consultation,2024-03-20
+FB02043,M000477,CN000750,5,Would recommend to others,2024-11-24
+FB02044,M001555,CN000643,5,Telemedicine call quality was poor,2025-12-04
+FB02045,M001413,CN003908,4,Long wait time at the clinic,2024-06-04
+FB02046,M000805,CN001599,4,Very satisfied with the consultation,2024-07-29
+FB02047,M000852,CN005342,3,Staff was helpful and courteous,2025-06-19
+FB02048,M001350,CN005711,4,Long wait time at the clinic,2025-12-31
+FB02049,M000630,CN004933,3,Average experience overall,2025-10-31
+FB02050,M002162,CN004653,5,Long wait time at the clinic,2025-06-11
+FB02051,M000891,CN001051,2,Staff was helpful and courteous,2025-12-28
+FB02052,M000571,CN000517,3,Telemedicine call quality was poor,2025-10-24
+FB02053,M000920,CN000219,4,Average experience overall,2025-12-06
+FB02054,M001044,CN005432,2,Very satisfied with the consultation,2025-03-26
+FB02055,M001788,CN002719,5,Excellent follow-up care,2024-02-15
+FB02056,M000714,CN000532,3,Would recommend to others,2025-10-14
+FB02057,M001777,CN000001,5,Needs faster appointment scheduling,2024-03-29
+FB02058,M000873,CN002284,1,Telemedicine call quality was poor,2025-03-27
+FB02059,M001458,CN002061,5,Would recommend to others,2024-04-24
+FB02060,M001093,CN000748,5,"Great experience, doctor was very attentive",2025-07-11
+FB02061,M001889,CN001208,4,Average experience overall,2024-10-05
+FB02062,M001079,CN000692,5,Staff was helpful and courteous,2024-01-29
+FB02063,M001920,CN003626,5,"Great experience, doctor was very attentive",2024-08-25
+FB02064,M000645,CN002818,5,Very satisfied with the consultation,2024-02-26
+FB02065,M001738,CN004829,4,Doctor explained everything clearly,2024-11-29
+FB02066,M001645,CN001812,5,"Great experience, doctor was very attentive",2025-01-21
+FB02067,M001208,CN000756,3,Very satisfied with the consultation,2025-02-05
+FB02068,M001841,CN003502,4,Would recommend to others,2024-05-24
+FB02069,M000822,CN004659,4,Staff was helpful and courteous,2024-01-18
+FB02070,M001183,CN003311,5,Telemedicine call quality was poor,2025-01-27
+FB02071,M001236,CN003456,5,Would recommend to others,2025-03-25
+FB02072,M000695,CN002690,5,Very satisfied with the consultation,2024-07-10
+FB02073,M001114,CN001536,5,Very satisfied with the consultation,2024-08-19
+FB02074,M001544,CN002181,3,Would recommend to others,2025-12-15
+FB02075,M002322,CN001663,3,Staff was helpful and courteous,2025-01-10
+FB02076,M001744,CN002037,4,Long wait time at the clinic,2025-09-27
+FB02077,M002353,CN000206,5,"Great experience, doctor was very attentive",2024-06-26
+FB02078,M001597,CN002832,3,Needs faster appointment scheduling,2024-05-11
+FB02079,M000668,CN003673,5,Doctor explained everything clearly,2024-03-24
+FB02080,M002350,CN002916,3,Average experience overall,2024-08-07
+FB02081,M001843,CN002675,3,Very satisfied with the consultation,2025-05-02
+FB02082,M000915,CN004434,5,Staff was helpful and courteous,2025-05-21
+FB02083,M001757,CN005175,4,Needs faster appointment scheduling,2024-05-04
+FB02084,M001620,CN002077,5,Average experience overall,2025-01-20
+FB02085,M000103,CN004613,4,Staff was helpful and courteous,2024-10-09
+FB02086,M001001,CN002269,4,Long wait time at the clinic,2025-10-05
+FB02087,M000414,CN000829,5,Would recommend to others,2024-02-22
+FB02088,M000153,CN003165,4,Would recommend to others,2025-04-06
+FB02089,M002035,CN005740,4,Would recommend to others,2025-04-18
+FB02090,M000477,CN000750,4,Very satisfied with the consultation,2024-11-24
+FB02091,M001655,CN002807,2,Would recommend to others,2024-12-19
+FB02092,M001585,CN002233,5,Staff was helpful and courteous,2024-06-24
+FB02093,M002217,CN000706,5,"Great experience, doctor was very attentive",2024-06-01
+FB02094,M001312,CN004261,5,Very satisfied with the consultation,2025-03-04
+FB02095,M000316,CN000380,4,Very satisfied with the consultation,2025-12-05
+FB02096,M000979,CN003281,5,Very satisfied with the consultation,2024-10-07
+FB02097,M000370,CN000665,4,"Great experience, doctor was very attentive",2024-10-18
+FB02098,M001282,CN004799,5,Long wait time at the clinic,2024-05-24
+FB02099,M002301,CN003858,4,"Great experience, doctor was very attentive",2025-09-25
+FB02100,M001763,CN002864,4,Long wait time at the clinic,2025-08-07
+FB02101,M000088,CN000196,5,Needs faster appointment scheduling,2025-10-29
+FB02102,M000551,CN004302,2,Very satisfied with the consultation,2024-04-19
+FB02103,M001130,CN005764,5,Would recommend to others,2025-08-30
+FB02104,M001774,CN004181,3,Telemedicine call quality was poor,2024-07-09
+FB02105,M000427,CN002423,3,Staff was helpful and courteous,2024-02-14
+FB02106,M001682,CN004427,4,Doctor explained everything clearly,2024-06-01
+FB02107,M001885,CN005631,4,Average experience overall,2024-04-20
+FB02108,M000426,CN005997,1,Would recommend to others,2025-03-18
+FB02109,M001515,CN001023,4,Very satisfied with the consultation,2024-01-08
+FB02110,M000768,CN003062,5,Excellent follow-up care,2024-09-29
+FB02111,M002430,CN000583,3,Average experience overall,2024-01-23
+FB02112,M000846,CN001127,5,Would recommend to others,2025-12-21
+FB02113,M000919,CN002310,4,Excellent follow-up care,2025-10-06
+FB02114,M001902,CN002442,4,"Great experience, doctor was very attentive",2025-02-28
+FB02115,M001468,CN001621,5,Excellent follow-up care,2024-09-18
+FB02116,M002085,CN002888,3,Doctor explained everything clearly,2024-09-18
+FB02117,M001912,CN000645,4,Excellent follow-up care,2025-07-01
+FB02118,M000683,CN001283,5,Long wait time at the clinic,2024-08-26
+FB02119,M000971,CN003056,4,Would recommend to others,2025-04-04
+FB02120,M000922,CN000059,4,Average experience overall,2025-01-18
+FB02121,M000052,CN001752,3,Long wait time at the clinic,2025-09-20
+FB02122,M000741,CN001211,3,Excellent follow-up care,2024-06-06
+FB02123,M000898,CN000240,5,Excellent follow-up care,2025-10-14
+FB02124,M001627,CN002733,4,Telemedicine call quality was poor,2025-02-03
+FB02125,M000977,CN003152,3,Staff was helpful and courteous,2024-05-30
+FB02126,M000437,CN004000,5,Would recommend to others,2025-07-20
+FB02127,M000658,CN003224,1,Excellent follow-up care,2024-03-30
+FB02128,M000037,CN004621,4,Doctor explained everything clearly,2024-12-07
+FB02129,M000807,CN003525,5,Needs faster appointment scheduling,2024-10-03
+FB02130,M000193,CN005165,3,Average experience overall,2025-12-19
+FB02131,M001362,CN000943,5,Average experience overall,2024-04-11
+FB02132,M001826,CN003817,5,Long wait time at the clinic,2024-03-05
+FB02133,M000420,CN000923,3,Staff was helpful and courteous,2025-03-27
+FB02134,M001304,CN004729,4,Staff was helpful and courteous,2025-07-04
+FB02135,M001738,CN005771,4,Very satisfied with the consultation,2025-07-13
+FB02136,M001705,CN005942,5,Long wait time at the clinic,2024-11-04
+FB02137,M001587,CN000793,4,Doctor explained everything clearly,2025-11-19
+FB02138,M001299,CN001224,5,Average experience overall,2024-09-12
+FB02139,M000113,CN003754,3,Staff was helpful and courteous,2025-10-02
+FB02140,M002094,CN000700,4,Very satisfied with the consultation,2024-11-28
+FB02141,M002403,CN005040,3,Would recommend to others,2024-05-01
+FB02142,M000477,CN000750,4,"Great experience, doctor was very attentive",2024-11-24
+FB02143,M001882,CN002296,5,Telemedicine call quality was poor,2025-11-30
+FB02144,M000262,CN002599,4,Doctor explained everything clearly,2025-05-27
+FB02145,M001913,CN003706,5,Long wait time at the clinic,2025-02-28
+FB02146,M000192,CN000026,4,Average experience overall,2024-07-04
+FB02147,M000720,CN005773,5,Long wait time at the clinic,2025-09-04
+FB02148,M001425,CN002382,5,Doctor explained everything clearly,2025-07-23
+FB02149,M001347,CN004214,5,Doctor explained everything clearly,2025-08-12
+FB02150,M002349,CN003009,5,Needs faster appointment scheduling,2025-06-04
+FB02151,M001972,CN005954,5,Average experience overall,2025-03-29
+FB02152,M001601,CN000153,2,Long wait time at the clinic,2024-08-22
+FB02153,M002191,CN005772,3,Excellent follow-up care,2025-09-12
+FB02154,M000474,CN000406,4,"Great experience, doctor was very attentive",2025-03-03
+FB02155,M000649,CN000680,5,Excellent follow-up care,2024-01-04
+FB02156,M002280,CN004595,5,Needs faster appointment scheduling,2025-05-25
+FB02157,M000044,CN001302,4,Staff was helpful and courteous,2025-12-09
+FB02158,M000935,CN002281,5,Average experience overall,2024-08-11
+FB02159,M000053,CN004270,3,Very satisfied with the consultation,2025-01-25
+FB02160,M001108,CN000483,4,Would recommend to others,2024-03-28
+FB02161,M000190,CN003506,2,Needs faster appointment scheduling,2025-09-23
+FB02162,M002170,CN004837,4,Excellent follow-up care,2025-12-02
+FB02163,M001902,CN002054,4,Would recommend to others,2024-03-04
+FB02164,M002008,CN000673,3,Doctor explained everything clearly,2024-08-12
+FB02165,M000841,CN003887,4,Staff was helpful and courteous,2024-10-22
+FB02166,M000244,CN004637,5,Very satisfied with the consultation,2025-03-14
+FB02167,M000141,CN001221,5,Excellent follow-up care,2025-07-08
+FB02168,M000957,CN005533,4,Very satisfied with the consultation,2024-11-13
+FB02169,M001435,CN000048,5,Very satisfied with the consultation,2024-06-10
+FB02170,M000681,CN002601,3,Telemedicine call quality was poor,2024-10-18
+FB02171,M001637,CN001491,4,Excellent follow-up care,2025-03-07
+FB02172,M001613,CN003326,4,Very satisfied with the consultation,2024-06-02
+FB02173,M000210,CN001314,3,Very satisfied with the consultation,2025-07-10
+FB02174,M000917,CN000068,5,Would recommend to others,2024-02-09
+FB02175,M001893,CN000188,4,Very satisfied with the consultation,2025-06-24
+FB02176,M001128,CN005004,5,Excellent follow-up care,2025-05-11
+FB02177,M000382,CN003680,5,Would recommend to others,2024-10-27
+FB02178,M000638,CN002747,4,"Great experience, doctor was very attentive",2024-10-28
+FB02179,M002462,CN005250,5,Needs faster appointment scheduling,2025-09-14
+FB02180,M002118,CN003905,2,Average experience overall,2025-08-09
+FB02181,M001208,CN005728,4,Excellent follow-up care,2025-07-10
+FB02182,M001867,CN005468,3,Doctor explained everything clearly,2025-09-01
+FB02183,M000497,CN003797,4,Would recommend to others,2024-03-27
+FB02184,M000622,CN004212,2,Average experience overall,2025-04-08
+FB02185,M000510,CN003857,4,Doctor explained everything clearly,2024-04-09
+FB02186,M001944,CN004676,5,Telemedicine call quality was poor,2025-12-24
+FB02187,M002265,CN001400,3,Needs faster appointment scheduling,2024-11-07
+FB02188,M002374,CN004833,3,Long wait time at the clinic,2024-12-10
+FB02189,M000677,CN001401,2,Needs faster appointment scheduling,2024-01-03
+FB02190,M000078,CN001754,4,Staff was helpful and courteous,2025-11-18
+FB02191,M000042,CN003231,3,Long wait time at the clinic,2025-08-26
+FB02192,M000201,CN005700,2,Very satisfied with the consultation,2024-09-14
+FB02193,M000338,CN005042,1,Average experience overall,2025-11-05
+FB02194,M000141,CN001221,3,Staff was helpful and courteous,2025-07-08
+FB02195,M001773,CN001194,2,Long wait time at the clinic,2024-11-22
+FB02196,M001746,CN004972,4,Long wait time at the clinic,2024-05-07
+FB02197,M000744,CN001795,4,Very satisfied with the consultation,2024-02-17
+FB02198,M002469,CN001737,2,Staff was helpful and courteous,2024-05-10
+FB02199,M002210,CN001789,3,Long wait time at the clinic,2024-06-28
+FB02200,M000882,CN002862,4,Very satisfied with the consultation,2024-11-18
+FB02201,M001435,CN002516,5,Excellent follow-up care,2024-08-18
+FB02202,M001152,CN005791,5,Would recommend to others,2024-07-21
+FB02203,M000095,CN003611,4,Long wait time at the clinic,2024-11-26
+FB02204,M000684,CN002947,5,Doctor explained everything clearly,2025-07-28
+FB02205,M001041,CN003782,2,Needs faster appointment scheduling,2025-09-05
+FB02206,M001469,CN002526,3,Excellent follow-up care,2024-08-09
+FB02207,M000471,CN004823,5,Very satisfied with the consultation,2024-11-08
+FB02208,M001967,CN002116,5,Staff was helpful and courteous,2025-05-25
+FB02209,M002349,CN003009,4,Very satisfied with the consultation,2025-06-04
+FB02210,M002185,CN005647,5,Very satisfied with the consultation,2024-08-16
+FB02211,M000223,CN002756,1,Excellent follow-up care,2025-04-01
+FB02212,M001273,CN002387,3,Would recommend to others,2025-07-12
+FB02213,M000140,CN000127,3,Long wait time at the clinic,2024-10-02
+FB02214,M000832,CN003485,5,Very satisfied with the consultation,2024-05-09
+FB02215,M000749,CN004272,3,Doctor explained everything clearly,2025-04-03
+FB02216,M000515,CN003938,4,Average experience overall,2025-04-18
+FB02217,M002034,CN001421,5,Doctor explained everything clearly,2025-11-18
+FB02218,M001893,CN000267,4,Would recommend to others,2024-06-14
+FB02219,M000509,CN004251,4,Long wait time at the clinic,2024-02-11
+FB02220,M000558,CN000660,4,Needs faster appointment scheduling,2024-04-23
+FB02221,M000261,CN000302,4,Excellent follow-up care,2025-08-30
+FB02222,M000658,CN005940,5,Very satisfied with the consultation,2024-11-14
+FB02223,M002172,CN000008,3,Needs faster appointment scheduling,2025-03-01
+FB02224,M001438,CN005299,2,Needs faster appointment scheduling,2025-11-03
+FB02225,M000251,CN004301,2,Long wait time at the clinic,2025-01-12
+FB02226,M002075,CN001418,5,Excellent follow-up care,2025-09-30
+FB02227,M002024,CN001227,5,Very satisfied with the consultation,2024-06-15
+FB02228,M000825,CN002132,5,Very satisfied with the consultation,2025-01-24
+FB02229,M001014,CN002019,4,Excellent follow-up care,2024-03-10
+FB02230,M000887,CN001072,4,Excellent follow-up care,2025-06-28
+FB02231,M001330,CN002417,5,Very satisfied with the consultation,2025-05-03
+FB02232,M000822,CN004659,3,Needs faster appointment scheduling,2024-01-18
+FB02233,M000175,CN001642,1,Long wait time at the clinic,2025-04-27
+FB02234,M001846,CN004476,5,Doctor explained everything clearly,2024-11-15
+FB02235,M000954,CN002865,5,Needs faster appointment scheduling,2024-11-23
+FB02236,M001803,CN004053,3,"Great experience, doctor was very attentive",2024-09-14
+FB02237,M000210,CN001314,5,Excellent follow-up care,2025-07-10
+FB02238,M001505,CN004558,3,"Great experience, doctor was very attentive",2024-09-01
+FB02239,M001255,CN000391,1,Average experience overall,2024-08-25
+FB02240,M001048,CN004115,5,Long wait time at the clinic,2024-10-01
+FB02241,M000857,CN005883,4,Very satisfied with the consultation,2025-05-01
+FB02242,M000249,CN001716,2,Excellent follow-up care,2025-10-22
+FB02243,M002403,CN005040,4,Telemedicine call quality was poor,2024-05-01
+FB02244,M000777,CN003071,5,Excellent follow-up care,2025-12-21
+FB02245,M001044,CN005432,3,Very satisfied with the consultation,2025-03-26
+FB02246,M000728,CN004881,5,Excellent follow-up care,2025-06-21
+FB02247,M001484,CN005976,3,Staff was helpful and courteous,2025-12-02
+FB02248,M001208,CN000756,4,"Great experience, doctor was very attentive",2025-02-05
+FB02249,M001142,CN004536,4,Excellent follow-up care,2025-12-03
+FB02250,M000431,CN001691,4,Average experience overall,2025-03-10
+FB02251,M001075,CN000863,3,Doctor explained everything clearly,2025-08-11
+FB02252,M002144,CN000704,5,"Great experience, doctor was very attentive",2025-07-18
+FB02253,M001276,CN000377,4,Long wait time at the clinic,2024-12-20
+FB02254,M001495,CN003377,5,Needs faster appointment scheduling,2025-09-21
+FB02255,M000366,CN003767,5,Very satisfied with the consultation,2025-01-19
+FB02256,M001400,CN001147,5,"Great experience, doctor was very attentive",2025-01-08
+FB02257,M001814,CN000798,3,Staff was helpful and courteous,2025-05-09
+FB02258,M001347,CN004214,5,Needs faster appointment scheduling,2025-08-12
+FB02259,M000898,CN001140,5,Average experience overall,2024-01-26
+FB02260,M001541,CN003981,5,Very satisfied with the consultation,2025-05-11
+FB02261,M001183,CN003311,5,"Great experience, doctor was very attentive",2025-01-27
+FB02262,M002429,CN002011,4,Would recommend to others,2025-05-12
+FB02263,M002151,CN000979,2,Very satisfied with the consultation,2024-12-12
+FB02264,M000131,CN001145,4,Would recommend to others,2025-04-23
+FB02265,M000853,CN001578,5,Telemedicine call quality was poor,2025-10-23
+FB02266,M000485,CN002571,4,Telemedicine call quality was poor,2024-02-13
+FB02267,M002009,CN001922,5,"Great experience, doctor was very attentive",2025-09-13
+FB02268,M000212,CN000822,5,Would recommend to others,2024-02-20
+FB02269,M001687,CN002347,3,Would recommend to others,2024-03-08
+FB02270,M001802,CN005524,2,Would recommend to others,2024-05-20
+FB02271,M000493,CN002277,5,Doctor explained everything clearly,2025-01-17
+FB02272,M000738,CN002443,2,Average experience overall,2025-12-20
+FB02273,M001263,CN001223,5,Would recommend to others,2024-08-11
+FB02274,M000041,CN002686,3,Excellent follow-up care,2025-09-29
+FB02275,M001121,CN001733,2,Staff was helpful and courteous,2025-02-16
+FB02276,M001221,CN000889,5,Very satisfied with the consultation,2024-03-18
+FB02277,M000620,CN004765,4,Average experience overall,2025-11-08
+FB02278,M000033,CN000195,4,Average experience overall,2025-07-02
+FB02279,M000377,CN005117,5,Needs faster appointment scheduling,2025-05-01
+FB02280,M002350,CN002916,1,Excellent follow-up care,2024-08-07
+FB02281,M000817,CN002072,4,Average experience overall,2024-10-26
+FB02282,M000351,CN002668,4,Telemedicine call quality was poor,2025-02-11
+FB02283,M001745,CN001870,1,Very satisfied with the consultation,2025-08-20
+FB02284,M001101,CN004305,2,Very satisfied with the consultation,2025-08-22
+FB02285,M001173,CN000465,5,Would recommend to others,2025-11-15
+FB02286,M001629,CN000099,3,Excellent follow-up care,2024-11-16
+FB02287,M000836,CN000421,5,Long wait time at the clinic,2024-10-05
+FB02288,M001972,CN001833,3,Staff was helpful and courteous,2025-08-05
+FB02289,M002288,CN004397,3,Long wait time at the clinic,2025-02-26
+FB02290,M002187,CN004804,5,Excellent follow-up care,2025-07-22
+FB02291,M001073,CN003328,5,Excellent follow-up care,2025-01-12
+FB02292,M001047,CN000211,3,Staff was helpful and courteous,2024-12-30
+FB02293,M000788,CN000539,4,Excellent follow-up care,2025-10-10
+FB02294,M001653,CN005286,4,Average experience overall,2024-02-02
+FB02295,M001984,CN001472,3,Telemedicine call quality was poor,2024-04-10
+FB02296,M000918,CN001068,5,Telemedicine call quality was poor,2024-10-02
+FB02297,M002407,CN005930,3,Average experience overall,2025-07-16
+FB02298,M001456,CN001683,4,"Great experience, doctor was very attentive",2025-01-09
+FB02299,M001017,CN003584,3,Telemedicine call quality was poor,2024-04-22
+FB02300,M001406,CN002994,4,Doctor explained everything clearly,2024-11-26
+FB02301,M000406,CN005216,2,Needs faster appointment scheduling,2024-06-15
+FB02302,M002130,CN003624,2,Average experience overall,2025-05-12
+FB02303,M000420,CN001024,2,Needs faster appointment scheduling,2024-06-29
+FB02304,M000765,CN004204,3,Would recommend to others,2025-01-27
+FB02305,M000732,CN002989,5,Staff was helpful and courteous,2024-11-07
+FB02306,M000965,CN001669,5,Very satisfied with the consultation,2024-10-30
+FB02307,M002188,CN003955,5,Would recommend to others,2024-10-25
+FB02308,M001690,CN004160,3,Would recommend to others,2024-10-10
+FB02309,M001176,CN002317,5,Doctor explained everything clearly,2025-08-26
+FB02310,M000789,CN005345,5,Staff was helpful and courteous,2024-09-07
+FB02311,M000077,CN003744,5,Very satisfied with the consultation,2024-10-06
+FB02312,M000563,CN001867,4,Telemedicine call quality was poor,2025-11-07
+FB02313,M001236,CN000220,5,Doctor explained everything clearly,2024-01-29
+FB02314,M000556,CN000528,5,"Great experience, doctor was very attentive",2024-04-20
+FB02315,M000354,CN004572,4,Very satisfied with the consultation,2024-12-06
+FB02316,M000695,CN002690,4,Average experience overall,2024-07-10
+FB02317,M000722,CN005057,4,Needs faster appointment scheduling,2024-05-13
+FB02318,M000622,CN004090,4,"Great experience, doctor was very attentive",2025-06-17
+FB02319,M002447,CN005049,5,Very satisfied with the consultation,2024-06-03
+FB02320,M000746,CN001486,4,"Great experience, doctor was very attentive",2025-03-01
+FB02321,M000130,CN005582,5,Average experience overall,2025-03-28
+FB02322,M000529,CN002665,5,Needs faster appointment scheduling,2025-03-02
+FB02323,M000958,CN005376,2,Staff was helpful and courteous,2025-10-03
+FB02324,M001434,CN001202,4,Would recommend to others,2025-11-07
+FB02325,M002294,CN002981,2,Telemedicine call quality was poor,2025-01-16
+FB02326,M002498,CN003770,5,Needs faster appointment scheduling,2025-07-18
+FB02327,M001495,CN005022,4,"Great experience, doctor was very attentive",2025-02-27
+FB02328,M001310,CN003488,5,Staff was helpful and courteous,2024-02-07
+FB02329,M001853,CN000435,3,Doctor explained everything clearly,2024-09-16
+FB02330,M001022,CN000540,4,Average experience overall,2025-05-29
+FB02331,M001306,CN000287,2,Would recommend to others,2025-08-03
+FB02332,M000103,CN004613,2,Average experience overall,2024-10-09
+FB02333,M001157,CN001542,3,Long wait time at the clinic,2024-05-07
+FB02334,M000497,CN000337,4,Doctor explained everything clearly,2024-02-20
+FB02335,M002357,CN001879,2,Average experience overall,2024-06-29
+FB02336,M002450,CN002294,2,Very satisfied with the consultation,2024-03-27
+FB02337,M000031,CN001905,4,Staff was helpful and courteous,2025-10-01
+FB02338,M001208,CN000756,5,Average experience overall,2025-02-05
+FB02339,M002170,CN001074,2,Very satisfied with the consultation,2024-02-21
+FB02340,M000031,CN001259,4,Staff was helpful and courteous,2025-05-04
+FB02341,M002304,CN003935,4,Telemedicine call quality was poor,2025-03-09
+FB02342,M001626,CN002721,4,Needs faster appointment scheduling,2024-05-18
+FB02343,M000476,CN005536,3,Very satisfied with the consultation,2025-02-21
+FB02344,M002473,CN004925,5,Needs faster appointment scheduling,2024-10-16
+FB02345,M000900,CN005785,5,Excellent follow-up care,2025-09-25
+FB02346,M000574,CN005658,5,Would recommend to others,2024-12-16
+FB02347,M002038,CN001141,3,Long wait time at the clinic,2024-10-29
+FB02348,M002482,CN000430,4,Very satisfied with the consultation,2024-05-09
+FB02349,M000716,CN001179,3,"Great experience, doctor was very attentive",2024-08-02
+FB02350,M000334,CN003146,5,Very satisfied with the consultation,2024-11-06
+FB02351,M000686,CN002114,3,Needs faster appointment scheduling,2024-12-19
+FB02352,M001018,CN003568,5,"Great experience, doctor was very attentive",2024-02-27
+FB02353,M000498,CN003484,5,Would recommend to others,2024-02-03
+FB02354,M001707,CN000331,5,Long wait time at the clinic,2025-08-01
+FB02355,M000433,CN005503,3,Telemedicine call quality was poor,2025-09-04
+FB02356,M000609,CN005201,5,Would recommend to others,2025-02-21
+FB02357,M001311,CN000150,3,Average experience overall,2025-05-09
+FB02358,M002032,CN003046,3,Staff was helpful and courteous,2025-11-02
+FB02359,M000294,CN002928,5,Very satisfied with the consultation,2024-08-14
+FB02360,M001339,CN005597,5,"Great experience, doctor was very attentive",2025-05-22
+FB02361,M002054,CN004657,4,"Great experience, doctor was very attentive",2025-08-08
+FB02362,M000670,CN002345,3,Telemedicine call quality was poor,2025-12-07
+FB02363,M001223,CN003291,2,Telemedicine call quality was poor,2024-08-02
+FB02364,M000797,CN001219,2,Staff was helpful and courteous,2024-08-07
+FB02365,M000198,CN003576,5,Long wait time at the clinic,2025-04-21
+FB02366,M000530,CN003550,4,Would recommend to others,2025-12-21
+FB02367,M001112,CN001308,3,Average experience overall,2025-01-10
+FB02368,M000425,CN004991,5,Needs faster appointment scheduling,2025-02-02
+FB02369,M001146,CN000339,3,Needs faster appointment scheduling,2024-06-12
+FB02370,M001246,CN004800,5,Average experience overall,2025-05-02
+FB02371,M000398,CN002151,3,Would recommend to others,2025-11-08
+FB02372,M000134,CN005270,5,Very satisfied with the consultation,2024-03-24
+FB02373,M002096,CN005986,2,Would recommend to others,2025-10-29
+FB02374,M001085,CN005760,3,"Great experience, doctor was very attentive",2025-02-09
+FB02375,M002309,CN003783,4,Average experience overall,2024-08-21
+FB02376,M002449,CN004408,4,"Great experience, doctor was very attentive",2025-10-05
+FB02377,M000602,CN001369,4,Telemedicine call quality was poor,2024-08-02
+FB02378,M000856,CN003483,4,Staff was helpful and courteous,2024-07-21
+FB02379,M000526,CN000823,5,Long wait time at the clinic,2025-09-13
+FB02380,M000159,CN002804,4,Doctor explained everything clearly,2024-03-02
+FB02381,M000088,CN003366,4,Staff was helpful and courteous,2024-12-16
+FB02382,M000191,CN002813,1,Very satisfied with the consultation,2025-03-17
+FB02383,M002236,CN003960,5,"Great experience, doctor was very attentive",2024-08-08
+FB02384,M000564,CN002274,3,Needs faster appointment scheduling,2025-12-22
+FB02385,M000249,CN001716,3,Needs faster appointment scheduling,2025-10-22
+FB02386,M000671,CN003068,4,Needs faster appointment scheduling,2024-08-05
+FB02387,M002026,CN000918,3,Long wait time at the clinic,2024-07-26
+FB02388,M001020,CN005152,3,Average experience overall,2024-02-11
+FB02389,M000901,CN001825,3,Staff was helpful and courteous,2024-02-18
+FB02390,M001496,CN003956,2,Doctor explained everything clearly,2025-11-16
+FB02391,M002409,CN001708,4,Would recommend to others,2024-03-05
+FB02392,M001114,CN001536,4,Doctor explained everything clearly,2024-08-19
+FB02393,M001917,CN004033,3,Needs faster appointment scheduling,2025-07-16
+FB02394,M001279,CN005564,5,Very satisfied with the consultation,2024-02-02
+FB02395,M000515,CN003938,4,"Great experience, doctor was very attentive",2025-04-18
+FB02396,M001054,CN004237,5,Average experience overall,2024-02-23
+FB02397,M002266,CN004480,4,"Great experience, doctor was very attentive",2025-01-16
+FB02398,M002086,CN002751,5,Telemedicine call quality was poor,2024-04-01
+FB02399,M002078,CN000227,4,Doctor explained everything clearly,2025-10-31
+FB02400,M002013,CN000827,5,Would recommend to others,2024-10-21
+FB02401,M001876,CN004664,5,Average experience overall,2025-02-09
+FB02402,M000846,CN000303,4,Doctor explained everything clearly,2024-02-09
+FB02403,M002419,CN003871,4,Average experience overall,2024-10-23
+FB02404,M000950,CN001200,5,Needs faster appointment scheduling,2025-02-21
+FB02405,M001904,CN001304,5,Would recommend to others,2024-07-02
+FB02406,M000391,CN003809,4,Would recommend to others,2025-02-02
+FB02407,M000045,CN002487,5,Needs faster appointment scheduling,2025-10-03
+FB02408,M001534,CN005495,4,Telemedicine call quality was poor,2024-11-21
+FB02409,M000963,CN000473,5,Needs faster appointment scheduling,2025-10-05
+FB02410,M001931,CN000272,3,Excellent follow-up care,2025-11-13
+FB02411,M001533,CN005659,4,Average experience overall,2024-03-20
+FB02412,M001080,CN005897,4,Average experience overall,2025-02-28
+FB02413,M001630,CN004243,2,Long wait time at the clinic,2024-04-06
+FB02414,M000414,CN000634,3,Telemedicine call quality was poor,2025-11-01
+FB02415,M000673,CN002950,4,Average experience overall,2025-06-29
+FB02416,M002191,CN004843,4,Doctor explained everything clearly,2024-06-29
+FB02417,M000692,CN000167,3,"Great experience, doctor was very attentive",2024-12-27
+FB02418,M001130,CN000779,5,Excellent follow-up care,2024-08-13
+FB02419,M002380,CN002142,1,Long wait time at the clinic,2025-01-01
+FB02420,M001444,CN003048,3,Average experience overall,2025-03-10
+FB02421,M001778,CN001362,4,Doctor explained everything clearly,2025-11-09
+FB02422,M002161,CN000164,5,Long wait time at the clinic,2025-03-16
+FB02423,M001460,CN005476,4,Average experience overall,2025-06-07
+FB02424,M001186,CN005381,4,Excellent follow-up care,2025-07-14
+FB02425,M001660,CN003621,2,Would recommend to others,2024-08-09
+FB02426,M002225,CN002445,4,Needs faster appointment scheduling,2025-12-05
+FB02427,M001909,CN004014,5,Doctor explained everything clearly,2025-10-24
+FB02428,M000135,CN004428,5,Doctor explained everything clearly,2025-02-09
+FB02429,M000156,CN004109,5,Doctor explained everything clearly,2024-03-16
+FB02430,M001095,CN003900,5,Long wait time at the clinic,2024-05-09
+FB02431,M001342,CN005949,1,Would recommend to others,2025-07-12
+FB02432,M002496,CN001517,5,"Great experience, doctor was very attentive",2024-02-26
+FB02433,M000116,CN000624,4,Excellent follow-up care,2025-02-03
+FB02434,M000067,CN001393,4,Would recommend to others,2025-02-28
+FB02435,M000996,CN000215,2,Would recommend to others,2024-04-18
+FB02436,M001550,CN003918,5,Staff was helpful and courteous,2024-07-04
+FB02437,M000885,CN003349,3,Very satisfied with the consultation,2025-11-12
+FB02438,M000791,CN003099,5,Needs faster appointment scheduling,2025-08-29
+FB02439,M000904,CN005885,4,"Great experience, doctor was very attentive",2025-01-11
+FB02440,M001430,CN005739,4,Doctor explained everything clearly,2024-07-12
+FB02441,M000471,CN004623,1,"Great experience, doctor was very attentive",2025-01-19
+FB02442,M001128,CN005004,3,Doctor explained everything clearly,2025-05-11
+FB02443,M001158,CN004916,4,Very satisfied with the consultation,2025-05-02
+FB02444,M002471,CN001774,5,Average experience overall,2025-04-30
+FB02445,M001668,CN000821,3,Excellent follow-up care,2025-09-04
+FB02446,M000010,CN004582,3,Doctor explained everything clearly,2025-10-06
+FB02447,M000111,CN002641,5,Very satisfied with the consultation,2025-10-03
+FB02448,M001914,CN002352,5,Would recommend to others,2025-10-28
+FB02449,M000253,CN002827,4,Long wait time at the clinic,2025-02-23
+FB02450,M002017,CN001355,4,Needs faster appointment scheduling,2025-02-08
+FB02451,M000095,CN003181,5,Excellent follow-up care,2025-01-19
+FB02452,M000979,CN003281,5,Very satisfied with the consultation,2024-10-07
+FB02453,M002001,CN005131,3,"Great experience, doctor was very attentive",2025-10-23
+FB02454,M001826,CN000628,4,Needs faster appointment scheduling,2025-05-03
+FB02455,M000039,CN002078,4,Needs faster appointment scheduling,2024-04-09
+FB02456,M000446,CN002378,2,Doctor explained everything clearly,2024-10-07
+FB02457,M001828,CN004031,4,"Great experience, doctor was very attentive",2024-10-18
+FB02458,M002115,CN003100,5,Doctor explained everything clearly,2025-03-13
+FB02459,M000676,CN003718,3,Very satisfied with the consultation,2025-05-24
+FB02460,M002192,CN003351,3,Long wait time at the clinic,2024-05-16
+FB02461,M001148,CN000018,4,Staff was helpful and courteous,2025-09-10
+FB02462,M001849,CN002926,1,Excellent follow-up care,2025-10-16
+FB02463,M001136,CN000516,5,Would recommend to others,2025-08-21
+FB02464,M002440,CN003362,5,Staff was helpful and courteous,2025-07-21
+FB02465,M001040,CN004904,4,Needs faster appointment scheduling,2024-03-10
+FB02466,M001607,CN004585,2,Telemedicine call quality was poor,2024-02-12
+FB02467,M001938,CN004777,3,Telemedicine call quality was poor,2025-08-28
+FB02468,M001455,CN002249,4,Doctor explained everything clearly,2025-08-04
+FB02469,M000660,CN005981,1,Average experience overall,2024-10-13
+FB02470,M000605,CN001853,4,Doctor explained everything clearly,2025-04-30
+FB02471,M000670,CN003610,3,Doctor explained everything clearly,2024-02-25
+FB02472,M002491,CN005884,5,"Great experience, doctor was very attentive",2025-05-20
+FB02473,M000606,CN003474,5,Staff was helpful and courteous,2025-07-28
+FB02474,M001127,CN001138,2,Very satisfied with the consultation,2025-06-29
+FB02475,M000945,CN003422,5,Needs faster appointment scheduling,2024-02-14
+FB02476,M002092,CN005089,5,Staff was helpful and courteous,2025-10-21
+FB02477,M000486,CN000640,4,Average experience overall,2025-07-31
+FB02478,M001008,CN003810,4,Doctor explained everything clearly,2024-12-28
+FB02479,M002350,CN001780,5,Would recommend to others,2024-06-09
+FB02480,M002293,CN001233,4,Telemedicine call quality was poor,2025-09-27
+FB02481,M001004,CN003648,5,"Great experience, doctor was very attentive",2025-01-29
+FB02482,M002382,CN002276,5,Long wait time at the clinic,2024-06-04
+FB02483,M001422,CN000178,5,Needs faster appointment scheduling,2025-08-13
+FB02484,M002307,CN001908,3,Doctor explained everything clearly,2024-02-10
+FB02485,M000210,CN003565,2,Doctor explained everything clearly,2025-04-01
+FB02486,M001026,CN001321,2,Very satisfied with the consultation,2025-09-12
+FB02487,M001184,CN003376,5,Needs faster appointment scheduling,2025-10-14
+FB02488,M000902,CN002111,5,Telemedicine call quality was poor,2025-09-13
+FB02489,M002464,CN000989,5,Long wait time at the clinic,2025-11-13
+FB02490,M001785,CN000997,5,Long wait time at the clinic,2025-07-28
+FB02491,M000444,CN005020,4,"Great experience, doctor was very attentive",2025-01-27
+FB02492,M000873,CN003264,4,Telemedicine call quality was poor,2024-02-25
+FB02493,M002473,CN001404,2,Excellent follow-up care,2025-01-29
+FB02494,M001532,CN005926,5,Telemedicine call quality was poor,2024-01-06
+FB02495,M001460,CN002193,3,Very satisfied with the consultation,2024-04-15
+FB02496,M001392,CN004433,2,Staff was helpful and courteous,2025-11-29
+FB02497,M000839,CN005622,4,Excellent follow-up care,2024-06-16
+FB02498,M001630,CN003722,2,"Great experience, doctor was very attentive",2024-10-07
+FB02499,M000315,CN003988,5,Excellent follow-up care,2025-09-09
+FB02500,M000118,CN000848,5,Average experience overall,2025-04-19

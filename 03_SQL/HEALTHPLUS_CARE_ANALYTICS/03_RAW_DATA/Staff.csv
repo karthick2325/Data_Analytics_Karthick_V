@@ -1,0 +1,451 @@
+staff_id,clinic_id,first_name,last_name,designation,employment_type,salary,joining_date
+ST0001,C003,Anjali,Nair,Administrator,Part-Time,37686.12,2024-12-22
+ST0002,C008,Vihaan,Malhotra,Care Coordinator,Contract,74259.75,2015-08-11
+ST0003,C001,Pooja,Menon,Pharmacist,Full-Time,93771.32,2018-07-03
+ST0004,C016,Kirti,Joshi,Front Desk Executive,Full-Time,52691.86,2015-12-07
+ST0005,C007,Diya,Gupta,IT Support,Full-Time,24320.61,2017-06-06
+ST0006,C005,Bhavna,Joshi,Lab Technician,Full-Time,36708.15,2017-02-27
+ST0007,C008,Kabir,Malhotra,Front Desk Executive,Full-Time,72468.68,2022-07-20
+ST0008,C005,Ankit,Verma,Nurse,Full-Time,84378.51,2015-08-06
+ST0009,C009,Rakesh,Rao,Nurse,Full-Time,61717.28,2021-08-02
+ST0010,C018,Sanya,Agarwal,Administrator,Full-Time,65513.25,2018-04-14
+ST0011,C014,Pooja,Iyer,Care Coordinator,Part-Time,75093.0,2016-08-15
+ST0012,C001,Tushar,Kulkarni,Administrator,Full-Time,19644.27,2016-10-20
+ST0013,C018,Siddharth,Menon,Administrator,Full-Time,24826.52,2016-06-22
+ST0014,C012,Sameer,Shah,Pharmacist,Full-Time,41789.14,2023-12-31
+ST0015,C009,Aditi,Patel,Nurse,Full-Time,73834.3,2024-09-08
+ST0016,C017,Bhavna,Patel,Pharmacist,Full-Time,45300.07,2019-03-09
+ST0017,C001,Nisha,Menon,Nurse,Contract,88090.28,2023-06-02
+ST0018,C014,Siddharth,Choudhary,Front Desk Executive,Full-Time,65721.61,2025-05-08
+ST0019,C015,Meghna,Sharma,Pharmacist,Full-Time,31503.94,2019-01-24
+ST0020,C006,Sameer,Mishra,Pharmacist,Contract,39598.21,2023-09-20
+ST0021,C012,Riya,Rao,Administrator,Full-Time,69605.86,2020-07-12
+ST0022,C001,Meghna,Mehta,IT Support,Full-Time,46223.38,2019-10-30
+ST0023,C001,Sanya,Pandey,Nurse,Full-Time,39683.82,2022-01-01
+ST0024,C007,Manish,Saxena,Lab Technician,Full-Time,16208.5,2020-12-30
+ST0025,C006,Ishaan,Kulkarni,Administrator,Contract,54322.66,2023-10-10
+ST0026,C004,Rajat,Reddy,Front Desk Executive,Full-Time,77241.85,2020-11-08
+ST0027,C011,Anjali,Tiwari,Lab Technician,Part-Time,21388.06,2022-02-27
+ST0028,C017,Ritu,Ahluwalia,IT Support,Full-Time,47919.54,2016-10-27
+ST0029,C009,Priyal,Shah,Care Coordinator,Part-Time,25627.84,2022-05-23
+ST0030,C007,Preeti,Tiwari,Administrator,Full-Time,71625.53,2024-07-11
+ST0031,C005,Bhavna,Ahluwalia,Pharmacist,Full-Time,75360.66,2016-12-30
+ST0032,C006,Saurabh,Pandey,Lab Technician,Full-Time,94531.52,2019-07-08
+ST0033,C002,Charu,Khanna,Care Coordinator,Full-Time,69318.16,2017-01-06
+ST0034,C001,Sanjay,Mehta,Lab Technician,Full-Time,68302.6,2018-02-23
+ST0035,C008,Saurabh,Iyer,IT Support,Full-Time,83638.97,2015-06-24
+ST0036,C005,Falguni,Nair,Care Coordinator,Part-Time,67384.81,2018-11-02
+ST0037,C018,Nikhil,Bhatia,Care Coordinator,Full-Time,17046.47,2016-01-05
+ST0038,C017,Arvind,Rao,Lab Technician,Part-Time,53771.73,2016-06-15
+ST0039,C017,Ankit,Ahluwalia,Nurse,Full-Time,51739.36,2022-01-16
+ST0040,C010,Rajat,Bansal,Pharmacist,Full-Time,78631.57,2024-08-10
+ST0041,C017,Ojasvi,Rao,Pharmacist,Full-Time,81152.43,2021-02-08
+ST0042,C007,Vivek,Saxena,Front Desk Executive,Full-Time,31521.3,2016-04-20
+ST0043,C003,Saurabh,Agarwal,Front Desk Executive,Full-Time,17942.34,2021-12-15
+ST0044,C016,Manish,Mehta,Nurse,Full-Time,78903.6,2018-10-01
+ST0045,C003,Sanya,Nair,Administrator,Full-Time,66929.02,2019-01-24
+ST0046,C014,Priyal,Bansal,Nurse,Full-Time,73157.6,2015-10-21
+ST0047,C016,Sanya,Kulkarni,Pharmacist,Full-Time,22223.53,2024-03-17
+ST0048,C017,Karan,Gupta,Front Desk Executive,Full-Time,19231.98,2022-11-13
+ST0049,C009,Vikram,Kulkarni,IT Support,Contract,60339.82,2017-10-08
+ST0050,C018,Neha,Tiwari,Pharmacist,Full-Time,22904.23,2016-09-02
+ST0051,C004,Manish,Saxena,Administrator,Full-Time,94937.87,2021-07-04
+ST0052,C016,Mansi,Verma,Care Coordinator,Full-Time,38872.4,2018-09-09
+ST0053,C004,Shaurya,Iyer,Care Coordinator,Part-Time,89575.27,2019-05-19
+ST0054,C003,Ishaan,Gupta,Front Desk Executive,Full-Time,44832.77,2021-12-04
+ST0055,C009,Aditya,Mishra,Administrator,Full-Time,80898.78,2024-11-19
+ST0056,C010,Meghna,Pandey,IT Support,Full-Time,54734.19,2023-08-16
+ST0057,C014,Garima,Desai,Nurse,Full-Time,84012.54,2025-10-23
+ST0058,C003,Dev,Menon,Care Coordinator,Full-Time,78689.55,2017-08-22
+ST0059,C004,Siddharth,Reddy,Administrator,Full-Time,60273.53,2019-03-12
+ST0060,C005,Rakesh,Choudhary,Administrator,Full-Time,70133.8,2024-07-24
+ST0061,C008,Yash,Bansal,Front Desk Executive,Contract,42051.8,2020-10-21
+ST0062,C012,Gaurav,Bhatia,Care Coordinator,Full-Time,68957.09,2019-05-17
+ST0063,C001,Manish,Kapoor,Front Desk Executive,Full-Time,41526.87,2023-03-15
+ST0064,C018,Falguni,Rao,IT Support,Part-Time,32088.49,2015-07-04
+ST0065,C011,Charu,Mishra,Pharmacist,Contract,24347.74,2025-06-01
+ST0066,C009,Vivek,Pandey,Nurse,Full-Time,50358.97,2023-05-31
+ST0067,C005,Rakesh,Kulkarni,Nurse,Full-Time,72022.21,2024-02-15
+ST0068,C018,Aditya,Bhatia,Lab Technician,Full-Time,85874.45,2019-08-25
+ST0069,C012,Ishaan,Malhotra,Care Coordinator,Full-Time,45260.65,2015-11-15
+ST0070,C009,Yash,Kulkarni,IT Support,Part-Time,84606.88,2025-07-20
+ST0071,C013,Preeti,Iyer,Front Desk Executive,Full-Time,45161.41,2015-05-11
+ST0072,C003,Nidhi,Bhatia,Nurse,Full-Time,51296.28,2018-09-10
+ST0073,C017,Sanjay,Rao,Administrator,Full-Time,84092.75,2023-06-15
+ST0074,C017,Manish,Kulkarni,Front Desk Executive,Full-Time,64594.6,2017-06-02
+ST0075,C006,Dev,Choudhary,Pharmacist,Full-Time,65208.78,2023-03-22
+ST0076,C001,Preeti,Desai,Front Desk Executive,Full-Time,82701.79,2024-04-08
+ST0077,C008,Kirti,Joshi,Lab Technician,Full-Time,30966.66,2016-02-14
+ST0078,C001,Sneha,Pandey,Pharmacist,Full-Time,48769.83,2024-04-28
+ST0079,C016,Nidhi,Khanna,Front Desk Executive,Full-Time,57220.74,2021-08-12
+ST0080,C017,Sanjay,Mishra,Nurse,Full-Time,17130.16,2022-01-08
+ST0081,C005,Sanya,Verma,Pharmacist,Full-Time,49928.34,2021-01-24
+ST0082,C001,Tanvi,Khanna,Front Desk Executive,Full-Time,66907.41,2021-11-24
+ST0083,C001,Ojasvi,Agarwal,Pharmacist,Full-Time,87055.84,2020-09-10
+ST0084,C015,Sanya,Menon,Lab Technician,Contract,32576.82,2016-05-08
+ST0085,C009,Ojasvi,Bhatia,Lab Technician,Full-Time,62986.14,2018-12-24
+ST0086,C012,Gaurav,Kulkarni,Nurse,Full-Time,79267.48,2017-11-11
+ST0087,C004,Kirti,Iyer,Pharmacist,Full-Time,87165.65,2015-09-16
+ST0088,C006,Preeti,Saxena,Nurse,Full-Time,31746.31,2018-09-18
+ST0089,C007,Rahul,Iyer,Administrator,Part-Time,45875.7,2020-05-13
+ST0090,C001,Manish,Kulkarni,Pharmacist,Part-Time,66005.95,2015-04-26
+ST0091,C012,Gaurav,Chopra,Care Coordinator,Full-Time,81859.65,2025-05-31
+ST0092,C004,Priyal,Kapoor,Nurse,Full-Time,70208.13,2022-04-10
+ST0093,C008,Anjali,Rao,Pharmacist,Full-Time,64725.56,2016-02-04
+ST0094,C010,Shweta,Menon,Lab Technician,Full-Time,66288.64,2017-06-19
+ST0095,C010,Dev,Bhatia,IT Support,Full-Time,47581.93,2023-12-15
+ST0096,C013,Sanya,Reddy,Administrator,Full-Time,86195.07,2020-12-24
+ST0097,C014,Karan,Khanna,Administrator,Full-Time,69841.81,2024-04-13
+ST0098,C004,Ritu,Bansal,IT Support,Full-Time,86224.16,2021-10-21
+ST0099,C001,Rajat,Kulkarni,Nurse,Full-Time,26010.75,2017-11-16
+ST0100,C016,Saurabh,Malhotra,Nurse,Full-Time,73094.61,2019-01-18
+ST0101,C003,Amit,Kapoor,Lab Technician,Full-Time,29420.67,2023-02-14
+ST0102,C017,Sanjay,Mehta,Pharmacist,Full-Time,61391.98,2024-08-09
+ST0103,C007,Meghna,Choudhary,IT Support,Full-Time,18313.09,2023-08-12
+ST0104,C013,Ritu,Chopra,Care Coordinator,Full-Time,50469.0,2022-07-13
+ST0105,C018,Bhavna,Sharma,Administrator,Full-Time,27428.15,2022-03-13
+ST0106,C014,Amit,Rao,Pharmacist,Full-Time,58586.05,2022-07-10
+ST0107,C013,Meghna,Choudhary,Care Coordinator,Full-Time,79088.78,2025-10-09
+ST0108,C006,Rohan,Menon,Care Coordinator,Full-Time,89667.82,2015-07-07
+ST0109,C014,Nikhil,Bansal,Pharmacist,Full-Time,40775.82,2023-02-27
+ST0110,C009,Aditi,Sharma,Care Coordinator,Full-Time,48352.13,2022-03-17
+ST0111,C003,Gaurav,Gupta,IT Support,Full-Time,44141.17,2019-08-18
+ST0112,C002,Neha,Tiwari,Pharmacist,Full-Time,66409.25,2020-07-08
+ST0113,C004,Neha,Sharma,Front Desk Executive,Full-Time,77371.88,2021-06-22
+ST0114,C006,Esha,Sharma,Front Desk Executive,Full-Time,37837.96,2021-08-04
+ST0115,C004,Ritu,Desai,Administrator,Contract,68011.58,2019-07-23
+ST0116,C015,Aditya,Tiwari,Care Coordinator,Full-Time,73388.88,2025-06-08
+ST0117,C009,Ritu,Kulkarni,IT Support,Full-Time,18364.8,2015-05-27
+ST0118,C004,Vihaan,Verma,Front Desk Executive,Full-Time,80333.77,2022-01-05
+ST0119,C005,Shaurya,Nair,IT Support,Full-Time,51378.4,2018-05-13
+ST0120,C008,Falguni,Ahluwalia,Pharmacist,Part-Time,76406.9,2023-12-14
+ST0121,C014,Amit,Saxena,Lab Technician,Full-Time,75474.65,2019-05-08
+ST0122,C008,Rajat,Shah,Nurse,Full-Time,50419.73,2023-06-10
+ST0123,C011,Ojasvi,Nair,Administrator,Full-Time,77372.79,2018-02-09
+ST0124,C012,Neha,Verma,Front Desk Executive,Full-Time,63911.45,2024-12-15
+ST0125,C017,Vihaan,Mehta,IT Support,Contract,60043.78,2018-06-27
+ST0126,C002,Sanya,Iyer,Lab Technician,Full-Time,80634.04,2019-04-17
+ST0127,C004,Aryan,Shah,Front Desk Executive,Full-Time,21365.09,2016-11-19
+ST0128,C009,Meghna,Iyer,Nurse,Full-Time,89519.98,2016-10-03
+ST0129,C008,Sneha,Kulkarni,Care Coordinator,Full-Time,29910.44,2016-09-12
+ST0130,C010,Rahul,Mishra,IT Support,Part-Time,47252.7,2022-01-17
+ST0131,C007,Juhi,Joshi,Administrator,Full-Time,32216.1,2024-04-17
+ST0132,C011,Amit,Desai,Pharmacist,Full-Time,53207.02,2015-10-19
+ST0133,C006,Rajat,Rao,IT Support,Full-Time,79528.03,2017-04-06
+ST0134,C007,Dev,Pandey,Pharmacist,Full-Time,25692.53,2015-06-02
+ST0135,C003,Kabir,Rao,Administrator,Contract,26476.57,2023-02-24
+ST0136,C004,Aryan,Reddy,Care Coordinator,Full-Time,87518.22,2015-06-28
+ST0137,C013,Tanvi,Kapoor,Pharmacist,Full-Time,79056.85,2020-11-14
+ST0138,C003,Ojasvi,Ahluwalia,Lab Technician,Full-Time,82323.51,2020-01-27
+ST0139,C002,Ankit,Chopra,Front Desk Executive,Full-Time,73566.61,2024-01-01
+ST0140,C004,Saurabh,Iyer,Care Coordinator,Full-Time,24142.98,2020-09-06
+ST0141,C002,Rohan,Verma,Administrator,Full-Time,56815.31,2023-09-15
+ST0142,C018,Riya,Joshi,Care Coordinator,Full-Time,88871.84,2020-02-09
+ST0143,C007,Preeti,Chopra,Pharmacist,Full-Time,17399.8,2023-02-07
+ST0144,C002,Nikhil,Menon,Pharmacist,Full-Time,47916.11,2022-01-25
+ST0145,C004,Garima,Shah,Pharmacist,Full-Time,89481.65,2025-11-09
+ST0146,C005,Rohan,Reddy,Front Desk Executive,Part-Time,81735.34,2018-11-04
+ST0147,C007,Esha,Reddy,Lab Technician,Full-Time,23112.13,2022-07-26
+ST0148,C015,Vihaan,Khanna,Care Coordinator,Full-Time,47181.67,2016-07-21
+ST0149,C018,Kirti,Ahluwalia,Care Coordinator,Full-Time,55932.03,2015-12-13
+ST0150,C002,Aditi,Shah,Front Desk Executive,Full-Time,26983.0,2017-10-22
+ST0151,C018,Ritu,Iyer,Administrator,Full-Time,19118.16,2022-09-27
+ST0152,C018,Saurabh,Desai,Care Coordinator,Part-Time,41046.25,2016-07-27
+ST0153,C004,Shweta,Mishra,Care Coordinator,Full-Time,21922.66,2016-03-20
+ST0154,C015,Rohit,Pandey,Pharmacist,Full-Time,75304.27,2024-03-26
+ST0155,C015,Sanya,Khanna,Lab Technician,Full-Time,38881.12,2015-03-17
+ST0156,C003,Neha,Mehta,IT Support,Contract,50497.51,2024-06-23
+ST0157,C013,Sneha,Khanna,Front Desk Executive,Full-Time,64894.73,2020-07-05
+ST0158,C002,Sameer,Joshi,Care Coordinator,Full-Time,66044.41,2024-04-09
+ST0159,C013,Dev,Saxena,Nurse,Contract,29873.43,2022-05-26
+ST0160,C001,Diya,Mehta,Lab Technician,Full-Time,72563.22,2022-02-24
+ST0161,C010,Shweta,Nair,Care Coordinator,Full-Time,60492.94,2020-09-25
+ST0162,C009,Preeti,Chopra,Pharmacist,Full-Time,25847.16,2017-01-12
+ST0163,C012,Esha,Chopra,Care Coordinator,Contract,69830.29,2015-06-01
+ST0164,C003,Ojasvi,Desai,Care Coordinator,Full-Time,78595.46,2025-03-13
+ST0165,C006,Meghna,Tiwari,Front Desk Executive,Full-Time,40172.12,2025-12-29
+ST0166,C014,Ishaan,Chopra,IT Support,Full-Time,44790.23,2022-05-06
+ST0167,C002,Tanvi,Verma,Front Desk Executive,Full-Time,31026.44,2023-02-09
+ST0168,C010,Kirti,Verma,IT Support,Full-Time,91950.1,2018-02-27
+ST0169,C015,Arvind,Kapoor,Administrator,Full-Time,82436.6,2017-07-03
+ST0170,C002,Pooja,Tiwari,Care Coordinator,Full-Time,49544.54,2023-02-24
+ST0171,C011,Siddharth,Ahluwalia,IT Support,Full-Time,65301.06,2016-04-14
+ST0172,C013,Tanvi,Khanna,Front Desk Executive,Full-Time,25319.86,2016-07-30
+ST0173,C018,Mansi,Bansal,Lab Technician,Part-Time,17425.71,2017-01-29
+ST0174,C001,Rohan,Saxena,Nurse,Full-Time,53003.13,2024-07-21
+ST0175,C002,Kavita,Nair,IT Support,Full-Time,41433.37,2019-09-29
+ST0176,C002,Sneha,Kapoor,Pharmacist,Full-Time,60715.32,2020-01-05
+ST0177,C003,Rajat,Mehta,Front Desk Executive,Full-Time,45403.82,2017-05-29
+ST0178,C017,Tanvi,Saxena,Administrator,Full-Time,36929.73,2025-11-21
+ST0179,C006,Rohit,Mishra,Care Coordinator,Full-Time,53569.06,2020-09-23
+ST0180,C010,Ishaan,Patel,Administrator,Full-Time,60153.17,2018-08-21
+ST0181,C007,Juhi,Reddy,Lab Technician,Part-Time,93220.28,2023-03-22
+ST0182,C013,Anjali,Rao,Front Desk Executive,Part-Time,92930.66,2021-11-16
+ST0183,C017,Amit,Desai,Pharmacist,Full-Time,31977.52,2024-07-24
+ST0184,C012,Tushar,Malhotra,Care Coordinator,Part-Time,55536.18,2023-06-22
+ST0185,C012,Charu,Shah,Lab Technician,Part-Time,32518.73,2019-09-16
+ST0186,C012,Vikram,Desai,Nurse,Full-Time,90741.28,2015-06-10
+ST0187,C005,Preeti,Shah,Administrator,Full-Time,41036.4,2017-11-04
+ST0188,C013,Aditi,Verma,Administrator,Part-Time,91316.6,2022-09-24
+ST0189,C016,Saurabh,Gupta,Pharmacist,Full-Time,27249.44,2019-02-15
+ST0190,C001,Rahul,Desai,Front Desk Executive,Full-Time,65465.39,2020-08-05
+ST0191,C016,Mansi,Bhatia,Administrator,Full-Time,16921.09,2016-05-06
+ST0192,C016,Shaurya,Patel,Pharmacist,Full-Time,58748.31,2015-01-07
+ST0193,C013,Amit,Mishra,IT Support,Full-Time,76598.54,2022-09-29
+ST0194,C007,Ankit,Menon,Front Desk Executive,Full-Time,69643.57,2025-06-24
+ST0195,C004,Shweta,Gupta,Lab Technician,Full-Time,62906.73,2025-08-21
+ST0196,C015,Tanvi,Nair,Lab Technician,Part-Time,40952.08,2020-02-15
+ST0197,C011,Juhi,Kulkarni,Nurse,Part-Time,67135.49,2016-02-14
+ST0198,C007,Manish,Agarwal,Nurse,Full-Time,84536.62,2018-11-15
+ST0199,C010,Mansi,Verma,Care Coordinator,Full-Time,91024.42,2019-07-03
+ST0200,C012,Dev,Kapoor,Nurse,Part-Time,17481.56,2016-05-19
+ST0201,C009,Aditi,Pandey,Care Coordinator,Full-Time,25891.92,2019-10-31
+ST0202,C005,Rohan,Joshi,Front Desk Executive,Full-Time,94854.59,2023-02-14
+ST0203,C017,Mansi,Nair,IT Support,Full-Time,92508.52,2016-06-02
+ST0204,C004,Swati,Agarwal,Care Coordinator,Full-Time,88189.69,2019-05-28
+ST0205,C013,Shweta,Kulkarni,Front Desk Executive,Full-Time,52669.37,2024-11-16
+ST0206,C002,Aryan,Tiwari,Administrator,Full-Time,43519.42,2020-05-30
+ST0207,C002,Falguni,Menon,IT Support,Full-Time,82238.13,2016-11-28
+ST0208,C012,Ishaan,Ahluwalia,Front Desk Executive,Part-Time,78265.27,2025-07-08
+ST0209,C012,Yash,Agarwal,Administrator,Full-Time,77783.82,2024-08-28
+ST0210,C011,Shaurya,Bansal,Lab Technician,Contract,61110.67,2018-10-09
+ST0211,C018,Rakesh,Agarwal,Nurse,Full-Time,26202.49,2015-03-09
+ST0212,C009,Nisha,Malhotra,Lab Technician,Full-Time,63195.2,2023-10-26
+ST0213,C011,Aditi,Desai,Nurse,Part-Time,33301.81,2025-07-01
+ST0214,C016,Meghna,Pandey,Lab Technician,Full-Time,46581.42,2021-03-15
+ST0215,C013,Dev,Mishra,Front Desk Executive,Full-Time,50515.27,2023-03-03
+ST0216,C005,Diya,Bhatia,Nurse,Full-Time,52561.75,2015-10-08
+ST0217,C012,Mansi,Pandey,Lab Technician,Full-Time,55234.44,2024-09-19
+ST0218,C015,Swati,Saxena,Lab Technician,Full-Time,23661.55,2025-02-22
+ST0219,C001,Dev,Mehta,IT Support,Full-Time,28760.3,2019-09-14
+ST0220,C002,Isha,Menon,Care Coordinator,Full-Time,43183.47,2015-08-12
+ST0221,C017,Rakesh,Agarwal,Lab Technician,Full-Time,24387.49,2018-07-21
+ST0222,C011,Riya,Reddy,Pharmacist,Full-Time,42612.67,2023-06-26
+ST0223,C006,Meghna,Iyer,Lab Technician,Full-Time,81124.12,2019-08-15
+ST0224,C010,Diya,Chawla,Pharmacist,Part-Time,32731.5,2019-03-18
+ST0225,C012,Ishaan,Bansal,Nurse,Full-Time,90243.26,2015-02-28
+ST0226,C009,Ritu,Malhotra,Care Coordinator,Full-Time,41993.0,2017-12-05
+ST0227,C005,Nidhi,Sharma,Lab Technician,Full-Time,88086.03,2020-09-09
+ST0228,C004,Karan,Kulkarni,Pharmacist,Full-Time,52617.96,2017-07-22
+ST0229,C012,Sameer,Iyer,IT Support,Full-Time,73066.93,2020-08-06
+ST0230,C006,Yash,Kapoor,Front Desk Executive,Full-Time,21907.18,2016-08-31
+ST0231,C004,Ishaan,Verma,Nurse,Full-Time,46304.02,2024-03-30
+ST0232,C005,Rakesh,Joshi,Front Desk Executive,Full-Time,61233.37,2020-06-30
+ST0233,C011,Ritu,Kulkarni,Administrator,Full-Time,72512.53,2025-12-23
+ST0234,C015,Ojasvi,Pandey,Care Coordinator,Full-Time,86168.7,2023-02-24
+ST0235,C014,Siddharth,Kapoor,Administrator,Part-Time,77420.37,2024-11-09
+ST0236,C016,Aditya,Ahluwalia,Administrator,Part-Time,71153.57,2023-08-23
+ST0237,C001,Kirti,Tiwari,Nurse,Full-Time,60397.04,2017-09-23
+ST0238,C007,Rohit,Agarwal,Pharmacist,Part-Time,26990.59,2018-01-13
+ST0239,C011,Arvind,Mishra,IT Support,Full-Time,94066.04,2022-11-28
+ST0240,C006,Isha,Desai,Administrator,Full-Time,26183.56,2018-04-02
+ST0241,C003,Rakesh,Shah,Nurse,Full-Time,58984.29,2025-05-07
+ST0242,C009,Falguni,Tiwari,Pharmacist,Full-Time,61933.09,2019-05-20
+ST0243,C008,Diya,Malhotra,IT Support,Full-Time,60384.14,2021-03-18
+ST0244,C004,Sameer,Tiwari,Care Coordinator,Full-Time,68689.13,2018-09-22
+ST0245,C006,Rajat,Sharma,Pharmacist,Full-Time,54980.08,2018-04-30
+ST0246,C014,Manish,Iyer,IT Support,Full-Time,51465.49,2023-03-28
+ST0247,C013,Kabir,Shah,Front Desk Executive,Contract,45152.17,2024-09-26
+ST0248,C008,Tushar,Sharma,Pharmacist,Full-Time,28450.64,2018-06-16
+ST0249,C006,Aditi,Khanna,Administrator,Full-Time,78525.92,2021-01-22
+ST0250,C007,Saurabh,Chawla,Nurse,Full-Time,29178.19,2020-11-04
+ST0251,C009,Sanya,Chawla,IT Support,Full-Time,85405.76,2018-02-18
+ST0252,C008,Sneha,Menon,Pharmacist,Full-Time,41974.47,2025-03-03
+ST0253,C014,Sameer,Patel,Administrator,Full-Time,60296.33,2015-04-21
+ST0254,C003,Rakesh,Choudhary,Lab Technician,Full-Time,81350.97,2017-10-10
+ST0255,C017,Shaurya,Khanna,Care Coordinator,Full-Time,75294.17,2025-01-22
+ST0256,C005,Aryan,Choudhary,Lab Technician,Full-Time,40745.17,2015-09-04
+ST0257,C011,Ishaan,Verma,Care Coordinator,Full-Time,26439.27,2019-03-09
+ST0258,C016,Falguni,Reddy,Pharmacist,Full-Time,19260.88,2025-04-11
+ST0259,C003,Aryan,Verma,IT Support,Full-Time,72464.92,2016-08-12
+ST0260,C015,Vihaan,Tiwari,Lab Technician,Full-Time,32300.6,2022-02-16
+ST0261,C018,Ritu,Iyer,IT Support,Full-Time,21398.67,2024-02-21
+ST0262,C013,Nikhil,Bhatia,IT Support,Full-Time,50377.34,2025-01-17
+ST0263,C014,Karan,Chopra,Pharmacist,Full-Time,42456.13,2015-05-31
+ST0264,C006,Aditi,Tiwari,Administrator,Full-Time,85903.34,2020-06-16
+ST0265,C016,Preeti,Kapoor,IT Support,Full-Time,26045.72,2021-05-01
+ST0266,C013,Tushar,Nair,Nurse,Full-Time,37005.47,2023-09-08
+ST0267,C003,Riya,Kulkarni,Administrator,Full-Time,71890.45,2018-08-23
+ST0268,C017,Sneha,Rao,IT Support,Full-Time,62063.72,2024-06-10
+ST0269,C017,Manish,Kulkarni,Nurse,Full-Time,43385.32,2015-12-30
+ST0270,C017,Isha,Desai,Front Desk Executive,Full-Time,70472.39,2020-12-20
+ST0271,C007,Aditi,Patel,Administrator,Full-Time,17027.79,2022-02-28
+ST0272,C013,Yash,Kulkarni,Nurse,Full-Time,31844.61,2021-07-26
+ST0273,C015,Karan,Menon,Care Coordinator,Full-Time,31265.14,2024-05-02
+ST0274,C014,Vihaan,Joshi,Nurse,Full-Time,55179.51,2021-03-10
+ST0275,C017,Preeti,Tiwari,IT Support,Part-Time,61708.11,2015-01-02
+ST0276,C008,Bhavna,Tiwari,Front Desk Executive,Part-Time,20661.64,2021-11-30
+ST0277,C009,Swati,Joshi,IT Support,Full-Time,28045.58,2022-12-08
+ST0278,C007,Ishaan,Saxena,Administrator,Full-Time,81818.99,2022-03-27
+ST0279,C016,Ishaan,Ahluwalia,IT Support,Full-Time,42565.61,2025-01-28
+ST0280,C012,Ritu,Saxena,Front Desk Executive,Contract,19672.76,2018-12-22
+ST0281,C001,Kabir,Joshi,Pharmacist,Full-Time,27971.78,2020-09-04
+ST0282,C004,Nidhi,Pandey,Front Desk Executive,Part-Time,73464.54,2019-06-21
+ST0283,C014,Charu,Agarwal,Administrator,Full-Time,20708.78,2022-10-01
+ST0284,C004,Kavita,Mishra,Lab Technician,Full-Time,40707.87,2018-06-03
+ST0285,C012,Rajat,Malhotra,IT Support,Full-Time,30558.59,2020-04-15
+ST0286,C013,Sanjay,Mehta,Pharmacist,Full-Time,60649.07,2025-09-26
+ST0287,C010,Kirti,Rao,Pharmacist,Full-Time,37682.7,2019-04-29
+ST0288,C005,Rohit,Pandey,Nurse,Full-Time,40409.78,2023-06-10
+ST0289,C005,Ojasvi,Saxena,Nurse,Contract,67532.36,2024-06-06
+ST0290,C016,Sanjay,Chawla,IT Support,Full-Time,69586.82,2024-02-04
+ST0291,C015,Neha,Mishra,Lab Technician,Full-Time,21949.79,2020-11-14
+ST0292,C005,Sanjay,Tiwari,Administrator,Full-Time,93984.72,2018-05-20
+ST0293,C014,Vivek,Rao,IT Support,Full-Time,53917.88,2016-12-21
+ST0294,C002,Rakesh,Pandey,Nurse,Full-Time,62923.34,2023-07-04
+ST0295,C018,Shaurya,Agarwal,Pharmacist,Full-Time,67889.02,2016-10-03
+ST0296,C015,Esha,Kulkarni,Pharmacist,Full-Time,55259.87,2018-05-27
+ST0297,C014,Ritu,Gupta,IT Support,Full-Time,67454.11,2017-05-13
+ST0298,C004,Nidhi,Agarwal,Administrator,Part-Time,24313.75,2025-06-01
+ST0299,C018,Ojasvi,Shah,Front Desk Executive,Full-Time,37150.56,2017-05-13
+ST0300,C013,Manish,Joshi,Pharmacist,Full-Time,71640.58,2021-04-23
+ST0301,C003,Falguni,Desai,IT Support,Full-Time,84114.05,2024-02-22
+ST0302,C006,Sanjay,Chopra,Pharmacist,Part-Time,80290.77,2024-05-24
+ST0303,C015,Bhavna,Pandey,Pharmacist,Full-Time,87103.43,2025-05-26
+ST0304,C018,Swati,Bhatia,Pharmacist,Full-Time,22823.75,2025-07-26
+ST0305,C015,Esha,Kulkarni,Front Desk Executive,Full-Time,23074.2,2019-09-27
+ST0306,C004,Vivek,Khanna,Pharmacist,Contract,82899.37,2016-03-03
+ST0307,C013,Mansi,Khanna,IT Support,Part-Time,84993.97,2021-10-25
+ST0308,C008,Tanvi,Shah,Front Desk Executive,Contract,71955.2,2018-05-05
+ST0309,C009,Vivek,Gupta,Lab Technician,Full-Time,43883.1,2021-07-20
+ST0310,C002,Nidhi,Ahluwalia,Nurse,Full-Time,90170.5,2024-10-06
+ST0311,C005,Ishaan,Menon,Nurse,Full-Time,94348.23,2016-03-19
+ST0312,C005,Esha,Pandey,Front Desk Executive,Full-Time,48084.87,2020-10-04
+ST0313,C016,Kavita,Mishra,Administrator,Full-Time,85663.51,2025-11-24
+ST0314,C011,Meghna,Joshi,Administrator,Full-Time,22014.93,2021-09-18
+ST0315,C017,Tanvi,Menon,Front Desk Executive,Full-Time,94758.55,2023-07-20
+ST0316,C015,Rahul,Nair,Front Desk Executive,Full-Time,37400.36,2019-07-10
+ST0317,C008,Esha,Kapoor,Lab Technician,Full-Time,30097.26,2022-02-03
+ST0318,C015,Dev,Malhotra,Care Coordinator,Full-Time,35216.37,2021-10-18
+ST0319,C014,Priyal,Verma,Administrator,Full-Time,27678.43,2023-04-23
+ST0320,C002,Gaurav,Mishra,Administrator,Full-Time,42095.32,2018-03-24
+ST0321,C005,Rakesh,Reddy,IT Support,Full-Time,50749.02,2024-12-12
+ST0322,C009,Nidhi,Iyer,Lab Technician,Full-Time,25770.49,2023-08-21
+ST0323,C014,Saurabh,Malhotra,Nurse,Full-Time,38997.96,2018-12-13
+ST0324,C005,Saurabh,Tiwari,Nurse,Full-Time,36033.52,2015-02-24
+ST0325,C014,Amit,Tiwari,Care Coordinator,Full-Time,92120.37,2022-10-28
+ST0326,C005,Rakesh,Patel,Front Desk Executive,Full-Time,93956.02,2016-01-03
+ST0327,C009,Tanvi,Malhotra,Care Coordinator,Full-Time,86135.77,2025-02-03
+ST0328,C005,Vivek,Chawla,Care Coordinator,Full-Time,79255.71,2025-04-23
+ST0329,C008,Kabir,Patel,Care Coordinator,Part-Time,80808.99,2020-04-09
+ST0330,C004,Vihaan,Kapoor,Nurse,Full-Time,78551.76,2025-05-26
+ST0331,C008,Ankit,Shah,Nurse,Full-Time,88050.48,2018-03-24
+ST0332,C005,Garima,Malhotra,IT Support,Full-Time,20787.02,2019-05-04
+ST0333,C018,Tushar,Sharma,Pharmacist,Full-Time,24808.15,2022-11-10
+ST0334,C017,Nikhil,Reddy,Pharmacist,Full-Time,86857.01,2020-01-08
+ST0335,C010,Swati,Kapoor,IT Support,Part-Time,50704.95,2021-07-29
+ST0336,C013,Kavita,Chawla,Administrator,Full-Time,69237.0,2020-01-23
+ST0337,C012,Nidhi,Nair,Pharmacist,Part-Time,57943.48,2024-09-13
+ST0338,C008,Sneha,Chopra,Lab Technician,Full-Time,92734.99,2017-12-29
+ST0339,C004,Nikhil,Gupta,Nurse,Part-Time,18605.87,2019-04-09
+ST0340,C014,Sameer,Nair,Care Coordinator,Full-Time,56715.65,2023-08-17
+ST0341,C006,Saurabh,Pandey,Nurse,Full-Time,48981.06,2021-04-11
+ST0342,C001,Kavita,Rao,Front Desk Executive,Contract,55100.65,2024-05-15
+ST0343,C011,Preeti,Kapoor,Administrator,Full-Time,88522.71,2023-10-25
+ST0344,C006,Shweta,Ahluwalia,Care Coordinator,Full-Time,36697.01,2020-02-07
+ST0345,C007,Anjali,Chopra,IT Support,Full-Time,85323.86,2022-06-08
+ST0346,C004,Ishaan,Reddy,Front Desk Executive,Full-Time,79122.85,2015-10-14
+ST0347,C008,Amit,Chawla,Nurse,Full-Time,53862.51,2023-08-13
+ST0348,C011,Rohan,Bansal,Administrator,Full-Time,52791.0,2017-07-01
+ST0349,C013,Shaurya,Khanna,Administrator,Full-Time,52597.93,2015-11-17
+ST0350,C016,Nisha,Chopra,Pharmacist,Contract,36487.5,2018-09-24
+ST0351,C004,Rajat,Kulkarni,Administrator,Full-Time,65695.02,2023-05-25
+ST0352,C001,Rahul,Tiwari,IT Support,Full-Time,91249.69,2015-10-12
+ST0353,C006,Vikram,Gupta,IT Support,Full-Time,20081.81,2016-09-25
+ST0354,C007,Kabir,Joshi,Nurse,Part-Time,63756.24,2015-08-15
+ST0355,C015,Riya,Menon,IT Support,Full-Time,65444.45,2018-04-03
+ST0356,C014,Vivek,Kulkarni,Nurse,Full-Time,53069.95,2017-03-04
+ST0357,C003,Rohit,Malhotra,Administrator,Full-Time,26040.07,2024-08-28
+ST0358,C013,Ojasvi,Mehta,Care Coordinator,Full-Time,32865.71,2023-09-10
+ST0359,C012,Puneet,Shah,Nurse,Full-Time,38384.19,2019-09-25
+ST0360,C010,Ankit,Kapoor,Front Desk Executive,Full-Time,92811.05,2019-11-14
+ST0361,C017,Vivek,Desai,Pharmacist,Full-Time,39874.54,2023-10-16
+ST0362,C013,Priyal,Khanna,Lab Technician,Full-Time,68562.05,2021-08-18
+ST0363,C009,Sneha,Kapoor,Pharmacist,Full-Time,93463.36,2016-06-03
+ST0364,C004,Vivek,Kulkarni,IT Support,Full-Time,92657.57,2022-01-29
+ST0365,C012,Manish,Menon,Lab Technician,Full-Time,25433.24,2020-02-11
+ST0366,C013,Neha,Agarwal,Administrator,Part-Time,33734.23,2015-02-01
+ST0367,C010,Kirti,Nair,Care Coordinator,Full-Time,27843.83,2017-10-27
+ST0368,C004,Rohit,Ahluwalia,Front Desk Executive,Full-Time,58316.53,2023-05-12
+ST0369,C003,Mansi,Saxena,Nurse,Full-Time,56938.82,2016-08-11
+ST0370,C010,Riya,Shah,Front Desk Executive,Full-Time,79479.37,2017-03-04
+ST0371,C001,Ankit,Saxena,Lab Technician,Full-Time,20618.74,2025-03-27
+ST0372,C008,Juhi,Mehta,Administrator,Full-Time,25843.87,2024-09-25
+ST0373,C013,Aryan,Rao,Care Coordinator,Full-Time,86625.57,2016-01-08
+ST0374,C015,Saurabh,Iyer,Nurse,Full-Time,49409.75,2025-11-08
+ST0375,C014,Tushar,Verma,Pharmacist,Full-Time,53963.38,2024-11-15
+ST0376,C016,Bhavna,Gupta,Lab Technician,Full-Time,61780.12,2015-10-25
+ST0377,C008,Mansi,Nair,Pharmacist,Full-Time,25379.47,2022-07-22
+ST0378,C006,Nikhil,Ahluwalia,IT Support,Full-Time,68469.18,2016-01-20
+ST0379,C017,Aditi,Iyer,IT Support,Full-Time,82351.82,2023-01-28
+ST0380,C011,Tushar,Chawla,Nurse,Full-Time,80719.14,2016-05-24
+ST0381,C008,Kavita,Ahluwalia,IT Support,Full-Time,49231.91,2022-03-04
+ST0382,C017,Falguni,Kulkarni,Front Desk Executive,Full-Time,90094.79,2017-08-25
+ST0383,C003,Shaurya,Reddy,Pharmacist,Full-Time,56440.25,2015-06-17
+ST0384,C013,Charu,Chopra,Front Desk Executive,Full-Time,75554.81,2024-05-03
+ST0385,C009,Rahul,Iyer,IT Support,Contract,68609.59,2023-11-28
+ST0386,C015,Sanya,Tiwari,Front Desk Executive,Full-Time,62080.18,2017-06-06
+ST0387,C001,Kavita,Desai,Pharmacist,Full-Time,73136.98,2019-01-14
+ST0388,C015,Tanvi,Desai,IT Support,Full-Time,41824.35,2015-07-08
+ST0389,C009,Sameer,Choudhary,IT Support,Full-Time,90660.45,2020-07-18
+ST0390,C005,Ojasvi,Mishra,Nurse,Full-Time,35422.55,2024-12-05
+ST0391,C001,Aryan,Reddy,Care Coordinator,Full-Time,57212.64,2020-06-02
+ST0392,C003,Ojasvi,Nair,Care Coordinator,Full-Time,82392.24,2025-09-29
+ST0393,C017,Dev,Chawla,Administrator,Full-Time,54156.47,2020-06-13
+ST0394,C002,Rahul,Kapoor,Care Coordinator,Full-Time,80968.55,2020-05-18
+ST0395,C008,Sanya,Reddy,Care Coordinator,Full-Time,85861.18,2023-03-29
+ST0396,C005,Vikram,Patel,Care Coordinator,Part-Time,16615.18,2018-02-16
+ST0397,C002,Karan,Shah,Front Desk Executive,Full-Time,80201.92,2016-09-02
+ST0398,C010,Karan,Iyer,Front Desk Executive,Part-Time,16586.72,2023-03-18
+ST0399,C007,Meghna,Kulkarni,Nurse,Contract,23015.65,2018-02-18
+ST0400,C010,Shaurya,Tiwari,Front Desk Executive,Full-Time,35681.31,2025-09-04
+ST0401,C008,Falguni,Desai,Care Coordinator,Full-Time,62488.71,2017-06-16
+ST0402,C018,Siddharth,Bansal,Administrator,Full-Time,29121.1,2022-03-20
+ST0403,C013,Nisha,Desai,Nurse,Full-Time,71959.02,2021-11-24
+ST0404,C008,Swati,Kapoor,Pharmacist,Full-Time,46656.34,2018-10-28
+ST0405,C003,Rajat,Tiwari,Care Coordinator,Full-Time,68726.6,2017-11-02
+ST0406,C003,Rajat,Nair,Front Desk Executive,Full-Time,93110.3,2020-07-13
+ST0407,C001,Preeti,Bhatia,Administrator,Full-Time,75620.13,2021-04-13
+ST0408,C016,Kabir,Tiwari,Front Desk Executive,Contract,27652.13,2017-07-14
+ST0409,C002,Riya,Iyer,Nurse,Part-Time,84000.12,2021-04-20
+ST0410,C014,Sanya,Shah,Pharmacist,Full-Time,70976.62,2016-09-26
+ST0411,C004,Garima,Choudhary,Care Coordinator,Full-Time,19110.45,2020-02-16
+ST0412,C007,Pooja,Agarwal,Care Coordinator,Full-Time,36151.34,2019-06-18
+ST0413,C003,Vivek,Verma,Care Coordinator,Part-Time,91252.36,2024-08-13
+ST0414,C008,Kavita,Kulkarni,Administrator,Full-Time,17784.37,2022-07-11
+ST0415,C003,Rakesh,Sharma,Care Coordinator,Full-Time,84533.48,2015-08-02
+ST0416,C010,Rajat,Mishra,Lab Technician,Full-Time,17962.3,2023-05-14
+ST0417,C010,Esha,Menon,Nurse,Full-Time,44610.9,2017-11-28
+ST0418,C008,Sanya,Menon,Administrator,Full-Time,56298.68,2021-02-27
+ST0419,C009,Charu,Iyer,Nurse,Part-Time,88005.29,2020-09-15
+ST0420,C018,Manish,Bansal,Front Desk Executive,Part-Time,78858.27,2025-05-02
+ST0421,C004,Sanya,Mehta,Lab Technician,Full-Time,91444.74,2024-12-28
+ST0422,C017,Rohan,Shah,Lab Technician,Part-Time,51626.14,2016-07-18
+ST0423,C016,Sameer,Choudhary,Administrator,Full-Time,33958.24,2024-01-06
+ST0424,C001,Yash,Pandey,Front Desk Executive,Full-Time,30134.61,2023-10-31
+ST0425,C001,Rajat,Choudhary,Front Desk Executive,Full-Time,60156.67,2016-05-12
+ST0426,C018,Siddharth,Choudhary,Lab Technician,Full-Time,68016.54,2018-12-06
+ST0427,C015,Sneha,Rao,Nurse,Part-Time,86185.62,2016-03-15
+ST0428,C008,Swati,Menon,Administrator,Full-Time,92118.3,2020-07-04
+ST0429,C004,Priyal,Gupta,Nurse,Full-Time,26457.62,2023-02-10
+ST0430,C006,Karan,Menon,Nurse,Full-Time,62295.69,2021-10-04
+ST0431,C007,Preeti,Patel,IT Support,Full-Time,35990.62,2020-11-08
+ST0432,C014,Rajat,Verma,IT Support,Contract,64495.53,2016-06-18
+ST0433,C005,Garima,Bhatia,Administrator,Full-Time,61365.0,2017-04-18
+ST0434,C003,Rohan,Iyer,Pharmacist,Part-Time,30933.53,2019-12-07
+ST0435,C003,Rohan,Mishra,Administrator,Contract,18981.08,2025-08-21
+ST0436,C003,Falguni,Saxena,IT Support,Full-Time,68477.9,2015-09-16
+ST0437,C014,Riya,Mehta,Lab Technician,Full-Time,47863.25,2015-11-28
+ST0438,C013,Ishaan,Ahluwalia,Administrator,Part-Time,59938.88,2025-02-10
+ST0439,C012,Esha,Sharma,Pharmacist,Full-Time,25947.53,2017-06-18
+ST0440,C002,Saurabh,Tiwari,IT Support,Contract,33454.1,2019-12-21
+ST0441,C009,Kavita,Bhatia,Pharmacist,Full-Time,59861.64,2025-09-08
+ST0442,C011,Garima,Reddy,Care Coordinator,Full-Time,39151.91,2020-09-01
+ST0443,C003,Saurabh,Khanna,Lab Technician,Full-Time,61943.9,2024-03-30
+ST0444,C003,Garima,Pandey,Lab Technician,Contract,88188.26,2024-11-30
+ST0445,C002,Neha,Mishra,Pharmacist,Full-Time,23790.87,2016-05-25
+ST0446,C005,Garima,Mehta,IT Support,Part-Time,87267.0,2016-09-10
+ST0447,C004,Tushar,Shah,Administrator,Full-Time,91111.86,2016-06-06
+ST0448,C012,Sanya,Khanna,Front Desk Executive,Full-Time,41548.27,2021-01-15
+ST0449,C003,Sameer,Shah,Administrator,Contract,71239.61,2019-04-06
+ST0450,C008,Ritu,Bhatia,Nurse,Full-Time,36322.95,2021-01-06

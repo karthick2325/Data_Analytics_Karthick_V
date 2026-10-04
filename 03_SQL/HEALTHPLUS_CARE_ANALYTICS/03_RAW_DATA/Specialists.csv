@@ -1,0 +1,221 @@
+specialist_id,first_name,last_name,gender,specialization,clinic_id,qualification,experience_years,consultation_fee
+SP0001,Nidhi,Mishra,Female,Nephrologist,C008,"BDS, MDS",28,1068.66
+SP0002,Neha,Mehta,Female,ENT Specialist,C018,MBBS,1,746.0
+SP0003,Rakesh,Pandey,Male,Pulmonologist,C015,MBBS,9,961.15
+SP0004,Charu,Rao,Female,ENT Specialist,C010,MBBS,24,269.59
+SP0005,Rohan,Khanna,Male,Cardiologist,C002,"MBBS, MD",14,534.73
+SP0006,Preeti,Mishra,Female,Cardiologist,C013,"BDS, MDS",26,413.64
+SP0007,Sneha,Kapoor,Female,Dentist,C005,"BDS, MDS",28,1057.71
+SP0008,Bhavna,Rao,Female,Diabetologist,C006,"MD, DNB",9,447.23
+SP0009,Garima,Ahluwalia,Female,Dentist,C013,MBBS,27,1117.04
+SP0010,Garima,Bhatia,Female,Dentist,C016,MBBS,3,755.08
+SP0011,Esha,Sharma,Female,Cardiologist,C011,"BDS, MDS",3,568.96
+SP0012,Tushar,Chawla,Male,ENT Specialist,C009,"MBBS, MD",19,553.13
+SP0013,Anjali,Kapoor,Female,Dietitian,C002,"BDS, MDS",2,295.37
+SP0014,Sameer,Mishra,Male,Psychiatrist,C006,"BDS, MDS",2,910.76
+SP0015,Shweta,Pandey,Female,Endocrinologist,C004,"BDS, MDS",6,509.16
+SP0016,Ritu,Rao,Female,Dentist,C007,"MBBS, DPM",6,916.73
+SP0017,Ishaan,Chawla,Male,Cardiologist,C005,MBBS,5,768.06
+SP0018,Kabir,Menon,Male,Physiotherapist,C013,MBBS,12,1077.33
+SP0019,Yash,Kulkarni,Male,Pulmonologist,C006,"MD, DNB",25,300.17
+SP0020,Priyal,Bhatia,Female,Pediatrician,C007,"MD, DNB",6,951.91
+SP0021,Puneet,Bhatia,Male,ENT Specialist,C001,MBBS,13,1120.97
+SP0022,Rohan,Pandey,Male,Endocrinologist,C015,"MBBS, DPM",28,1095.8
+SP0023,Shaurya,Malhotra,Male,Pulmonologist,C015,"MD, DNB",9,547.73
+SP0024,Tushar,Patel,Male,General Physician,C010,MBBS,5,1146.46
+SP0025,Priyal,Rao,Female,Psychiatrist,C010,"MBBS, MD",16,656.12
+SP0026,Amit,Desai,Male,Dermatologist,C011,"MD, DNB",22,560.61
+SP0027,Vivek,Choudhary,Male,Psychiatrist,C008,"MBBS, DPM",5,908.95
+SP0028,Kabir,Ahluwalia,Male,Psychiatrist,C013,"BDS, MDS",17,929.83
+SP0029,Rohit,Menon,Male,Pediatrician,C002,MBBS,8,865.42
+SP0030,Shaurya,Reddy,Male,Cardiologist,C014,"MBBS, MD",19,1146.42
+SP0031,Arvind,Malhotra,Male,Physiotherapist,C010,"MBBS, MD",29,491.87
+SP0032,Kavita,Sharma,Female,Dentist,C002,"MBBS, DPM",13,1140.1
+SP0033,Ritu,Malhotra,Female,Dietitian,C008,"MD, DNB",14,375.48
+SP0034,Manish,Menon,Male,Dermatologist,C008,"MBBS, DPM",16,447.98
+SP0035,Ankit,Kulkarni,Male,Endocrinologist,C006,MBBS,16,951.24
+SP0036,Rohit,Choudhary,Male,Physiotherapist,C009,MBBS,21,740.03
+SP0037,Siddharth,Bansal,Male,ENT Specialist,C008,"BDS, MDS",13,748.15
+SP0038,Siddharth,Agarwal,Male,Gynecologist,C011,"BDS, MDS",7,342.19
+SP0039,Amit,Shah,Male,General Physician,C011,MBBS,30,297.47
+SP0040,Anjali,Agarwal,Female,Dentist,C009,"MBBS, MD",19,753.8
+SP0041,Ishaan,Desai,Male,Cardiologist,C006,"MD, DNB",13,385.18
+SP0042,Esha,Agarwal,Female,Endocrinologist,C015,"MBBS, MD",1,587.2
+SP0043,Yash,Gupta,Male,Nephrologist,C013,"MBBS, MD",12,1144.29
+SP0044,Shweta,Rao,Female,Dermatologist,C003,"MBBS, MD",1,417.15
+SP0045,Gaurav,Kulkarni,Male,Psychiatrist,C003,"MBBS, MD",14,358.27
+SP0046,Ritu,Saxena,Female,Nephrologist,C012,"BDS, MDS",14,780.43
+SP0047,Ojasvi,Rao,Female,Dentist,C009,"MD, DNB",23,577.63
+SP0048,Aditya,Menon,Male,Endocrinologist,C003,"MBBS, MD",8,503.71
+SP0049,Aditya,Khanna,Male,Dietitian,C008,MBBS,15,881.9
+SP0050,Yash,Tiwari,Male,Psychiatrist,C003,"BDS, MDS",4,950.82
+SP0051,Diya,Mishra,Female,Dentist,C015,"BDS, MDS",26,1133.01
+SP0052,Esha,Bansal,Female,Dietitian,C018,"MBBS, MD",30,522.21
+SP0053,Vikram,Reddy,Male,Dentist,C009,"BDS, MDS",24,715.58
+SP0054,Dev,Sharma,Male,General Physician,C003,MBBS,28,639.52
+SP0055,Kirti,Chawla,Female,Dietitian,C001,"MBBS, MD",4,1009.38
+SP0056,Nikhil,Chawla,Male,Physiotherapist,C004,"MBBS, MD",14,1038.84
+SP0057,Anjali,Choudhary,Female,Dermatologist,C010,MBBS,23,644.6
+SP0058,Riya,Malhotra,Female,Pulmonologist,C014,"BDS, MDS",21,341.47
+SP0059,Esha,Khanna,Female,Psychiatrist,C006,"MD, DNB",24,367.46
+SP0060,Aditya,Nair,Male,Pediatrician,C005,"MD, DNB",20,710.13
+SP0061,Riya,Iyer,Female,Psychiatrist,C017,"MD, DNB",21,425.15
+SP0062,Kavita,Chopra,Female,Gynecologist,C017,MBBS,26,727.37
+SP0063,Isha,Menon,Female,Cardiologist,C008,"MBBS, DPM",14,992.29
+SP0064,Gaurav,Tiwari,Male,Pulmonologist,C013,"MBBS, DPM",26,328.23
+SP0065,Ritu,Shah,Female,Orthopedic,C004,"MBBS, MD",1,435.35
+SP0066,Kabir,Bansal,Male,Psychiatrist,C007,"MBBS, MD",5,944.83
+SP0067,Anjali,Choudhary,Female,ENT Specialist,C007,"MBBS, MD",20,355.98
+SP0068,Shaurya,Chopra,Male,Psychiatrist,C013,"MD, DNB",17,290.68
+SP0069,Diya,Rao,Female,Dietitian,C012,MBBS,12,374.18
+SP0070,Mansi,Rao,Female,Physiotherapist,C008,MBBS,26,1009.28
+SP0071,Mansi,Nair,Female,Dermatologist,C012,"MBBS, DPM",6,942.06
+SP0072,Neha,Sharma,Female,Dietitian,C012,MBBS,5,664.31
+SP0073,Sameer,Joshi,Male,Physiotherapist,C018,"MD, DNB",27,594.78
+SP0074,Mansi,Mishra,Female,Diabetologist,C004,"MBBS, DPM",10,281.28
+SP0075,Bhavna,Chopra,Female,Physiotherapist,C006,"MBBS, MD",6,847.29
+SP0076,Aditi,Shah,Female,Nephrologist,C018,"MBBS, DPM",13,603.99
+SP0077,Nisha,Mehta,Female,Dentist,C007,"MD, DNB",5,309.96
+SP0078,Rahul,Desai,Male,Pediatrician,C011,"MBBS, DPM",8,813.92
+SP0079,Nisha,Shah,Female,Dentist,C005,MBBS,22,1092.45
+SP0080,Rajat,Saxena,Male,Physiotherapist,C001,"MBBS, DPM",17,758.29
+SP0081,Siddharth,Shah,Male,ENT Specialist,C018,MBBS,9,538.14
+SP0082,Ritu,Choudhary,Female,Gynecologist,C001,"BDS, MDS",8,704.22
+SP0083,Puneet,Khanna,Male,Endocrinologist,C017,"MBBS, MD",5,681.05
+SP0084,Manish,Rao,Male,Dermatologist,C012,"MBBS, DPM",2,311.4
+SP0085,Ishaan,Tiwari,Male,Dentist,C001,"BDS, MDS",7,861.07
+SP0086,Diya,Bhatia,Female,Diabetologist,C001,MBBS,24,292.43
+SP0087,Arvind,Bhatia,Male,Pediatrician,C006,MBBS,28,1120.93
+SP0088,Meghna,Choudhary,Female,Dietitian,C001,"MBBS, MD",10,303.71
+SP0089,Aryan,Bansal,Male,Dietitian,C013,"MD, DNB",25,723.35
+SP0090,Rajat,Reddy,Male,Gynecologist,C005,"MBBS, MD",26,563.19
+SP0091,Falguni,Choudhary,Female,Endocrinologist,C014,"MD, DNB",6,736.82
+SP0092,Riya,Gupta,Female,Pediatrician,C014,"MD, DNB",20,538.16
+SP0093,Sameer,Malhotra,Male,Pulmonologist,C001,"MD, DNB",8,414.25
+SP0094,Rohit,Menon,Male,Nephrologist,C008,"MD, DNB",9,555.77
+SP0095,Aditi,Malhotra,Female,Dentist,C009,"MD, DNB",26,407.62
+SP0096,Sameer,Iyer,Male,Orthopedic,C009,"BDS, MDS",21,552.59
+SP0097,Gaurav,Reddy,Male,Dermatologist,C002,"MBBS, DPM",13,777.0
+SP0098,Rohan,Iyer,Male,Endocrinologist,C017,"MBBS, MD",26,903.26
+SP0099,Ojasvi,Shah,Female,ENT Specialist,C011,"MD, DNB",7,918.84
+SP0100,Siddharth,Bhatia,Male,Pulmonologist,C008,"BDS, MDS",6,1173.43
+SP0101,Shweta,Joshi,Female,Cardiologist,C006,"MBBS, MD",24,303.68
+SP0102,Aditi,Chopra,Female,Diabetologist,C009,"BDS, MDS",11,730.36
+SP0103,Karan,Rao,Male,Physiotherapist,C014,"MBBS, DPM",28,861.87
+SP0104,Nisha,Tiwari,Female,Dermatologist,C005,"BDS, MDS",19,605.66
+SP0105,Puneet,Iyer,Male,Orthopedic,C006,"BDS, MDS",22,742.75
+SP0106,Falguni,Iyer,Female,Dietitian,C015,"MBBS, MD",16,281.79
+SP0107,Preeti,Mehta,Female,Gynecologist,C016,"MBBS, MD",13,664.17
+SP0108,Riya,Verma,Female,Diabetologist,C007,MBBS,29,994.23
+SP0109,Falguni,Mishra,Female,Nephrologist,C001,"MBBS, MD",5,809.3
+SP0110,Arvind,Bansal,Male,Pulmonologist,C009,"MBBS, MD",12,920.0
+SP0111,Amit,Mishra,Male,Endocrinologist,C002,MBBS,8,1142.53
+SP0112,Nikhil,Menon,Male,Pulmonologist,C001,MBBS,15,501.13
+SP0113,Riya,Desai,Female,Gynecologist,C011,MBBS,10,266.52
+SP0114,Swati,Malhotra,Female,Dietitian,C002,MBBS,26,1081.1
+SP0115,Ojasvi,Choudhary,Female,Nephrologist,C012,"MD, DNB",6,922.19
+SP0116,Sneha,Bhatia,Female,Psychiatrist,C016,"BDS, MDS",1,696.05
+SP0117,Falguni,Kulkarni,Female,Cardiologist,C011,"MBBS, MD",30,276.83
+SP0118,Mansi,Desai,Female,Diabetologist,C001,MBBS,12,591.0
+SP0119,Kirti,Agarwal,Female,Gynecologist,C009,"BDS, MDS",6,822.89
+SP0120,Aryan,Khanna,Male,Nephrologist,C018,"MBBS, MD",3,884.84
+SP0121,Rohan,Gupta,Male,Physiotherapist,C007,"MBBS, MD",12,619.33
+SP0122,Shweta,Ahluwalia,Female,Endocrinologist,C002,MBBS,18,488.62
+SP0123,Anjali,Choudhary,Female,Physiotherapist,C001,"MD, DNB",11,431.13
+SP0124,Diya,Tiwari,Female,Pulmonologist,C006,MBBS,29,924.65
+SP0125,Aryan,Verma,Male,Dermatologist,C002,"MD, DNB",12,695.84
+SP0126,Arvind,Khanna,Male,Physiotherapist,C012,"MBBS, DPM",9,484.88
+SP0127,Amit,Bansal,Male,Psychiatrist,C014,"MBBS, MD",27,818.34
+SP0128,Rahul,Bhatia,Male,Dietitian,C007,"MD, DNB",16,615.24
+SP0129,Yash,Choudhary,Male,Nephrologist,C008,MBBS,30,656.71
+SP0130,Nisha,Shah,Female,Nephrologist,C007,"BDS, MDS",8,1094.24
+SP0131,Esha,Verma,Female,Diabetologist,C007,"MD, DNB",15,995.66
+SP0132,Sanjay,Rao,Male,Diabetologist,C002,MBBS,2,1189.72
+SP0133,Sanya,Ahluwalia,Female,Pediatrician,C001,"MBBS, MD",3,411.41
+SP0134,Vikram,Mehta,Male,Cardiologist,C003,"MBBS, MD",1,937.1
+SP0135,Priyal,Ahluwalia,Female,Nephrologist,C012,"MD, DNB",6,672.84
+SP0136,Ankit,Malhotra,Male,Orthopedic,C007,"MBBS, DPM",15,554.61
+SP0137,Manish,Malhotra,Male,Diabetologist,C010,"MD, DNB",20,290.57
+SP0138,Aryan,Chopra,Male,General Physician,C017,"MBBS, DPM",11,961.37
+SP0139,Yash,Iyer,Male,Cardiologist,C009,"MBBS, DPM",14,957.8
+SP0140,Amit,Malhotra,Male,Orthopedic,C004,MBBS,7,373.85
+SP0141,Riya,Gupta,Female,Dietitian,C009,"MBBS, MD",26,480.03
+SP0142,Aryan,Kulkarni,Male,Orthopedic,C015,"MBBS, DPM",9,956.88
+SP0143,Esha,Iyer,Female,Dermatologist,C018,"BDS, MDS",18,577.06
+SP0144,Ojasvi,Bansal,Female,Pulmonologist,C017,"MBBS, DPM",28,353.28
+SP0145,Vikram,Ahluwalia,Male,Dentist,C003,MBBS,20,473.73
+SP0146,Rakesh,Reddy,Male,Pediatrician,C010,"MBBS, MD",10,615.9
+SP0147,Isha,Verma,Female,Cardiologist,C007,"MBBS, DPM",24,489.46
+SP0148,Arvind,Bhatia,Male,Pulmonologist,C016,"MD, DNB",19,1059.1
+SP0149,Gaurav,Desai,Male,Physiotherapist,C008,MBBS,22,514.29
+SP0150,Yash,Menon,Male,Dietitian,C004,"BDS, MDS",23,793.68
+SP0151,Nisha,Bhatia,Female,Psychiatrist,C015,MBBS,7,1128.95
+SP0152,Ojasvi,Sharma,Female,ENT Specialist,C015,"MD, DNB",1,1057.65
+SP0153,Kabir,Patel,Male,Pulmonologist,C005,"MBBS, DPM",18,508.56
+SP0154,Arvind,Patel,Male,Pulmonologist,C017,"MBBS, DPM",20,422.6
+SP0155,Preeti,Kapoor,Female,Nephrologist,C001,"MBBS, DPM",4,707.76
+SP0156,Meghna,Chawla,Female,ENT Specialist,C013,"MBBS, DPM",29,743.7
+SP0157,Neha,Kulkarni,Female,Cardiologist,C015,"MBBS, DPM",28,808.42
+SP0158,Shweta,Desai,Female,Gynecologist,C004,"MBBS, MD",21,1154.07
+SP0159,Ishaan,Bansal,Male,Diabetologist,C010,"MBBS, DPM",7,1007.41
+SP0160,Priyal,Verma,Female,Psychiatrist,C007,"BDS, MDS",27,885.62
+SP0161,Sanya,Tiwari,Female,General Physician,C006,MBBS,19,332.35
+SP0162,Anjali,Rao,Female,Pediatrician,C005,MBBS,19,656.09
+SP0163,Priyal,Mehta,Female,Cardiologist,C003,"MD, DNB",26,713.8
+SP0164,Shaurya,Menon,Male,Dentist,C003,"MBBS, MD",13,484.63
+SP0165,Diya,Chopra,Female,Nephrologist,C018,"MD, DNB",19,660.16
+SP0166,Nidhi,Malhotra,Female,Orthopedic,C005,MBBS,5,637.64
+SP0167,Nisha,Desai,Female,Diabetologist,C013,"MD, DNB",3,839.8
+SP0168,Nikhil,Nair,Male,ENT Specialist,C018,"MBBS, MD",15,894.09
+SP0169,Falguni,Verma,Female,Physiotherapist,C007,"MBBS, MD",15,810.76
+SP0170,Diya,Sharma,Female,Endocrinologist,C008,"MBBS, MD",8,756.16
+SP0171,Anjali,Kapoor,Female,Physiotherapist,C008,"MD, DNB",13,867.68
+SP0172,Mansi,Gupta,Female,Dietitian,C016,"MBBS, MD",25,438.03
+SP0173,Priyal,Tiwari,Female,Dermatologist,C001,"MD, DNB",18,554.99
+SP0174,Tanvi,Mehta,Female,Endocrinologist,C016,"MD, DNB",15,600.88
+SP0175,Priyal,Chawla,Female,Diabetologist,C006,"MBBS, MD",3,1032.58
+SP0176,Rakesh,Tiwari,Male,Gynecologist,C017,"MD, DNB",15,284.35
+SP0177,Puneet,Malhotra,Male,Dermatologist,C010,"BDS, MDS",11,284.66
+SP0178,Garima,Nair,Female,Dietitian,C013,"MBBS, MD",7,818.02
+SP0179,Puneet,Menon,Male,Dermatologist,C007,MBBS,23,990.64
+SP0180,Swati,Nair,Female,ENT Specialist,C004,"BDS, MDS",23,820.3
+SP0181,Amit,Mishra,Male,ENT Specialist,C005,"BDS, MDS",8,1024.09
+SP0182,Nidhi,Kapoor,Female,Physiotherapist,C005,"MBBS, MD",9,515.24
+SP0183,Priyal,Chopra,Female,Pediatrician,C015,"MBBS, DPM",28,1062.41
+SP0184,Rakesh,Nair,Male,Dentist,C002,"MD, DNB",8,863.44
+SP0185,Gaurav,Sharma,Male,General Physician,C005,"BDS, MDS",17,258.0
+SP0186,Priyal,Ahluwalia,Female,Dentist,C013,"MD, DNB",28,467.84
+SP0187,Manish,Reddy,Male,Diabetologist,C006,"MBBS, DPM",29,384.18
+SP0188,Rohan,Verma,Male,ENT Specialist,C012,"BDS, MDS",2,560.64
+SP0189,Nisha,Kapoor,Female,Diabetologist,C003,MBBS,22,301.22
+SP0190,Sameer,Gupta,Male,Dietitian,C014,"MBBS, DPM",4,536.16
+SP0191,Vihaan,Iyer,Male,Endocrinologist,C005,MBBS,27,1166.83
+SP0192,Gaurav,Menon,Male,Psychiatrist,C014,"MBBS, MD",7,1085.52
+SP0193,Mansi,Malhotra,Female,Gynecologist,C018,"MBBS, DPM",9,1095.66
+SP0194,Sanya,Bhatia,Female,Cardiologist,C001,MBBS,20,287.8
+SP0195,Manish,Menon,Male,Orthopedic,C017,MBBS,29,810.29
+SP0196,Mansi,Iyer,Female,Dermatologist,C007,"BDS, MDS",20,569.95
+SP0197,Sanya,Mehta,Female,General Physician,C002,"MD, DNB",13,490.9
+SP0198,Rajat,Khanna,Male,Diabetologist,C003,MBBS,19,299.01
+SP0199,Priyal,Reddy,Female,Gynecologist,C007,MBBS,8,927.08
+SP0200,Nikhil,Verma,Male,Dietitian,C002,"MBBS, MD",11,278.62
+SP0201,Charu,Agarwal,Female,Diabetologist,C012,MBBS,18,462.46
+SP0202,Shweta,Tiwari,Female,Nephrologist,C009,MBBS,29,1036.48
+SP0203,Pooja,Sharma,Female,Diabetologist,C003,"MBBS, MD",20,894.5
+SP0204,Shaurya,Chawla,Male,Pediatrician,C006,MBBS,18,786.7
+SP0205,Shaurya,Kulkarni,Male,Diabetologist,C008,"MD, DNB",15,1092.28
+SP0206,Kavita,Agarwal,Female,Pediatrician,C007,"BDS, MDS",10,613.81
+SP0207,Tanvi,Nair,Female,Nephrologist,C017,MBBS,24,712.51
+SP0208,Manish,Chopra,Male,Dietitian,C018,"BDS, MDS",28,880.49
+SP0209,Charu,Menon,Female,Psychiatrist,C010,"MD, DNB",12,442.96
+SP0210,Rajat,Mehta,Male,Psychiatrist,C002,"MD, DNB",14,889.48
+SP0211,Kabir,Iyer,Male,Nephrologist,C004,"BDS, MDS",6,621.25
+SP0212,Isha,Iyer,Female,Endocrinologist,C002,"MBBS, MD",18,718.98
+SP0213,Amit,Mehta,Male,General Physician,C011,"BDS, MDS",17,470.01
+SP0214,Shweta,Chawla,Female,Psychiatrist,C011,"MBBS, DPM",27,623.76
+SP0215,Sanjay,Iyer,Male,Dermatologist,C007,"MBBS, DPM",7,874.37
+SP0216,Arvind,Rao,Male,ENT Specialist,C017,MBBS,23,1198.17
+SP0217,Rajat,Malhotra,Male,Nephrologist,C001,"MD, DNB",11,502.09
+SP0218,Nikhil,Menon,Male,Gynecologist,C010,"BDS, MDS",30,1084.57
+SP0219,Gaurav,Khanna,Male,Pediatrician,C009,"MBBS, DPM",3,794.39
+SP0220,Gaurav,Kulkarni,Male,General Physician,C016,"MBBS, DPM",29,349.51

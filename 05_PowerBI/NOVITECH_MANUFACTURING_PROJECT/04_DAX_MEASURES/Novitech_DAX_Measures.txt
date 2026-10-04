@@ -1,0 +1,206 @@
+-- ============================================================
+-- NOVITECH MANUFACTURING ANALYTICS
+-- FINAL DAX MEASURES
+-- ============================================================
+
+
+-- ============================================================
+-- 01.MATERIAL ANALYSIS
+-- ============================================================
+
+total product-material dependencies =
+countrows(
+    bridge_bill_of_materials
+)
+
+
+critical materials =
+countrows(
+    filter(
+        values(dim_raw_materials[material_id]),
+        calculate(
+            distinctcount(
+                bridge_bill_of_materials[product_id]
+            )
+        ) > 1
+    )
+)
+
+
+product material dependency =
+countrows(
+    bridge_bill_of_materials
+)
+
+
+materials per product =
+distinctcount(
+    bridge_bill_of_materials[material_id]
+)
+
+
+products using material =
+distinctcount(
+    bridge_bill_of_materials[product_id]
+)
+
+
+-- ============================================================
+-- 02. MASTER DATA
+-- ============================================================
+
+total operators =
+distinctcount(
+    dim_operators[operator_id]
+)
+
+
+total plants =
+distinctcount(
+    dim_plants[plant_id]
+)
+
+
+total product categories =
+distinctcount(
+    dim_products[product_category]
+)
+
+
+total products =
+distinctcount(
+    dim_products[product_id]
+)
+
+
+total raw materials =
+distinctcount(
+    dim_raw_materials[material_id]
+)
+
+
+total material standard cost =
+sum(
+    dim_raw_materials[standard_cost]
+)
+
+
+potential unit margin =
+average(
+    dim_products[target_price]
+)
+-
+average(
+    dim_products[unit_cost]
+)
+
+
+average supplier rating =
+average(
+    dim_suppliers[supplier_rating]
+)
+
+
+avg unit cost =
+average(
+    dim_products[unit_cost]
+)
+
+
+-- ============================================================
+-- 03. PRODUCTION PERFORMANCE
+-- ============================================================
+
+total production =
+sum(
+    fact_production_runs[quantity_produced]
+)
+
+
+total defects =
+sum(
+    fact_production_runs[quantity_defective]
+)
+
+
+defect rate =
+divide(
+    [total defects],
+    [total production],
+    0
+)
+
+
+total downtime (min) =
+sum(
+    fact_production_runs[downtime_minutes]
+)
+
+
+total downtime hours =
+divide(
+    [total downtime (min)],
+    60,
+    0
+)
+
+
+total energy (kwh) =
+sum(
+    fact_production_runs[energy_consumed_kwh]
+)
+
+
+energy per unit =
+divide(
+    [total energy (kwh)],
+    [total production],
+    0
+)
+
+
+estimated defect cost exposure =
+sumx(
+    fact_production_runs,
+    fact_production_runs[quantity_defective]
+        * related(dim_products[unit_cost])
+)
+
+
+-- ============================================================
+-- 04. PROCUREMENT PERFORMANCE
+-- ============================================================
+
+total procurement spend =
+sumx(
+    fact_purchase_orders,
+    fact_purchase_orders[quantity_ordered]
+        * fact_purchase_orders[unit_price]
+)
+
+
+delayed orders =
+calculate(
+    countrows(fact_purchase_orders),
+    fact_purchase_orders[is_delayed] = 1
+)
+
+
+total purchase orders =
+distinctcount(
+    fact_purchase_orders[po_id]
+)
+
+
+delay rate =
+divide(
+    [delayed orders],
+    [total purchase orders],
+    0
+)
+
+
+average lead time =
+average(
+    fact_purchase_orders[lead_time_days]
+)
