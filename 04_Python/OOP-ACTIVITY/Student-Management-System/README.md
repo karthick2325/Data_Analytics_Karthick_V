@@ -53,6 +53,7 @@ python student_management.py
 Student-Management-System/
 │
 ├── student_management.py
+├── Outputs
 └── README.md
 ```
 
